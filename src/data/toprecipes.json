@@ -1,0 +1,402 @@
+[
+  {
+    "title": "Chicken Parmesan",
+    "tags": ["main-course", "italian"]
+  },
+  {
+    "title": "Lasagna",
+    "tags": ["main-course", "italian"]
+  },
+  {
+    "title": "Meatloaf",
+    "tags": ["main-course", "american", "comfort-food"]
+  },
+  {
+    "title": "Chili",
+    "tags": ["main-course", "american", "comfort-food", "soup"]
+  },
+  {
+    "title": "Chicken Alfredo / Fettuccine Alfredo",
+    "tags": ["main-course", "italian"]
+  },
+  {
+    "title": "Spaghetti & Meatballs",
+    "tags": ["main-course", "italian"]
+  },
+  {
+    "title": "Mac and Cheese",
+    "tags": ["main-course", "american", "comfort-food"]
+  },
+  {
+    "title": "Baked Ziti",
+    "tags": ["main-course", "italian"]
+  },
+  {
+    "title": "Chicken Pot Pie",
+    "tags": ["main-course", "american", "comfort-food"]
+  },
+  {
+    "title": "Pot Roast",
+    "tags": ["main-course", "american", "comfort-food"]
+  },
+  {
+    "title": "Pulled Pork",
+    "tags": ["main-course", "american"]
+  },
+  {
+    "title": "BBQ Ribs",
+    "tags": ["main-course", "american"]
+  },
+  {
+    "title": "Beef Stroganoff",
+    "tags": ["main-course", "american"]
+  },
+  {
+    "title": "Chicken Noodle Soup",
+    "tags": ["main-course", "soup", "american", "comfort-food"]
+  },
+  {
+    "title": "Grilled Cheese",
+    "tags": ["main-course", "american", "comfort-food"]
+  },
+  {
+    "title": "Fried Chicken",
+    "tags": ["main-course", "american", "comfort-food"]
+  },
+  {
+    "title": "Chicken Enchiladas",
+    "tags": ["main-course", "mexican"]
+  },
+  {
+    "title": "Tacos",
+    "tags": ["main-course", "mexican"]
+  },
+  {
+    "title": "Hamburgers",
+    "tags": ["main-course", "american"]
+  },
+  {
+    "title": "Spaghetti Carbonara",
+    "tags": ["main-course", "italian"]
+  },
+  {
+    "title": "Shrimp Scampi",
+    "tags": ["main-course", "italian"]
+  },
+  {
+    "title": "Baked Salmon",
+    "tags": ["main-course"]
+  },
+  {
+    "title": "Stuffed Peppers",
+    "tags": ["main-course", "appetizer"]
+  },
+  {
+    "title": "Chicken Marsala",
+    "tags": ["main-course", "italian"]
+  },
+  {
+    "title": "Shepherd's Pie",
+    "tags": ["main-course", "american", "comfort-food"]
+  },
+  {
+    "title": "Beef Stew",
+    "tags": ["main-course", "american", "comfort-food", "soup"]
+  },
+  {
+    "title": "Chicken Fried Steak",
+    "tags": ["main-course", "american", "comfort-food"]
+  },
+  {
+    "title": "Salisbury Steak",
+    "tags": ["main-course", "american", "comfort-food"]
+  },
+  {
+    "title": "Meatballs",
+    "tags": ["main-course", "italian"]
+  },
+  {
+    "title": "Steak (Grilled)",
+    "tags": ["main-course", "american"]
+  },
+  {
+    "title": "Chicken Fajitas",
+    "tags": ["main-course", "mexican"]
+  },
+  {
+    "title": "Shrimp & Grits",
+    "tags": ["main-course", "american", "comfort-food"]
+  },
+  {
+    "title": "Pork Chops",
+    "tags": ["main-course", "american"]
+  },
+  {
+    "title": "Chicken Tortilla Soup",
+    "tags": ["main-course", "soup", "mexican"]
+  },
+  {
+    "title": "French Onion Soup",
+    "tags": ["main-course", "soup"]
+  },
+  {
+    "title": "Pancakes",
+    "tags": ["breakfast", "american"]
+  },
+  {
+    "title": "French Toast",
+    "tags": ["breakfast", "american"]
+  },
+  {
+    "title": "Scrambled Eggs",
+    "tags": ["breakfast"]
+  },
+  {
+    "title": "Omelette",
+    "tags": ["breakfast"]
+  },
+  {
+    "title": "Waffles",
+    "tags": ["breakfast", "american"]
+  },
+  {
+    "title": "Breakfast Casserole",
+    "tags": ["breakfast", "american"]
+  },
+  {
+    "title": "Eggs Benedict",
+    "tags": ["breakfast", "american"]
+  },
+  {
+    "title": "Biscuits & Gravy",
+    "tags": ["breakfast", "american", "comfort-food"]
+  },
+  {
+    "title": "Cinnamon Rolls",
+    "tags": ["breakfast", "dessert", "american"]
+  },
+  {
+    "title": "Quiche",
+    "tags": ["breakfast"]
+  },
+  {
+    "title": "Hash Browns",
+    "tags": ["breakfast", "american", "side-dish"]
+  },
+  {
+    "title": "Breakfast Burrito",
+    "tags": ["breakfast", "mexican"]
+  },
+  {
+    "title": "Smoothie Bowl",
+    "tags": ["breakfast"]
+  },
+  {
+    "title": "Overnight Oats",
+    "tags": ["breakfast"]
+  },
+  {
+    "title": "Avocado Toast",
+    "tags": ["breakfast"]
+  },
+  {
+    "title": "Banana Bread",
+    "tags": ["bread", "american"]
+  },
+  {
+    "title": "Chocolate Chip Cookies",
+    "tags": ["dessert", "american"]
+  },
+  {
+    "title": "Pumpkin Bread",
+    "tags": ["bread", "american"]
+  },
+  {
+    "title": "Cornbread",
+    "tags": ["bread", "american"]
+  },
+  {
+    "title": "Dinner Rolls",
+    "tags": ["bread", "american"]
+  },
+  {
+    "title": "Pizza Dough",
+    "tags": ["bread", "italian"]
+  },
+  {
+    "title": "Biscuits",
+    "tags": ["bread", "american"]
+  },
+  {
+    "title": "Zucchini Bread",
+    "tags": ["bread"]
+  },
+  {
+    "title": "Sourdough Bread",
+    "tags": ["bread"]
+  },
+  {
+    "title": "Shortbread Cookies",
+    "tags": ["dessert"]
+  },
+  {
+    "title": "Chocolate Cake",
+    "tags": ["dessert", "american"]
+  },
+  {
+    "title": "Brownies",
+    "tags": ["dessert", "american", "comfort-food"]
+  },
+  {
+    "title": "Cheesecake",
+    "tags": ["dessert", "american"]
+  },
+  {
+    "title": "Apple Pie",
+    "tags": ["dessert", "american"]
+  },
+  {
+    "title": "Pumpkin Pie",
+    "tags": ["dessert", "american"]
+  },
+  {
+    "title": "Pecan Pie",
+    "tags": ["dessert", "american"]
+  },
+  {
+    "title": "Lemon Bars",
+    "tags": ["dessert", "american"]
+  },
+  {
+    "title": "Carrot Cake",
+    "tags": ["dessert", "american"]
+  },
+  {
+    "title": "Red Velvet Cake",
+    "tags": ["dessert", "american"]
+  },
+  {
+    "title": "Banana Pudding",
+    "tags": ["dessert", "american", "comfort-food"]
+  },
+  {
+    "title": "Peach Cobbler",
+    "tags": ["dessert", "american", "comfort-food"]
+  },
+  {
+    "title": "Key Lime Pie",
+    "tags": ["dessert", "american"]
+  },
+  {
+    "title": "Tiramisu",
+    "tags": ["dessert", "italian"]
+  },
+  {
+    "title": "Ice Cream (Homemade)",
+    "tags": ["dessert", "american"]
+  },
+  {
+    "title": "Chocolate Mousse",
+    "tags": ["dessert"]
+  },
+  {
+    "title": "Peanut Butter Cookies",
+    "tags": ["dessert", "american"]
+  },
+  {
+    "title": "Sugar Cookies",
+    "tags": ["dessert", "american"]
+  },
+  {
+    "title": "Coconut Macaroons",
+    "tags": ["dessert"]
+  },
+  {
+    "title": "Strawberry Shortcake",
+    "tags": ["dessert", "american"]
+  },
+  {
+    "title": "Chocolate Peanut Butter Pie",
+    "tags": ["dessert", "american"]
+  },
+  {
+    "title": "Mashed Potatoes",
+    "tags": ["side-dish", "american", "comfort-food"]
+  },
+  {
+    "title": "Potato Salad",
+    "tags": ["side-dish", "american"]
+  },
+  {
+    "title": "Coleslaw",
+    "tags": ["side-dish", "american"]
+  },
+  {
+    "title": "Roasted Brussels Sprouts",
+    "tags": ["side-dish"]
+  },
+  {
+    "title": "Roasted Potatoes",
+    "tags": ["side-dish"]
+  },
+  {
+    "title": "Sweet Potato Casserole",
+    "tags": ["side-dish", "american", "comfort-food"]
+  },
+  {
+    "title": "Green Bean Casserole",
+    "tags": ["side-dish", "american", "comfort-food"]
+  },
+  {
+    "title": "Caesar Salad",
+    "tags": ["side-dish", "appetizer"]
+  },
+  {
+    "title": "Greek Salad",
+    "tags": ["side-dish", "appetizer"]
+  },
+  {
+    "title": "Broccoli Salad",
+    "tags": ["side-dish"]
+  },
+  {
+    "title": "Guacamole",
+    "tags": ["appetizer", "mexican"]
+  },
+  {
+    "title": "Spinach Artichoke Dip",
+    "tags": ["appetizer"]
+  },
+  {
+    "title": "Deviled Eggs",
+    "tags": ["appetizer", "american"]
+  },
+  {
+    "title": "Buffalo Chicken Dip",
+    "tags": ["appetizer", "american"]
+  },
+  {
+    "title": "Hummus",
+    "tags": ["appetizer"]
+  },
+  {
+    "title": "Salsa",
+    "tags": ["appetizer", "mexican"]
+  },
+  {
+    "title": "Margarita",
+    "tags": ["drink", "mexican"]
+  },
+  {
+    "title": "Old Fashioned",
+    "tags": ["drink"]
+  },
+  {
+    "title": "Smoothie",
+    "tags": ["drink", "breakfast"]
+  },
+  {
+    "title": "Lemonade",
+    "tags": ["drink"]
+  }
+]

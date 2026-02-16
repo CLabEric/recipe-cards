@@ -121,5 +121,156 @@
             "Q: The glaze is too sweet/tangy. A: Adjust the ratio of ketchup, brown sugar, and Worcestershire sauce to your taste preferences."
         ],
         "image": "/images/meatloaf.png"
+    },
+    {
+        "id": "chili",
+        "title": "Chili",
+        "description": "This hearty beef chili simmers low and slow so the onions, peppers, and tomatoes meld until creamy. The recipe yields sixteen cups—perfect for feeding a crowd or freezing extra for later.",
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "servings": "16",
+        "ingredients": [
+            "1 pound ground beef",
+            "1 onion, chopped",
+            "3 cloves garlic, minced",
+            "2 tablespoons tomato paste",
+            "2 tablespoons chili powder",
+            "1 tablespoon ground cumin",
+            "1 teaspoon dried oregano",
+            "1 teaspoon paprika",
+            "1 teaspoon salt",
+            "1/4 teaspoon chipotle chili powder (or more, to taste)",
+            "1 (28 ounce) can crushed tomatoes",
+            "1 (15 ounce) can kidney beans, drained and rinsed"
+        ],
+        "instructions": [
+            "Cook the ground beef in a large pot over medium-high heat until browned and crumbled, 5 to 7 minutes. Drain excess fat.",
+            "Add the onion and cook until soft and translucent, about 5 minutes.",
+            "Add the garlic and cook for 1 minute, until fragrant.",
+            "Stir in the tomato paste and cook for 2 to 3 minutes, until it starts to darken and stick to the pot.",
+            "Add the chili powder, cumin, oregano, paprika, salt, and chipotle chili powder. Stir to coat the beef.",
+            "Pour in the crushed tomatoes and kidney beans. Bring to a simmer.",
+            "Reduce heat to medium-low and let the chili simmer, stirring occasionally, for 45 minutes to 1 1/2 hours, until thickened and flavors have melded.",
+            "Taste and adjust seasonings as needed."
+        ],
+        "variations": [
+            "Use black, pinto, or mixed beans instead of kidney beans.",
+            "Add diced zucchini, squash, carrots, or celery.",
+            "Swap the ground beef for ground turkey, pork, or a mix.",
+            "Increase the chipotle chili powder for more heat."
+        ],
+        "troubleshooting": [
+            "Q: Why is my chili watery? A: Let it simmer longer to allow the flavors to meld and the liquid to reduce.",
+            "Q: My chili is too spicy. A: Reduce the amount of chipotle chili powder next time.",
+            "Q: How can I make my chili thicker? A: Let it simmer longer or add a cornstarch slurry to thicken it."
+        ],
+        "tags": [
+            "main-course",
+            "american",
+            "comfort-food",
+            "soup"
+        ],
+        "image": "/images/chili.png"
+    },
+    {
+        "id": "chicken-alfredo--fettuccine-alfredo",
+        "title": "Chicken Alfredo / Fettuccine Alfredo",
+        "description": "A rich and creamy homemade Alfredo sauce served with tender chicken and fettuccine pasta. This recipe is easy enough for beginner cooks, yet impressive enough for company.",
+        "prepTime": "15 minutes",
+        "cookTime": "15 minutes",
+        "servings": "6",
+        "ingredients": [
+            "12 ounces fettuccine pasta",
+            "1 cup unsalted butter",
+            "1 cup heavy cream",
+            "1 teaspoon salt",
+            "1/2 teaspoon ground black pepper",
+            "1/2 teaspoon garlic salt",
+            "1 cup grated Romano cheese",
+            "1 cup grated Parmesan cheese"
+        ],
+        "instructions": [
+            "Bring a large pot of salted water to a boil. Add the fettuccine and cook according to package instructions until al dente.",
+            "In a large saucepan, melt the butter over medium heat. Whisk in the heavy cream, salt, black pepper, and garlic salt. Simmer for 2-3 minutes, stirring frequently, until the sauce thickens slightly.",
+            "Remove the saucepan from heat and stir in the grated Romano and Parmesan cheeses until smooth and creamy.",
+            "Drain the cooked fettuccine and add it to the Alfredo sauce. Toss to coat the pasta evenly.",
+            "Serve the Fettuccine Alfredo immediately."
+        ],
+        "variations": [
+            "Add cooked, sliced chicken breast",
+            "Mix in sautéed shrimp or Italian sausage",
+            "Top with fresh chopped parsley or basil",
+            "Serve with a side salad or roasted vegetables"
+        ],
+        "troubleshooting": [
+            "Q: Why is my Alfredo sauce too thin?",
+            "A: The sauce may need to simmer a bit longer to thicken up. Alternatively, you can add a tablespoon or two of cornstarch or flour to help thicken it.",
+            "Q: Why is my Alfredo sauce grainy?",
+            "A: This can happen if the cheese is added too quickly or at too high of a heat. Be sure to add the cheese slowly and over low heat, stirring constantly until it's fully melted and incorporated."
+        ],
+        "tags": [
+            "main-course",
+            "italian"
+        ],
+        "image": "/images/chicken-alfredo--fettuccine-alfredo.png"
+    },
+    {
+        "id": "spaghetti--meatballs",
+        "title": "Spaghetti & Meatballs",
+        "description": "This recipe for spaghetti and meatballs delivers a hearty tomato sauce and tender, flavorful meatballs. It's the ultimate comfort food classic.",
+        "prepTime": "45 minutes",
+        "cookTime": "2 hours 30 minutes",
+        "servings": "4-6",
+        "ingredients": [
+            "1 pound ground beef",
+            "1/2 pound ground pork",
+            "1/2 pound ground veal",
+            "1 cup day-old bread, torn into small pieces",
+            "1 cup whole milk",
+            "1/2 cup grated Parmesan",
+            "2 eggs, beaten",
+            "3 garlic cloves, minced",
+            "2 teaspoons dried oregano",
+            "1 teaspoon red pepper flakes",
+            "1 teaspoon kosher salt",
+            "1/2 teaspoon freshly ground black pepper",
+            "3 tablespoons olive oil",
+            "1 onion, diced",
+            "4 garlic cloves, minced",
+            "1/4 cup tomato paste",
+            "1 (28-ounce) can crushed tomatoes",
+            "1 (28-ounce) can whole peeled tomatoes, crushed by hand",
+            "2 bay leaves",
+            "1 teaspoon dried oregano",
+            "1/2 teaspoon red pepper flakes",
+            "1/4 cup roughly chopped fresh basil",
+            "1 pound spaghetti"
+        ],
+        "instructions": [
+            "Make the meatballs: In a large bowl, combine the beef, pork, veal, bread, milk, Parmesan, eggs, garlic, oregano, red pepper flakes, salt, and pepper. Mix gently with your hands until just combined. Do not overmix.",
+            "Using a 1/4-cup measure, scoop the meatball mixture and roll into balls. Place on a rimmed baking sheet.",
+            "Make the sauce: In a large pot, heat the olive oil over medium heat. Add the onion and cook, stirring occasionally, until softened, about 5 minutes. Add the garlic and cook until fragrant, about 1 minute.",
+            "Add the tomato paste and cook, stirring frequently, until darkened in color, about 2 minutes.",
+            "Add the crushed tomatoes, whole peeled tomatoes, bay leaves, oregano, and red pepper flakes. Bring to a simmer and cook, stirring occasionally, until thickened, about 2 hours.",
+            "Add the meatballs to the sauce and continue to simmer until the meatballs are cooked through, about 30 minutes.",
+            "Remove the bay leaves. Stir in the basil.",
+            "Bring a large pot of salted water to a boil. Cook the spaghetti according to package instructions until al dente. Drain and toss with the sauce and meatballs."
+        ],
+        "variations": [
+            "Use all beef or substitute Italian sausage for the pork and/or veal",
+            "Add additional herbs like parsley or thyme",
+            "Serve the meatballs and sauce over other types of pasta, such as linguine or rigatoni"
+        ],
+        "troubleshooting": [
+            "Q: Why are my meatballs tough or dry?",
+            "A: Avoid overmixing the meatball mixture, which can make the texture tough. Also, be careful not to overcook the meatballs.",
+            "Q: My sauce is too thin or watery.",
+            "A: Simmer the sauce longer to allow it to thicken. You can also add a bit of tomato paste to help reduce the moisture."
+        ],
+        "tags": [
+            "main-course",
+            "italian"
+        ],
+        "image": "/images/spaghetti--meatballs.png"
     }
 ]

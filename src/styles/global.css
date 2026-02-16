@@ -1,3 +1,6 @@
+/* Google Fonts Imports */
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Montserrat:wght@400;600&family=Sorts+Mill+Goudy&display=swap');
+
 @import "tailwindcss";
 
 /* New Modern Recipe Aesthetic */
@@ -10,9 +13,6 @@
   --color-light-text: #6B7280; /* Light Gray */
   --color-border: #D1D5DB; /* Light Gray for borders */
 }
-
-/* Google Fonts Imports */
-@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Montserrat:wght@400;600&family=Sorts+Mill+Goudy&display=swap');
 
 /* Font Definitions */
 body {

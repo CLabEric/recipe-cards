@@ -1,0 +1,165 @@
+---
+interface RecipeData {
+    id: string;
+    title: string;
+    description: string;
+    image?: string;
+    prepTime: string;
+    cookTime: string;
+    servings: string;
+    ingredients: string[];
+    instructions: string[];
+    variations?: string[];
+    troubleshooting?: string[];
+}
+
+interface RecipeProps {
+    recipe: RecipeData;
+}
+
+const { recipe } = Astro.props as RecipeProps;
+---
+
+<div class="max-w-4xl mx-auto bg-white p-6 rounded-lg shadow-lg border-2" style="border-color: var(--color-bc-harvest); margin-top: 2rem; margin-bottom: 2rem;">
+	<main>
+		<h1 class="text-4xl font-bold mb-4 border-b-2 pb-2" style="color: var(--color-bc-burnt-orange); border-color: var(--color-bc-avocado);">{recipe.title}</h1>
+		
+		<div class="flow-root">
+			{recipe.image && (
+				<img 
+					src={recipe.image} 
+					alt={recipe.title} 
+					class="md:float-right md:w-1/2 rounded-md md:ml-8 mb-4" 
+				/>
+			)}
+
+			<p class="text-lg mb-6" style="color: var(--color-bc-text);">{recipe.description}</p>
+
+			<div class="flex justify-between items-center text-sm mb-4" style="color: var(--color-bc-brown);">
+				<p><strong>Prep Time:</strong> {recipe.prepTime}</p>
+				<p><strong>Cook Time:</strong> {recipe.cookTime}</p>
+				<div class="flex items-center gap-2">
+					<strong>Serves:</strong>
+					<span id="current-servings" class="w-8 text-center">{recipe.servings}</span>
+					<div class="flex gap-1">
+						<button class="multiplier-btn px-2 py-1 border border-gray-300 rounded-md bg-gray-50 hover:bg-gray-100" data-multiplier="0.5">0.5x</button>
+						<button class="multiplier-btn px-2 py-1 border border-gray-300 rounded-md bg-gray-50 hover:bg-gray-100" data-multiplier="1">1x</button>
+						<button class="multiplier-btn px-2 py-1 border border-gray-300 rounded-md bg-gray-50 hover:bg-gray-100" data-multiplier="2">2x</button>
+					</div>
+				</div>
+			</div>
+
+			<h2 class="text-2xl font-semibold mb-3" style="color: var(--color-bc-avocado);">Ingredients</h2>
+			<ul id="ingredients-list" class="list-disc list-inside mb-6 space-y-1" style="color: var(--color-bc-text);">
+				{recipe.ingredients.map((ingredient: string) => (
+					<li data-original-ingredient={ingredient}></li>
+				))}
+			</ul>
+
+			<h2 class="text-2xl font-semibold mb-3" style="color: var(--color-bc-avocado);">Instructions</h2>
+			<ol class="list-decimal list-inside space-y-2" style="color: var(--color-bc-text);">
+				{recipe.instructions.map((instruction: string) => (
+					<li>{instruction}</li>
+				))}
+			</ol>
+
+			{recipe.variations && recipe.variations.length > 0 && (
+				<>
+					<h2 class="text-2xl font-semibold mb-3" style="color: var(--color-bc-avocado);">Variations</h2>
+					<ul class="list-disc list-inside mb-6 space-y-1" style="color: var(--color-bc-text);">
+						{recipe.variations.map((variation: string) => (
+							<li>{variation}</li>
+						))}
+					</ul>
+				</>
+			)}
+
+			{recipe.troubleshooting && recipe.troubleshooting.length > 0 && (
+				<>
+					<h2 class="text-2xl font-semibold mb-3" style="color: var(--color-bc-avocado);">Troubleshooting</h2>
+					<ul class="list-disc list-inside mb-6 space-y-1" style="color: var(--color-bc-text);">
+						{recipe.troubleshooting.map((tip: string) => (
+							<li>{tip}</li>
+						))}
+					</ul>
+				</>
+			)}
+		</div>
+	</main>
+</div>
+
+<script define:vars={{ initialServings: recipe.servings }}>
+	// Helper function to parse ingredient string
+	function parseIngredient(ingredient) {
+		// This regex looks for an optional fraction (e.g., 1/2) or a number at the start of the string
+		const quantityMatch = ingredient.match(/^(\d+\s*\/\s*\d+|\d*\.?\d+)/);
+		if (quantityMatch) {
+			const quantityStr = quantityMatch[0];
+			const rest = ingredient.substring(quantityStr.length).trim();
+			return {
+				quantity: quantityStr,
+				rest: rest
+			};
+		}
+		// Return the whole string as 'rest' if no number is found
+		return {
+			quantity: null,
+			rest: ingredient
+		};
+	}
+
+	const currentServingsSpan = document.getElementById('current-servings');
+	const multiplierBtns = document.querySelectorAll('.multiplier-btn');
+	const ingredientsList = document.getElementById('ingredients-list');
+	const originalServings = parseFloat(initialServings);
+
+	const parsedIngredients = [];
+	ingredientsList.querySelectorAll('li').forEach(li => {
+		const originalIngredient = li.dataset.originalIngredient;
+		const { quantity, rest } = parseIngredient(originalIngredient);
+		
+		let originalQuantityValue = null;
+		if (quantity) {
+			if (quantity.includes('/')) {
+				const parts = quantity.split('/').map(s => s.trim());
+				originalQuantityValue = parseFloat(parts[0]) / parseFloat(parts[1]);
+			} else {
+				originalQuantityValue = parseFloat(quantity);
+			}
+		}
+		
+		parsedIngredients.push({
+			originalQuantityStr: quantity,
+			originalQuantityValue: originalQuantityValue,
+			rest: rest,
+			element: li // Store a reference to the li element
+		});
+	});
+
+	function updateQuantities(multiplier) {
+		const newServings = originalServings * multiplier;
+		currentServingsSpan.textContent = newServings.toString();
+
+		parsedIngredients.forEach(item => {
+			if (item.originalQuantityValue !== null) {
+				const newQuantity = item.originalQuantityValue * multiplier;
+				// Simple formatting to limit decimal places for display
+				const formattedQuantity = Number(newQuantity.toFixed(2));
+				item.element.textContent = `${formattedQuantity} ${item.rest}`;
+			} else {
+				// If no quantity was parsed, just keep the original text (which is item.rest)
+				item.element.textContent = item.rest;
+			}
+		});
+	}
+
+	multiplierBtns.forEach(button => {
+		button.addEventListener('click', (event) => {
+			const multiplier = parseFloat(event.target.dataset.multiplier);
+			updateQuantities(multiplier);
+		});
+	});
+
+	// Initialize quantities on load to 1x
+	updateQuantities(1);
+</script>

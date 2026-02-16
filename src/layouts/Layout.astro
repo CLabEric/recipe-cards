@@ -1,0 +1,44 @@
+---
+import '../styles/global.css'
+
+interface Props {
+	title: string;
+	description?: string;
+}
+
+const { title, description } = Astro.props;
+const defaultTitle = "RecipeCards";
+const defaultDescription = "Discover delicious recipes.";
+---   
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="icon" href="/favicon.ico" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{title ? title : defaultTitle}</title>
+		<meta name="description" content={description ? description : defaultDescription} />
+	</head>
+	<body class="min-h-screen flex flex-col p-4">
+		<header class="p-4">
+			<div class="container mx-auto flex justify-between items-center">
+				<a href="/" class="text-2xl font-bold transition-colors duration-300" style="color: var(--color-primary);">RecipeCards</a>
+				<!-- <nav>
+					<ul class="flex space-x-4">
+						<li><a href="/" class="transition-colors duration-300" style="color: var(--color-primary);">Home</a></li> -->
+						<!-- Future navigation links can go here -->
+					<!-- </ul>
+				</nav> -->
+			</div>
+		</header>
+		<main class="flex-grow container mx-auto my-8 p-6 bg-white rounded-lg shadow-xl">
+			<slot />
+		</main>
+		<footer class="p-6 text-center">
+			<p>&copy; {new Date().getFullYear()} RecipeCards. All rights reserved.</p>
+		</footer>
+	</body>
+</html>

@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+/* New Modern Recipe Aesthetic */
+:root {
+  --color-primary: #6495ED; /* Cornflower Blue */
+  --color-secondary: #FF6347; /* Tomato */
+  --color-accent: #FFD700; /* Gold */
+  --color-background: #F9F9F9; /* Off-white */
+  --color-text: #333333; /* Dark Gray */
+  --color-light-text: #6B7280; /* Light Gray */
+  --color-border: #D1D5DB; /* Light Gray for borders */
+}
+
+/* Google Fonts Imports */
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Montserrat:wght@400;600&family=Sorts+Mill+Goudy&display=swap');
+
+/* Font Definitions */
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: var(--color-text);
+  background-color: var(--color-background);
+}
+
+h1, h2 {
+  font-family: 'Sorts Mill Goudy', serif;
+  color: var(--color-primary); /* Using primary color for headings */
+}
+
+/* Specific class for display font if needed */
+.font-display-custom {
+    font-family: 'Caprasimo', sans-serif;
+}

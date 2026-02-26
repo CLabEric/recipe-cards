@@ -4,11 +4,15 @@ import '../styles/global.css'
 interface Props {
 	title: string;
 	description?: string;
+	image?: string;
+	canonicalUrl?: string;
 }
 
-const { title, description } = Astro.props;
+const { title, description, image, canonicalUrl } = Astro.props;
 const defaultTitle = "RecipeCards";
 const defaultDescription = "Discover delicious recipes.";
+const resolvedTitle = title ? title : defaultTitle;
+const resolvedDescription = description ? description : defaultDescription;
 ---   
 
 <!doctype html>
@@ -19,8 +23,19 @@ const defaultDescription = "Discover delicious recipes.";
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<link rel="icon" href="/favicon.ico" />
 		<meta name="generator" content={Astro.generator} />
-		<title>{title ? title : defaultTitle}</title>
-		<meta name="description" content={description ? description : defaultDescription} />
+		<title>{resolvedTitle}</title>
+		<meta name="description" content={resolvedDescription} />
+		{canonicalUrl && <link rel="canonical" href={canonicalUrl} />}
+		<meta property="og:type" content="website" />
+		{canonicalUrl && <meta property="og:url" content={canonicalUrl} />}
+		<meta property="og:title" content={resolvedTitle} />
+		<meta property="og:description" content={resolvedDescription} />
+		{image && <meta property="og:image" content={image} />}
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content={resolvedTitle} />
+		<meta name="twitter:description" content={resolvedDescription} />
+		{image && <meta name="twitter:image" content={image} />}
+		<slot name="head" />
 	</head>
 	<body class="min-h-screen flex flex-col">
 		<main class="flex-grow container mx-auto px-4 pt-4 pb-8">

@@ -11,6 +11,7 @@ interface RecipeData {
     instructions: string[];
     variations?: string[];
     troubleshooting?: string[];
+    tags?: string[];
 }
 
 interface RecipeProps {
@@ -20,7 +21,7 @@ interface RecipeProps {
 const { recipe } = Astro.props as RecipeProps;
 ---
 
-<div style="
+<div data-pagefind-body style="
 	max-width: 760px;
 	margin: 0.25rem auto;
 	background-color: var(--color-bc-parchment);
@@ -28,13 +29,21 @@ const { recipe } = Astro.props as RecipeProps;
 	box-shadow: 4px 4px 0 #b8915a, 8px 8px 20px rgba(0,0,0,0.18);
 	padding: 2rem 2.25rem 2rem;
 ">
+	{/* Pagefind metadata */}
+	{recipe.tags && recipe.tags.map((tag: string) => (
+		<meta data-pagefind-filter="tag" content={tag} />
+	))}
+	{recipe.image && (
+		<meta data-pagefind-meta={`image:${recipe.image}`} />
+	)}
+
 	<!-- Brand -->
 	<div style="margin-bottom: 0.75rem; display: flex; justify-content: space-between; align-items: center;">
 		<a href="/" style="font-family: 'Montserrat', sans-serif; font-size: 0.65rem; font-weight: 600; letter-spacing: 0.2em; text-transform: uppercase; color: var(--color-bc-harvest); text-decoration: none;">RecipeCards</a>
 		<button class="no-print" onclick="document.fonts.ready.then(() => window.print())" style="font-family: 'Montserrat', sans-serif; font-size: 0.65rem; font-weight: 600; letter-spacing: 0.2em; text-transform: uppercase; color: var(--color-bc-brown); background: none; border: none; cursor: pointer; padding: 0;">Print</button>
 	</div>
 
-	<h1 style="
+	<h1 data-pagefind-weight="10" style="
 		font-family: 'Sorts Mill Goudy', serif;
 		font-size: 2.4rem;
 		font-weight: bold;
@@ -58,7 +67,7 @@ const { recipe } = Astro.props as RecipeProps;
 			/>
 		)}
 
-		<p style="font-family: 'Sorts Mill Goudy', serif; font-style: italic; color: var(--color-bc-brown); font-size: 0.88rem; line-height: 1.65; margin-bottom: 1rem;">
+		<p data-pagefind-weight="5" style="font-family: 'Sorts Mill Goudy', serif; font-style: italic; color: var(--color-bc-brown); font-size: 0.88rem; line-height: 1.65; margin-bottom: 1rem;">
 			{recipe.description}
 		</p>
 
@@ -99,7 +108,7 @@ const { recipe } = Astro.props as RecipeProps;
 		<h2 style="font-size: 0.65rem; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--color-bc-harvest); margin-bottom: 0.5rem;">Ingredients</h2>
 		<ul id="ingredients-list" style="list-style: none; padding: 0; margin: 0 0 1.75rem; color: var(--color-bc-text); font-size: 0.93rem; line-height: 1.5;">
 			{recipe.ingredients.map((ingredient: string) => (
-				<li data-original-ingredient={ingredient} style="padding: 0.35rem 0; border-bottom: 1px solid #e8d9bb;"></li>
+				<li data-original-ingredient={ingredient} style="padding: 0.35rem 0; border-bottom: 1px solid #e8d9bb;">{ingredient}</li>
 			))}
 		</ul>
 

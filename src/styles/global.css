@@ -39,6 +39,109 @@ h1, h2 {
     font-family: 'Caprasimo', sans-serif;
 }
 
+/* Pagefind search UI theme */
+.pagefind-ui {
+  --pagefind-ui-scale: 0.9;
+  --pagefind-ui-primary: var(--color-bc-harvest);
+  --pagefind-ui-text: var(--color-bc-text);
+  --pagefind-ui-background: var(--color-bc-parchment);
+  --pagefind-ui-border: #c9a96e;
+  --pagefind-ui-tag: var(--color-bc-cream);
+  --pagefind-ui-border-width: 1px;
+  --pagefind-ui-border-radius: 0px;
+  --pagefind-ui-image-border-radius: 0px;
+  --pagefind-ui-image-box-ratio: 1 / 1;
+  --pagefind-ui-font: 'Montserrat', sans-serif;
+}
+
+.pagefind-ui .pagefind-ui__search-input {
+  font-family: 'Montserrat', sans-serif;
+  background-color: var(--color-bc-parchment);
+  border: 1px solid #c9a96e;
+  box-shadow: 2px 2px 0 #b8915a;
+}
+
+.pagefind-ui .pagefind-ui__search-input:focus {
+  outline: 2px solid var(--color-bc-harvest);
+  outline-offset: 1px;
+}
+
+.pagefind-ui .pagefind-ui__result-title {
+  font-family: 'Sorts Mill Goudy', serif;
+}
+
+.pagefind-ui .pagefind-ui__result-link {
+  color: var(--color-bc-text);
+}
+
+.pagefind-ui .pagefind-ui__result-link:hover {
+  color: var(--color-bc-burnt-orange);
+}
+
+.pagefind-ui .pagefind-ui__filter-name {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--color-bc-harvest);
+}
+
+/* Quick tag buttons */
+.quick-tag-btn {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  padding: 0.35rem 0.85rem;
+  border: 1px solid #c9a96e;
+  border-radius: 999px;
+  background-color: var(--color-bc-parchment);
+  color: var(--color-bc-brown);
+  cursor: pointer;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.quick-tag-btn:hover {
+  background-color: var(--color-bc-cream);
+}
+
+.quick-tag-btn--active {
+  background-color: var(--color-bc-harvest);
+  color: white;
+  border-color: var(--color-bc-harvest);
+}
+
+/* Pagination controls */
+.page-btn {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  padding: 0.3rem 0.7rem;
+  border: 1px solid #c9a96e;
+  background-color: var(--color-bc-parchment);
+  color: var(--color-bc-brown);
+  cursor: pointer;
+  transition: background-color 0.15s ease;
+}
+
+.page-btn:hover:not(:disabled) {
+  background-color: var(--color-bc-cream);
+}
+
+.page-btn--active {
+  background-color: var(--color-bc-harvest);
+  color: white;
+  border-color: var(--color-bc-harvest);
+}
+
+.page-btn:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
 @media print {
   @page {
     margin: 1.5cm;
@@ -48,7 +151,8 @@ h1, h2 {
     background-color: white;
   }
 
-  .no-print {
+  .no-print,
+  .pagefind-ui {
     display: none !important;
   }
 }

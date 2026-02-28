@@ -41,8 +41,13 @@ const resolvedDescription = description ? description : defaultDescription;
 		<main class="flex-grow container mx-auto px-4 pt-4 pb-8">
 			<slot />
 		</main>
-		<footer class="p-6 text-center">
+		<footer class="p-6 text-center" style="font-family: 'Montserrat', sans-serif; font-size: 0.75rem; color: var(--color-bc-brown);">
 			<p>&copy; {new Date().getFullYear()} RecipeCards. All rights reserved.</p>
+			<p style="margin-top: 0.5rem;">
+				<a href="/about" style="color: var(--color-bc-harvest); text-decoration: none;">About</a>
+				<span style="margin: 0 0.5rem; color: var(--color-bc-harvest);">&middot;</span>
+				<a href="/privacy" style="color: var(--color-bc-harvest); text-decoration: none;">Privacy Policy</a>
+			</p>
 		</footer>
 	</body>
 </html>

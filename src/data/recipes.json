@@ -38,7 +38,8 @@
             "Q: How do I keep the breading from falling off? A: Ensure the chicken is thoroughly coated in the egg wash and panko-Parmesan mixture, and press the breading firmly onto the chicken before frying."
         ],
         "image": "/images/chicken-parmesan.png",
-        "tags": ["main-course", "italian", "comfort-food"]
+        "tags": ["main-course", "italian", "comfort-food"],
+        "featured": true
     },
     {
         "id": "lasagna",
@@ -83,7 +84,8 @@
             "Q: My noodles are stuck together! A: Be sure to boil the noodles until just tender, not fully cooked. Also, toss the cooked noodles with a bit of olive oil to prevent sticking."
         ],
         "image": "/images/lasagna.png",
-        "tags": ["main-course", "italian", "comfort-food"]
+        "tags": ["main-course", "italian", "comfort-food"],
+        "featured": true
     },
     {
         "id": "meatloaf",
@@ -123,7 +125,8 @@
             "Q: The glaze is too sweet/tangy. A: Adjust the ratio of ketchup, brown sugar, and Worcestershire sauce to your taste preferences."
         ],
         "image": "/images/meatloaf.png",
-        "tags": ["main-course", "american", "comfort-food"]
+        "tags": ["main-course", "american", "comfort-food"],
+        "featured": true
     },
     {
         "id": "chili",
@@ -173,7 +176,8 @@
             "comfort-food",
             "soup"
         ],
-        "image": "/images/chili.png"
+        "image": "/images/chili.png",
+        "featured": true
     },
     {
         "id": "chicken-alfredo--fettuccine-alfredo",
@@ -215,7 +219,8 @@
             "main-course",
             "italian"
         ],
-        "image": "/images/chicken-alfredo--fettuccine-alfredo.png"
+        "image": "/images/chicken-alfredo--fettuccine-alfredo.png",
+        "featured": true
     },
     {
         "id": "spaghetti--meatballs",
@@ -274,6 +279,7 @@
             "main-course",
             "italian"
         ],
-        "image": "/images/spaghetti--meatballs.png"
+        "image": "/images/spaghetti--meatballs.png",
+        "featured": true
     }
 ]

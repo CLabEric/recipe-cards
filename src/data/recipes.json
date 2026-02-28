@@ -272,5 +272,58 @@
             "italian"
         ],
         "image": "/images/spaghetti--meatballs.png"
+    },
+    {
+        "id": "mac-and-cheese",
+        "title": "Mac and Cheese",
+        "description": "A classic, creamy, and cheesy homemade macaroni and cheese dish that can be customized with various cheese varieties and mix-ins.",
+        "prepTime": "20 minutes",
+        "cookTime": "40 minutes",
+        "servings": "6-8",
+        "ingredients": [
+            "1 pound elbow macaroni or cavatappi pasta",
+            "4 tablespoons unsalted butter",
+            "4 tablespoons all-purpose flour",
+            "3 cups whole milk",
+            "2 cups shredded sharp cheddar cheese",
+            "1 cup shredded Gruyère cheese",
+            "1/2 cup grated Parmesan cheese",
+            "1 teaspoon dry mustard powder",
+            "1/4 teaspoon cayenne pepper (optional)",
+            "1 teaspoon kosher salt",
+            "1/2 teaspoon black pepper",
+            "1 cup panko breadcrumbs"
+        ],
+        "instructions": [
+            "Preheat the oven to 375°F.",
+            "Bring a large pot of salted water to a boil. Cook the pasta 2 minutes less than the package instructions for al dente. Drain and set aside.",
+            "In a large saucepan, melt the butter over medium heat. Whisk in the flour and cook for 2 minutes. Gradually whisk in the milk and cook until thickened, about 5 minutes.",
+            "Remove from heat and stir in the cheddar, Gruyère, Parmesan, mustard powder, cayenne (if using), salt, and pepper until the cheese is melted and the sauce is smooth.",
+            "Add the cooked pasta to the cheese sauce and stir to combine.",
+            "Transfer the mac and cheese to a 9x13-inch baking dish. Top with the panko breadcrumbs.",
+            "Bake for 25-30 minutes, until the top is golden brown and crispy. Serve hot."
+        ],
+        "variations": [
+            "Add cooked bacon or ham pieces.",
+            "Mix in steamed broccoli or spinach.",
+            "Top with a crispy breadcrumb and Parmesan topping.",
+            "Use a blend of different cheeses, such as fontina, monterey jack, or provolone."
+        ],
+        "troubleshooting": [
+            "Q: Why is my cheese sauce grainy? A: The heat was likely too high when adding the cheese; remove the pan from heat before adding the cheese to prevent it from seizing up.",
+            "Q: How can I make my mac and cheese creamier? A: Use a combination of different cheeses, and make sure to undercook the pasta slightly so it can absorb more of the cheese sauce.",
+            "Q: My mac and cheese is dry after reheating. A: Add a splash of milk or cream when reheating to help rehydrate the pasta and cheese sauce."
+        ],
+        "sources": [
+            "https://food52.com/story/11351-how-to-make-macaroni-and-cheese-without-a-recipe",
+            "https://www.delish.com/cooking/recipe-ideas/a44763401/homemade-mac-and-cheese-recipe/",
+            "https://food52.com/story/26795-best-mac-and-cheese-recipes"
+        ],
+        "tags": [
+            "main-course",
+            "american",
+            "comfort-food"
+        ],
+        "image": "/images/mac-and-cheese.png"
     }
 ]

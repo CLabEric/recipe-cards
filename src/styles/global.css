@@ -3,15 +3,23 @@
 
 @import "tailwindcss";
 
-/* New Modern Recipe Aesthetic */
 :root {
-  --color-primary: #6495ED; /* Cornflower Blue */
-  --color-secondary: #FF6347; /* Tomato */
-  --color-accent: #FFD700; /* Gold */
-  --color-background: #F9F9F9; /* Off-white */
-  --color-text: #333333; /* Dark Gray */
-  --color-light-text: #6B7280; /* Light Gray */
-  --color-border: #D1D5DB; /* Light Gray for borders */
+  --color-primary: #6495ED;
+  --color-secondary: #FF6347;
+  --color-accent: #FFD700;
+  --color-background: #F5ECD7;
+  --color-text: #333333;
+  --color-light-text: #6B7280;
+  --color-border: #D1D5DB;
+
+  /* Vintage recipe card palette */
+  --color-bc-burnt-orange: #8B2500;
+  --color-bc-harvest: #C8923A;
+  --color-bc-avocado: #5B7A2C;
+  --color-bc-brown: #7A5230;
+  --color-bc-text: #3D2A14;
+  --color-bc-parchment: #FDF6E3;
+  --color-bc-cream: #F5E6C8;
 }
 
 /* Font Definitions */
@@ -29,4 +37,122 @@ h1, h2 {
 /* Specific class for display font if needed */
 .font-display-custom {
     font-family: 'Caprasimo', sans-serif;
+}
+
+/* Pagefind search UI theme */
+.pagefind-ui {
+  --pagefind-ui-scale: 0.9;
+  --pagefind-ui-primary: var(--color-bc-harvest);
+  --pagefind-ui-text: var(--color-bc-text);
+  --pagefind-ui-background: var(--color-bc-parchment);
+  --pagefind-ui-border: #c9a96e;
+  --pagefind-ui-tag: var(--color-bc-cream);
+  --pagefind-ui-border-width: 1px;
+  --pagefind-ui-border-radius: 0px;
+  --pagefind-ui-image-border-radius: 0px;
+  --pagefind-ui-image-box-ratio: 1 / 1;
+  --pagefind-ui-font: 'Montserrat', sans-serif;
+}
+
+.pagefind-ui .pagefind-ui__search-input {
+  font-family: 'Montserrat', sans-serif;
+  background-color: var(--color-bc-parchment);
+  border: 1px solid #c9a96e;
+  box-shadow: 2px 2px 0 #b8915a;
+}
+
+.pagefind-ui .pagefind-ui__search-input:focus {
+  outline: 2px solid var(--color-bc-harvest);
+  outline-offset: 1px;
+}
+
+.pagefind-ui .pagefind-ui__result-title {
+  font-family: 'Sorts Mill Goudy', serif;
+}
+
+.pagefind-ui .pagefind-ui__result-link {
+  color: var(--color-bc-text);
+}
+
+.pagefind-ui .pagefind-ui__result-link:hover {
+  color: var(--color-bc-burnt-orange);
+}
+
+.pagefind-ui .pagefind-ui__filter-name {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--color-bc-harvest);
+}
+
+/* Quick tag buttons */
+.quick-tag-btn {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  padding: 0.35rem 0.85rem;
+  border: 1px solid #c9a96e;
+  border-radius: 999px;
+  background-color: var(--color-bc-parchment);
+  color: var(--color-bc-brown);
+  cursor: pointer;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.quick-tag-btn:hover {
+  background-color: var(--color-bc-cream);
+}
+
+.quick-tag-btn--active {
+  background-color: var(--color-bc-harvest);
+  color: white;
+  border-color: var(--color-bc-harvest);
+}
+
+/* Pagination controls */
+.page-btn {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  padding: 0.3rem 0.7rem;
+  border: 1px solid #c9a96e;
+  background-color: var(--color-bc-parchment);
+  color: var(--color-bc-brown);
+  cursor: pointer;
+  transition: background-color 0.15s ease;
+}
+
+.page-btn:hover:not(:disabled) {
+  background-color: var(--color-bc-cream);
+}
+
+.page-btn--active {
+  background-color: var(--color-bc-harvest);
+  color: white;
+  border-color: var(--color-bc-harvest);
+}
+
+.page-btn:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+@media print {
+  @page {
+    margin: 1.5cm;
+  }
+
+  body {
+    background-color: white;
+  }
+
+  .no-print,
+  .pagefind-ui {
+    display: none !important;
+  }
 }

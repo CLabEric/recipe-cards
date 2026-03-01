@@ -11,6 +11,7 @@ interface RecipeData {
     instructions: string[];
     variations?: string[];
     troubleshooting?: string[];
+    tags?: string[];
 }
 
 interface RecipeProps {
@@ -20,104 +21,175 @@ interface RecipeProps {
 const { recipe } = Astro.props as RecipeProps;
 ---
 
-<div class="max-w-4xl mx-auto bg-white p-6 rounded-lg shadow-lg border-2" style="border-color: var(--color-bc-harvest); margin-top: 2rem; margin-bottom: 2rem;">
-	<main>
-		<h1 class="text-4xl font-bold mb-4 border-b-2 pb-2" style="color: var(--color-bc-burnt-orange); border-color: var(--color-bc-avocado);">{recipe.title}</h1>
-		
-		<div class="flow-root">
-			{recipe.image && (
-				<img 
-					src={recipe.image} 
-					alt={recipe.title} 
-					class="md:float-right md:w-1/2 rounded-md md:ml-8 mb-4" 
-				/>
-			)}
+<div data-pagefind-body style="
+	max-width: 760px;
+	margin: 0.25rem auto;
+	background-color: var(--color-bc-parchment);
+	border: 1px solid #c9a96e;
+	box-shadow: 4px 4px 0 #b8915a, 8px 8px 20px rgba(0,0,0,0.18);
+	padding: 2rem 2.25rem 2rem;
+">
+	{/* Pagefind metadata */}
+	{recipe.tags && recipe.tags.map((tag: string) => (
+		<meta data-pagefind-filter="tag" content={tag} />
+	))}
+	{recipe.image && (
+		<meta data-pagefind-meta={`image:${recipe.image}`} />
+	)}
+	{/* Hidden tag text so Pagefind text search can find recipes by tag */}
+	{recipe.tags && recipe.tags.length > 0 && (
+		<span style="display:none">{recipe.tags.map((t: string) => t.replace(/-/g, ' ')).join(' ')}</span>
+	)}
 
-			<p class="text-lg mb-6" style="color: var(--color-bc-text);">{recipe.description}</p>
+	<!-- Brand -->
+	<div style="margin-bottom: 0.75rem; display: flex; justify-content: space-between; align-items: center;">
+		<a href="/" style="font-family: 'Montserrat', sans-serif; font-size: 0.65rem; font-weight: 600; letter-spacing: 0.2em; text-transform: uppercase; color: var(--color-bc-harvest); text-decoration: none;">RecipeCards</a>
+		<button class="no-print" onclick="document.fonts.ready.then(() => window.print())" style="font-family: 'Montserrat', sans-serif; font-size: 0.65rem; font-weight: 600; letter-spacing: 0.2em; text-transform: uppercase; color: var(--color-bc-brown); background: none; border: none; cursor: pointer; padding: 0;">Print</button>
+	</div>
 
-			<div class="flex justify-between items-center text-sm mb-4" style="color: var(--color-bc-brown);">
-				<p><strong>Prep Time:</strong> {recipe.prepTime}</p>
-				<p><strong>Cook Time:</strong> {recipe.cookTime}</p>
-				<div class="flex items-center gap-2">
-					<strong>Serves:</strong>
-					<span id="current-servings" class="w-8 text-center">{recipe.servings}</span>
-					<div class="flex gap-1">
-						<button class="multiplier-btn px-2 py-1 border border-gray-300 rounded-md bg-gray-50 hover:bg-gray-100" data-multiplier="0.5">0.5x</button>
-						<button class="multiplier-btn px-2 py-1 border border-gray-300 rounded-md bg-gray-50 hover:bg-gray-100" data-multiplier="1">1x</button>
-						<button class="multiplier-btn px-2 py-1 border border-gray-300 rounded-md bg-gray-50 hover:bg-gray-100" data-multiplier="2">2x</button>
-					</div>
-				</div>
+	<h1 data-pagefind-weight="10" style="
+		font-family: 'Sorts Mill Goudy', serif;
+		font-size: 2.4rem;
+		font-weight: bold;
+		color: var(--color-bc-text);
+		text-transform: uppercase;
+		letter-spacing: 0.05em;
+		line-height: 1.1;
+		margin: 0 0 0.75rem;
+	">{recipe.title}</h1>
+
+	<div style="height: 3px; background: var(--color-bc-harvest); margin-bottom: 1.5rem;"></div>
+
+	<div class="flow-root">
+		{/* Desktop: float right */}
+		{recipe.image && (
+			<img
+				src={recipe.image}
+				alt={recipe.title}
+				class="hidden md:block md:float-right md:w-5/12 md:ml-6 mb-4"
+				style="box-shadow: 2px 2px 8px rgba(0,0,0,0.2);"
+			/>
+		)}
+
+		<p data-pagefind-weight="5" style="font-family: 'Sorts Mill Goudy', serif; font-style: italic; color: var(--color-bc-brown); font-size: 0.88rem; line-height: 1.65; margin-bottom: 1rem;">
+			{recipe.description}
+		</p>
+
+		<div style="
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
+			gap: 0.6rem 1rem;
+			align-items: center;
+			font-size: 0.7rem;
+			letter-spacing: 0.1em;
+			text-transform: uppercase;
+			color: var(--color-bc-brown);
+			border-top: 1px solid #c9a96e;
+			border-bottom: 1px solid #c9a96e;
+			padding: 0.6rem 0;
+			margin-bottom: 1.75rem;
+		">
+			<span><strong>Prep</strong>&nbsp; {recipe.prepTime}</span>
+			<span style="color: #c9a96e;">·</span>
+			<span><strong>Cook</strong>&nbsp; {recipe.cookTime}</span>
+			<span style="color: #c9a96e;">·</span>
+			<!-- Unit toggle -->
+			<div class="no-print" style="display: flex; align-items: center; gap: 0.2rem;">
+				<button id="unit-standard" style="height: 18px; line-height: 16px; padding: 0 6px; border: 1px solid var(--color-bc-harvest); background: var(--color-bc-harvest); color: #fff; cursor: pointer; letter-spacing: 0.06em;">Standard</button>
+				<button id="unit-metric" style="height: 18px; line-height: 16px; padding: 0 6px; border: 1px solid #c9a96e; background: transparent; color: var(--color-bc-brown); cursor: pointer; letter-spacing: 0.06em;">Metric</button>
 			</div>
-
-			<h2 class="text-2xl font-semibold mb-3" style="color: var(--color-bc-avocado);">Ingredients</h2>
-			<ul id="ingredients-list" class="list-disc list-inside mb-6 space-y-1" style="color: var(--color-bc-text);">
-				{recipe.ingredients.map((ingredient: string) => (
-					<li data-original-ingredient={ingredient}></li>
-				))}
-			</ul>
-
-			<h2 class="text-2xl font-semibold mb-3" style="color: var(--color-bc-avocado);">Instructions</h2>
-			<ol class="list-decimal list-inside space-y-2" style="color: var(--color-bc-text);">
-				{recipe.instructions.map((instruction: string) => (
-					<li>{instruction}</li>
-				))}
-			</ol>
-
-			{recipe.variations && recipe.variations.length > 0 && (
-				<>
-					<h2 class="text-2xl font-semibold mb-3" style="color: var(--color-bc-avocado);">Variations</h2>
-					<ul class="list-disc list-inside mb-6 space-y-1" style="color: var(--color-bc-text);">
-						{recipe.variations.map((variation: string) => (
-							<li>{variation}</li>
-						))}
-					</ul>
-				</>
-			)}
-
-			{recipe.troubleshooting && recipe.troubleshooting.length > 0 && (
-				<>
-					<h2 class="text-2xl font-semibold mb-3" style="color: var(--color-bc-avocado);">Troubleshooting</h2>
-					<ul class="list-disc list-inside mb-6 space-y-1" style="color: var(--color-bc-text);">
-						{recipe.troubleshooting.map((tip: string) => (
-							<li>{tip}</li>
-						))}
-					</ul>
-				</>
-			)}
+			<span class="no-print" style="color: #c9a96e;">·</span>
+			<!-- Serving multiplier -->
+			<span style="display: flex; align-items: center; gap: 0.35rem;"><strong>Serves</strong> <span id="current-servings">{recipe.servings}</span></span>
+			<div class="no-print" style="display: flex; align-items: center; gap: 0.2rem;">
+				<button class="multiplier-btn" data-multiplier="0.5" style="height: 18px; line-height: 16px; padding: 0 5px; border: 1px solid #c9a96e; background: transparent; color: var(--color-bc-brown); cursor: pointer; letter-spacing: 0.05em;">½x</button>
+				<button class="multiplier-btn" data-multiplier="1" style="height: 18px; line-height: 16px; padding: 0 5px; border: 1px solid var(--color-bc-harvest); background: var(--color-bc-harvest); color: #fff; cursor: pointer; letter-spacing: 0.05em;">1x</button>
+				<button class="multiplier-btn" data-multiplier="2" style="height: 18px; line-height: 16px; padding: 0 5px; border: 1px solid #c9a96e; background: transparent; color: var(--color-bc-brown); cursor: pointer; letter-spacing: 0.05em;">2x</button>
+			</div>
 		</div>
-	</main>
+
+		<h2 style="font-size: 0.65rem; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--color-bc-harvest); margin-bottom: 0.5rem;">Ingredients</h2>
+		<ul id="ingredients-list" style="list-style: none; padding: 0; margin: 0 0 1.75rem; color: var(--color-bc-text); font-size: 0.93rem; line-height: 1.5;">
+			{recipe.ingredients.map((ingredient: string) => (
+				<li data-original-ingredient={ingredient} style="padding: 0.35rem 0; border-bottom: 1px solid #e8d9bb;">{ingredient}</li>
+			))}
+		</ul>
+
+		<h2 style="font-size: 0.65rem; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--color-bc-harvest); margin-bottom: 0.5rem;">Instructions</h2>
+		<ol id="instructions-list" style="list-style: none; padding: 0; margin: 0 0 1.75rem; color: var(--color-bc-text); font-size: 0.93rem; line-height: 1.8;">
+			{recipe.instructions.map((instruction: string, i: number) => (
+				<li data-original-instruction={instruction} style="padding: 0.35rem 0; border-bottom: 1px solid #e8d9bb; display: flex; gap: 0.75rem; align-items: baseline;">
+					<span style="flex-shrink: 0; font-family: 'Sorts Mill Goudy', serif; font-weight: 700; color: var(--color-bc-harvest); font-size: 1rem; min-width: 1.25rem;">{i + 1}.</span>
+					<span>{instruction}</span>
+				</li>
+			))}
+		</ol>
+
+		{recipe.variations && recipe.variations.length > 0 && (
+			<>
+				<h2 style="font-size: 0.65rem; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--color-bc-harvest); margin-bottom: 0.5rem; margin-top: 1.5rem;">Variations</h2>
+				<ul style="list-style: none; padding: 0; margin: 0 0 1.75rem; color: var(--color-bc-text); font-size: 0.93rem; line-height: 1.5;">
+					{recipe.variations.map((variation: string) => (
+						<li style="padding: 0.35rem 0; border-bottom: 1px solid #e8d9bb;">{variation}</li>
+					))}
+				</ul>
+			</>
+		)}
+
+		{recipe.troubleshooting && recipe.troubleshooting.length > 0 && (
+			<>
+				<h2 style="font-size: 0.65rem; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--color-bc-harvest); margin-bottom: 0.5rem; margin-top: 1.5rem;">Troubleshooting</h2>
+				<ul style="list-style: none; padding: 0; margin: 0 0 1rem; color: var(--color-bc-text); font-size: 0.93rem; line-height: 1.5;">
+					{recipe.troubleshooting.map((tip: string) => {
+						const m = tip.match(/^Q:\s*(.*?)\s+A:\s*(.*)/i);
+						return (
+							<li style="padding: 0.35rem 0; border-bottom: 1px solid #e8d9bb;">
+								{m ? (
+									<>
+										<span style="display: block; font-weight: 600;">{m[1]}</span>
+										<span style="display: block;">{m[2]}</span>
+									</>
+								) : tip}
+							</li>
+						);
+					})}
+				</ul>
+			</>
+		)}
+
+		{/* Mobile: image at bottom */}
+		{recipe.image && (
+			<img
+				src={recipe.image}
+				alt={recipe.title}
+				class="md:hidden w-full mt-4 no-print"
+				style="box-shadow: 2px 2px 8px rgba(0,0,0,0.2);"
+			/>
+		)}
+	</div>
 </div>
 
-<script define:vars={{ initialServings: recipe.servings }}>
-	// Helper function to parse ingredient string
-	function parseIngredient(ingredient) {
-		// This regex looks for an optional fraction (e.g., 1/2) or a number at the start of the string
-		const quantityMatch = ingredient.match(/^(\d+\s*\/\s*\d+|\d*\.?\d+)/);
-		if (quantityMatch) {
-			const quantityStr = quantityMatch[0];
-			const rest = ingredient.substring(quantityStr.length).trim();
-			return {
-				quantity: quantityStr,
-				rest: rest
-			};
-		}
-		// Return the whole string as 'rest' if no number is found
-		return {
-			quantity: null,
-			rest: ingredient
-		};
-	}
-
-	const currentServingsSpan = document.getElementById('current-servings');
-	const multiplierBtns = document.querySelectorAll('.multiplier-btn');
-	const ingredientsList = document.getElementById('ingredients-list');
+<script define:vars={{ initialServings: recipe.servings }} is:inline>
+	// --- State ---
+	let currentMultiplier = 1;
+	let currentUnit = 'standard';
 	const originalServings = parseFloat(initialServings);
 
+	// --- Ingredient parsing ---
+	function parseIngredient(ingredient) {
+		const match = ingredient.match(/^(\d+\s*\/\s*\d+|\d*\.?\d+)/);
+		if (match) {
+			const qty = match[0];
+			return { quantity: qty, rest: ingredient.substring(qty.length).trim() };
+		}
+		return { quantity: null, rest: ingredient };
+	}
+
+	const ingredientsList = document.getElementById('ingredients-list');
 	const parsedIngredients = [];
 	ingredientsList.querySelectorAll('li').forEach(li => {
-		const originalIngredient = li.dataset.originalIngredient;
-		const { quantity, rest } = parseIngredient(originalIngredient);
-		
+		const { quantity, rest } = parseIngredient(li.dataset.originalIngredient);
 		let originalQuantityValue = null;
 		if (quantity) {
 			if (quantity.includes('/')) {
@@ -127,39 +199,119 @@ const { recipe } = Astro.props as RecipeProps;
 				originalQuantityValue = parseFloat(quantity);
 			}
 		}
-		
-		parsedIngredients.push({
-			originalQuantityStr: quantity,
-			originalQuantityValue: originalQuantityValue,
-			rest: rest,
-			element: li // Store a reference to the li element
-		});
+		parsedIngredients.push({ originalQuantityValue, rest, element: li });
 	});
 
-	function updateQuantities(multiplier) {
-		const newServings = originalServings * multiplier;
-		currentServingsSpan.textContent = newServings.toString();
+	// --- Metric conversion ---
+	const AMT = '(\\d+\\s+\\d+\\/\\d+|\\d+\\/\\d+|\\d*\\.?\\d+)';
+
+	function parseAmt(s) {
+		s = s.trim();
+		const mixed = s.match(/^(\d+)\s+(\d+)\/(\d+)$/);
+		if (mixed) return +mixed[1] + +mixed[2] / +mixed[3];
+		const frac = s.match(/^(\d+)\/(\d+)$/);
+		if (frac) return +frac[1] / +frac[2];
+		return parseFloat(s);
+	}
+
+	function fmtVol(ml) {
+		return ml >= 1000 ? `${+(ml / 1000).toFixed(2)} L` : `${Math.round(ml)} ml`;
+	}
+
+	function fmtWt(g) {
+		return g >= 1000 ? `${+(g / 1000).toFixed(2)} kg` : `${Math.round(g)} g`;
+	}
+
+	function toMetric(text) {
+		// Parenthetical oz: (28 oz), (16 ounce), (28-ounce)
+		text = text.replace(/\((\d+\.?\d*)\s*-?\s*(?:oz|ounces?)\)/gi, (_, n) => `(${fmtWt(+n * 28.35)})`);
+		// Temperature
+		text = text.replace(/(\d+)\s*°\s*F\b/g, (_, n) => `${Math.round((+n - 32) * 5 / 9)}°C`);
+		// Cups
+		text = text.replace(new RegExp(AMT + '\\s*cups?', 'gi'), (_, n) => fmtVol(parseAmt(n) * 240));
+		// Tablespoons
+		text = text.replace(new RegExp(AMT + '\\s*(?:tablespoons?|tbsp\\.?)', 'gi'), (_, n) => fmtVol(parseAmt(n) * 15));
+		// Teaspoons
+		text = text.replace(new RegExp(AMT + '\\s*(?:teaspoons?|tsp\\.?)', 'gi'), (_, n) => fmtVol(parseAmt(n) * 5));
+		// Pounds
+		text = text.replace(new RegExp(AMT + '\\s*(?:pounds?|lbs?\\.?)\\b', 'gi'), (_, n) => fmtWt(parseAmt(n) * 453.6));
+		// Ounces (standalone, non-parenthetical)
+		text = text.replace(new RegExp(AMT + '\\s*(?:ounces?|oz)\\b', 'gi'), (_, n) => fmtWt(parseAmt(n) * 28.35));
+		return text;
+	}
+
+	// --- Unified display update ---
+	const currentServingsSpan = document.getElementById('current-servings');
+	const instructionItems = document.querySelectorAll('#instructions-list li');
+
+	function updateDisplay() {
+		currentServingsSpan.textContent = (originalServings * currentMultiplier).toString();
 
 		parsedIngredients.forEach(item => {
+			let text;
 			if (item.originalQuantityValue !== null) {
-				const newQuantity = item.originalQuantityValue * multiplier;
-				// Simple formatting to limit decimal places for display
-				const formattedQuantity = Number(newQuantity.toFixed(2));
-				item.element.textContent = `${formattedQuantity} ${item.rest}`;
+				const q = Number((item.originalQuantityValue * currentMultiplier).toFixed(2));
+				text = `${q} ${item.rest}`;
 			} else {
-				// If no quantity was parsed, just keep the original text (which is item.rest)
-				item.element.textContent = item.rest;
+				text = item.rest;
 			}
+			item.element.textContent = currentUnit === 'metric' ? toMetric(text) : text;
+		});
+
+		instructionItems.forEach(li => {
+			const orig = li.dataset.originalInstruction;
+			const textSpan = li.querySelector('span:last-child');
+			(textSpan || li).textContent = currentUnit === 'metric' ? toMetric(orig) : orig;
 		});
 	}
 
-	multiplierBtns.forEach(button => {
-		button.addEventListener('click', (event) => {
-			const multiplier = parseFloat(event.target.dataset.multiplier);
-			updateQuantities(multiplier);
+	// --- Button style helpers ---
+	const multiplierBtns = document.querySelectorAll('.multiplier-btn');
+
+	function setActiveMultiplier(activeBtn) {
+		multiplierBtns.forEach(btn => {
+			const isActive = btn === activeBtn;
+			btn.style.background = isActive ? 'var(--color-bc-harvest)' : 'transparent';
+			btn.style.color = isActive ? '#fff' : 'var(--color-bc-brown)';
+			btn.style.borderColor = isActive ? 'var(--color-bc-harvest)' : '#c9a96e';
+		});
+	}
+
+	function setActiveUnit(unit) {
+		const stdBtn = document.getElementById('unit-standard');
+		const metBtn = document.getElementById('unit-metric');
+		[stdBtn, metBtn].forEach(btn => {
+			const isActive = (btn.id === 'unit-standard' && unit === 'standard') ||
+			                 (btn.id === 'unit-metric'   && unit === 'metric');
+			btn.style.background   = isActive ? 'var(--color-bc-harvest)' : 'transparent';
+			btn.style.color        = isActive ? '#fff' : 'var(--color-bc-brown)';
+			btn.style.borderColor  = isActive ? 'var(--color-bc-harvest)' : '#c9a96e';
+		});
+	}
+
+	// --- Event listeners ---
+	multiplierBtns.forEach(btn => {
+		btn.addEventListener('click', e => {
+			currentMultiplier = parseFloat(e.target.dataset.multiplier);
+			setActiveMultiplier(e.target);
+			updateDisplay();
 		});
 	});
 
-	// Initialize quantities on load to 1x
-	updateQuantities(1);
+	document.getElementById('unit-standard').addEventListener('click', () => {
+		currentUnit = 'standard';
+		setActiveUnit('standard');
+		updateDisplay();
+	});
+
+	document.getElementById('unit-metric').addEventListener('click', () => {
+		currentUnit = 'metric';
+		setActiveUnit('metric');
+		updateDisplay();
+	});
+
+	// --- Initialize ---
+	setActiveMultiplier([...multiplierBtns].find(b => b.dataset.multiplier === '1'));
+	setActiveUnit('standard');
+	updateDisplay();
 </script>

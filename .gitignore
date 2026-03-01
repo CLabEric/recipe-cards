@@ -33,3 +33,8 @@ __db/
 .env.development.local
 .env.test.local
 .env.production.local
+
+#other
+notes.txt
+expired_english_domains.csv
+scrape-domains.js

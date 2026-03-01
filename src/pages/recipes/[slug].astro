@@ -11,9 +11,66 @@ export async function getStaticPaths() {
 }
 
 const { recipe } = Astro.props;
+
+const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const canonicalUrl = `${siteUrl}/recipes/${recipe.id}`;
+const imageUrl = recipe.image ? `${siteUrl}${recipe.image}` : undefined;
+
+function toISO8601Duration(str: string): string | undefined {
+  if (!str) return undefined;
+  const cleaned = str.toLowerCase().replace(/\+.*$/, '').trim();
+  const hours = cleaned.match(/(\d+)\s*hour/)?.[1];
+  const minutes = cleaned.match(/(\d+)\s*min/)?.[1];
+  if (!hours && !minutes) return undefined;
+  return `PT${hours ? hours + 'H' : ''}${minutes ? minutes + 'M' : ''}`;
+}
+
+function sumDurations(a: string | undefined, b: string | undefined): string | undefined {
+  if (!a || !b) return undefined;
+  const parse = (s: string) => {
+    const h = s.match(/(\d+)H/)?.[1] ?? '0';
+    const m = s.match(/(\d+)M/)?.[1] ?? '0';
+    return parseInt(h) * 60 + parseInt(m);
+  };
+  const total = parse(a) + parse(b);
+  if (total === 0) return undefined;
+  const h = Math.floor(total / 60);
+  const m = total % 60;
+  return `PT${h ? h + 'H' : ''}${m ? m + 'M' : ''}`;
+}
+
+const prepTime = toISO8601Duration(recipe.prepTime);
+const cookTime = toISO8601Duration(recipe.cookTime);
+const totalTime = sumDurations(prepTime, cookTime);
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": recipe.title,
+  "description": recipe.description,
+  ...(imageUrl ? { "image": imageUrl } : {}),
+  ...(prepTime ? { "prepTime": prepTime } : {}),
+  ...(cookTime ? { "cookTime": cookTime } : {}),
+  ...(totalTime ? { "totalTime": totalTime } : {}),
+  "recipeYield": recipe.servings,
+  "recipeIngredient": recipe.ingredients,
+  "recipeInstructions": recipe.instructions.map((step) => ({
+    "@type": "HowToStep",
+    "text": step,
+  })),
+  ...(recipe.tags?.length ? { "keywords": recipe.tags.join(", ") } : {}),
+};
 ---
 
-<Layout title={recipe.title} description={recipe.description}>
+<Layout
+  title={recipe.title}
+  description={recipe.description}
+  image={imageUrl}
+  canonicalUrl={canonicalUrl}
+>
+  <Fragment slot="head">
+    <script is:inline type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  </Fragment>
   <main>
     <Recipe recipe={recipe} />
   </main>

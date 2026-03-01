@@ -4,11 +4,15 @@ import '../styles/global.css'
 interface Props {
 	title: string;
 	description?: string;
+	image?: string;
+	canonicalUrl?: string;
 }
 
-const { title, description } = Astro.props;
+const { title, description, image, canonicalUrl } = Astro.props;
 const defaultTitle = "RecipeCards";
 const defaultDescription = "Discover delicious recipes.";
+const resolvedTitle = title ? title : defaultTitle;
+const resolvedDescription = description ? description : defaultDescription;
 ---   
 
 <!doctype html>
@@ -19,26 +23,31 @@ const defaultDescription = "Discover delicious recipes.";
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<link rel="icon" href="/favicon.ico" />
 		<meta name="generator" content={Astro.generator} />
-		<title>{title ? title : defaultTitle}</title>
-		<meta name="description" content={description ? description : defaultDescription} />
+		<title>{resolvedTitle}</title>
+		<meta name="description" content={resolvedDescription} />
+		{canonicalUrl && <link rel="canonical" href={canonicalUrl} />}
+		<meta property="og:type" content="website" />
+		{canonicalUrl && <meta property="og:url" content={canonicalUrl} />}
+		<meta property="og:title" content={resolvedTitle} />
+		<meta property="og:description" content={resolvedDescription} />
+		{image && <meta property="og:image" content={image} />}
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content={resolvedTitle} />
+		<meta name="twitter:description" content={resolvedDescription} />
+		{image && <meta name="twitter:image" content={image} />}
+		<slot name="head" />
 	</head>
-	<body class="min-h-screen flex flex-col p-4">
-		<header class="p-4">
-			<div class="container mx-auto flex justify-between items-center">
-				<a href="/" class="text-2xl font-bold transition-colors duration-300" style="color: var(--color-primary);">RecipeCards</a>
-				<!-- <nav>
-					<ul class="flex space-x-4">
-						<li><a href="/" class="transition-colors duration-300" style="color: var(--color-primary);">Home</a></li> -->
-						<!-- Future navigation links can go here -->
-					<!-- </ul>
-				</nav> -->
-			</div>
-		</header>
-		<main class="flex-grow container mx-auto my-8 p-6 bg-white rounded-lg shadow-xl">
+	<body class="min-h-screen flex flex-col">
+		<main class="flex-grow container mx-auto px-4 pt-4 pb-8">
 			<slot />
 		</main>
-		<footer class="p-6 text-center">
+		<footer class="p-6 text-center" style="font-family: 'Montserrat', sans-serif; font-size: 0.75rem; color: var(--color-bc-brown);">
 			<p>&copy; {new Date().getFullYear()} RecipeCards. All rights reserved.</p>
+			<p style="margin-top: 0.5rem;">
+				<a href="/about" style="color: var(--color-bc-harvest); text-decoration: none;">About</a>
+				<span style="margin: 0 0.5rem; color: var(--color-bc-harvest);">&middot;</span>
+				<a href="/privacy" style="color: var(--color-bc-harvest); text-decoration: none;">Privacy Policy</a>
+			</p>
 		</footer>
 	</body>
 </html>

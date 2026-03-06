@@ -4821,5 +4821,1540 @@
             "american"
         ],
         "image": "/images/ice-cream-homemade.webp"
+    },
+    {
+        "id": "chocolate-mousse",
+        "title": "Chocolate Mousse",
+        "description": "Rich, velvety, and light as a cloud, this classic French chocolate mousse balances deep bittersweet chocolate flavor with an airy texture. Made with a cooked egg base for food safety, it comes together with just a handful of ingredients and is elegant enough for any occasion.",
+        "prepTime": "20 minutes",
+        "cookTime": "10 minutes",
+        "servings": "4",
+        "ingredients": [
+            "3.5 ounces (100g) dark chocolate (60–70% cacao), finely chopped",
+            "1 tablespoon unsalted butter",
+            "3 large eggs, separated",
+            "2 tablespoons granulated sugar, divided",
+            "2 tablespoons water",
+            "1/4 teaspoon espresso powder",
+            "1/8 teaspoon cream of tartar",
+            "1/4 teaspoon kosher salt",
+            "1/2 cup cold heavy whipping cream",
+            "Whipped cream, for serving (optional)"
+        ],
+        "instructions": [
+            "Combine the chopped chocolate and butter in a heatproof bowl and set aside.",
+            "In a separate heatproof metal bowl, whisk together the egg yolks, 1 tablespoon of sugar, water, espresso powder, and a pinch of salt. Set the bowl directly over medium-low heat and whisk constantly until the mixture becomes thick, pale, and foamy and reaches 145–150°F (63–65°C) on an instant-read thermometer.",
+            "Remove the yolk mixture from the heat, add the chopped chocolate and butter, and whisk until the chocolate is completely melted and the mixture is smooth. Allow the chocolate mixture to cool on the counter, whisking occasionally, until it reaches just above room temperature. It should be fluid enough to fold but not warm enough to deflate the other components.",
+            "In a clean bowl using a hand mixer or stand mixer fitted with a whisk attachment, combine the egg whites, cream of tartar, and remaining pinch of salt. Whisk on medium speed until the whites begin to foam, then slowly stream in the remaining 1 tablespoon of sugar. Continue whisking until the meringue is glossy and holds medium-stiff peaks. Set aside.",
+            "In a separate chilled bowl, whip the cold heavy cream until medium-stiff peaks form. Do not over-whip or the final mousse will have a grainy texture.",
+            "Add one-quarter of the meringue to the cooled chocolate mixture and fold gently with a silicone spatula until mostly combined. Add the remaining meringue and fold gently until almost fully incorporated, taking care to preserve as much air as possible.",
+            "Fold the whipped cream into the chocolate-meringue mixture in two additions, using slow, sweeping strokes until just combined and no white streaks remain.",
+            "Divide the mousse evenly among 4 serving cups or ramekins. Cover loosely and refrigerate for at least 1 hour, or up to 2 days, until set. Serve topped with whipped cream if desired."
+        ],
+        "variations": [
+            "Use milk chocolate or white chocolate in place of dark chocolate for a sweeter, creamier mousse.",
+            "Replace the water with brewed espresso or strong coffee for a mocha flavor.",
+            "Stir 1 tablespoon of rum, bourbon, Grand Marnier, or Kahlúa into the chocolate mixture after it has cooled.",
+            "For a vegan version, blend 3 ripe Hass avocados with cocoa powder, oat milk, agave syrup, vanilla, and a pinch of salt until smooth and creamy.",
+            "Use semisweet chocolate chips in place of chopped chocolate for convenience.",
+            "Substitute brown sugar for granulated sugar for a subtle caramel note.",
+            "Use dairy-free heavy whipping cream for a non-dairy version."
+        ],
+        "troubleshooting": [
+            "Q: Why did my mousse turn out grainy?  A: The heavy cream was likely over-whipped; stop whipping as soon as medium-stiff peaks form, and fold gently to avoid breaking the cream's emulsion.",
+            "Q: Why is my mousse too dense?  A: The chocolate mixture may have been too warm when folded in, deflating the whipped cream and meringue; ensure the chocolate base has cooled to just above room temperature before folding.",
+            "Q: Why did my mousse turn out runny and not set?  A: The meringue or whipped cream may not have been whipped to firm enough peaks, or the chocolate mixture was too warm when combined; make sure each component is properly whipped and the chocolate base is adequately cooled.",
+            "Q: Why did my egg yolk mixture take so long to reach the correct temperature?  A: Cooking over medium-low heat is intentional to prevent the eggs from scrambling; be patient and whisk constantly, and consider raising the heat very slightly if needed while keeping the bowl moving.",
+            "Q: Can I make this mousse ahead of time?  A: Yes, the mousse can be made up to 2 days in advance; cover the individual cups tightly and refrigerate until ready to serve.",
+            "Q: Why does my mousse have white streaks?  A: The whipped cream or meringue was not fully folded in; use slow, sweeping strokes and continue folding gently until no white streaks remain without over-mixing."
+        ],
+        "sources": [
+            "https://www.allrecipes.com/chocolate-mousse-for-beginners-recipe-8574786",
+            "https://www.seriouseats.com/chocolate-mousse-recipe-7109970",
+            "https://www.seriouseats.com/avocado-chocolate-mousse-recipe-7376787",
+            "https://food52.com/recipes/20911-earl-grey-infused-blender-chocolate-mousse",
+            "https://food52.com/story/22353-the-triple-chocolate-mousse-that-took-100-weddings-by-storm",
+            "https://en.wikipedia.org/wiki/Chocolate_mousse"
+        ],
+        "tags": [
+            "dessert"
+        ],
+        "image": "/images/chocolate-mousse.webp"
+    },
+    {
+        "id": "peanut-butter-cookies",
+        "title": "Peanut Butter Cookies",
+        "description": "Classic peanut butter cookies with a tender, chewy interior and the iconic criss-cross fork pattern. Made with creamy peanut butter, butter, two sugars, and a touch of vanilla, these timeless cookies come together quickly and deliver rich, nutty flavor in every bite.",
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "servings": "24",
+        "ingredients": [
+            "1/2 cup unsalted butter, softened",
+            "1 cup creamy peanut butter",
+            "1/2 cup granulated sugar",
+            "1/2 cup light brown sugar, packed",
+            "1 large egg",
+            "1 teaspoon vanilla extract",
+            "1/2 teaspoon kosher salt",
+            "1/2 teaspoon baking soda",
+            "1 cup all-purpose flour"
+        ],
+        "instructions": [
+            "Preheat the oven to 350°F (175°C) and line two baking sheets with parchment paper.",
+            "In a large bowl or the bowl of a stand mixer fitted with the paddle attachment, cream together the butter and peanut butter on medium speed until smooth and well combined.",
+            "Add the granulated sugar and brown sugar and beat until light and fluffy, about 3 minutes, scraping down the sides of the bowl as needed.",
+            "Beat in the egg and vanilla extract until fully incorporated.",
+            "In a separate bowl, whisk together the flour, baking soda, and salt. Add the dry ingredients to the peanut butter mixture and mix on low speed until just combined.",
+            "Chill the dough in the refrigerator for 30 minutes to make it easier to roll and press.",
+            "Roll the dough into 1-inch balls and place them about 2 inches apart on the prepared baking sheets.",
+            "Flatten each ball with the tines of a fork, pressing once in each direction to create a classic criss-cross pattern.",
+            "Bake for 9 to 11 minutes, until the edges are just set and the cookies are still slightly soft in the center.",
+            "Let the cookies cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely."
+        ],
+        "variations": [
+            "Use all brown sugar instead of a mix for a deeper, more caramel-like flavor.",
+            "Substitute natural or unsweetened peanut butter for a less sweet, more intense peanut flavor.",
+            "Add 1/2 cup mini chocolate chips to the dough for a chocolate-peanut butter twist.",
+            "Press a chocolate candy or chocolate kiss into the center of each cookie immediately after baking for a peanut butter blossom style.",
+            "Sprinkle cookies with flaky sea salt just before baking for a sweet-salty contrast.",
+            "Use crunchy peanut butter and fold in 1/3 cup roughly chopped roasted salted peanuts for added texture.",
+            "For a 3-ingredient gluten-free version, omit the flour, butter, baking soda, salt, and vanilla, and simply combine 1 cup peanut butter, 1 cup sugar, and 1 egg.",
+            "Add 1/2 teaspoon ground ginger and 2 tablespoons molasses to the dough for a spiced peanut butter ginger variation."
+        ],
+        "troubleshooting": [
+            "Q: Why did my cookies crumble and fall apart?  A: The dough may have been too dry or under-mixed; make sure the egg is fully incorporated and try adding an extra tablespoon of peanut butter to help bind the dough.",
+            "Q: Why did my cookies come out too hard and crunchy?  A: They were likely overbaked; remove them from the oven when the edges are just set and the centers still look slightly underdone, as they will firm up while cooling.",
+            "Q: Why is my dough too sticky to roll into balls?  A: Chilling the dough in the refrigerator for 30 minutes will firm it up and make it much easier to handle.",
+            "Q: Why did my cookies spread too much and turn flat?  A: The butter may have been too soft or the dough too warm; chill the dough before baking and make sure your oven is fully preheated.",
+            "Q: Why did the fork stick to the dough when pressing the criss-cross pattern?  A: The dough was likely too warm or soft; chill the dough first, or lightly dip the fork in granulated sugar before pressing each cookie.",
+            "Q: Why do my cookies look the same after baking as before going in the oven?  A: This can happen with natural or homemade peanut butter, which has a different fat and moisture content; try using a commercial creamy peanut butter for more consistent results."
+        ],
+        "sources": [
+            "https://food52.com/recipes/15242-peanut-butter-cookies",
+            "https://www.allrecipes.com/recipe/244614/3-ingredient-peanut-butter-cookies/",
+            "https://food52.com/story/18181-what-makes-these-peanut-butter-cookies-possibly-better-than-the-classic",
+            "https://www.epicurious.com/recipes/food/views/peanut-butter-and-ginger-cookies",
+            "https://food52.com/story/21657-chocolate-peanut-butter-cookies",
+            "https://en.wikipedia.org/wiki/Peanut_butter_cookies"
+        ],
+        "tags": [
+            "dessert",
+            "american"
+        ],
+        "image": "/images/peanut-butter-cookies.webp"
+    },
+    {
+        "id": "sugar-cookies",
+        "title": "Sugar Cookies",
+        "description": "Classic soft and chewy sugar cookies made with simple pantry staples. These buttery, vanilla-scented cookies can be dropped into balls for a quick treat or rolled and cut into shapes for decorating. Crisp at the edges, tender and chewy in the center, they are perfect for any occasion.",
+        "prepTime": "25 minutes",
+        "cookTime": "10 minutes",
+        "servings": "36-48",
+        "ingredients": [
+            "2 3/4 cups all-purpose flour, plus more for dusting",
+            "1 teaspoon baking soda",
+            "1/2 teaspoon baking powder",
+            "1/2 teaspoon salt",
+            "1 cup (2 sticks) unsalted butter, softened to room temperature",
+            "1 1/2 cups granulated white sugar",
+            "1 large egg",
+            "1 teaspoon pure vanilla extract",
+            "1/4 cup granulated or coarse sanding sugar, for rolling (optional)"
+        ],
+        "instructions": [
+            "Preheat the oven to 375°F (190°C). Line two baking sheets with parchment paper.",
+            "Whisk together the flour, baking soda, baking powder, and salt in a medium bowl until combined; set aside.",
+            "In a large bowl, beat the softened butter and granulated sugar together with an electric mixer on medium speed until light, fluffy, and pale, about 3 to 5 minutes, scraping down the sides of the bowl as needed.",
+            "Add the egg and vanilla extract to the butter mixture and beat until fully combined and smooth, about 1 to 2 minutes more.",
+            "Reduce the mixer to low and gradually add the flour mixture, mixing just until a soft, thick dough forms with no dry pockets remaining.",
+            "Scoop or roll the dough into walnut-sized balls (about 1 to 1.5 tablespoons each). If desired, roll each ball in coarse or sanding sugar to coat.",
+            "Place dough balls at least 2 inches apart on the prepared baking sheets. Do not flatten; the cookies will spread on their own.",
+            "Bake one sheet at a time in the center of the preheated oven until the edges are just set and barely golden but the centers still look slightly underdone, 8 to 10 minutes. For softer cookies, pull them at 8 minutes; for crisper edges, allow a full 10 minutes.",
+            "Allow cookies to cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely. They will firm up as they cool."
+        ],
+        "variations": [
+            "Rolled cut-out cookies: Increase flour to 5 cups, use 4 eggs, and 2 cups sugar. Chill the dough for at least 1 hour, then roll out on a lightly floured surface to 1/4-inch thickness and cut into shapes. Bake at 400°F for 6 to 8 minutes.",
+            "Almond sugar cookies: Replace 1/2 teaspoon of the vanilla extract with 1/2 teaspoon almond extract for a more complex flavor.",
+            "Lemon or orange zest: Add 1 teaspoon of finely grated citrus zest to the butter-sugar mixture for a bright, fruity note.",
+            "Brown sugar variation: Substitute light brown sugar for up to half the granulated sugar for a slightly richer, more caramel-like flavor.",
+            "Chocolate peppermint: Replace 1/3 cup of the flour with unsweetened cocoa powder and substitute peppermint extract for the vanilla.",
+            "Spiced sugar cookies: Add a pinch of freshly grated nutmeg and 1/4 teaspoon cinnamon to the flour mixture for a warm, spiced variation.",
+            "Decorated holiday cookies: After baking and cooling completely, decorate with royal icing, sprinkles, or colored sanding sugar.",
+            "Freeze-ahead method: Roll dough into balls, arrange on a sheet pan, and freeze until solid. Bake directly from frozen, adding 1 to 2 minutes to the bake time."
+        ],
+        "troubleshooting": [
+            "Q: Why is my dough crumbly and dry?  A: The flour may have been over-measured; spoon flour into the measuring cup and level it with a knife rather than scooping directly, and ensure the butter is fully softened but not melted.",
+            "Q: Why did my cookies spread too much and turn flat?  A: The butter was likely too warm or melted; make sure it is softened to room temperature but still holds its shape, and chill the dough balls for 15 to 30 minutes before baking if your kitchen is warm.",
+            "Q: Why are my cookies hard and crunchy instead of soft and chewy?  A: They were likely over-baked; pull cookies from the oven when the edges are just set but the centers still look slightly underdone, as they continue to firm up on the hot pan.",
+            "Q: Why is my dough sticky and hard to handle?  A: This is normal for a rich butter dough; refrigerate the dough for 30 minutes to 1 hour to firm it up, and work with small portions at a time while keeping the rest chilled.",
+            "Q: Why do my cookies taste bland?  A: Sugar cookies need accurate seasoning; ensure the salt is not omitted, and consider adding a small pinch of nutmeg or an extra splash of vanilla extract to deepen the flavor."
+        ],
+        "sources": [
+            "https://www.allrecipes.com/recipe/9870/easy-sugar-cookies/",
+            "https://www.seriouseats.com/soft-and-chewy-sugar-cookie-recipe",
+            "https://www.allrecipes.com/recipe/10402/the-best-rolled-sugar-cookies/",
+            "https://food52.com/recipes/3881-chewy-sugar-cookies-2",
+            "https://www.kingarthurbaking.com/blog/2015/01/03/best-sugar-cookie-recipe",
+            "https://en.wikipedia.org/wiki/Sugar_cookies"
+        ],
+        "tags": [
+            "dessert",
+            "american"
+        ],
+        "image": "/images/sugar-cookies.webp"
+    },
+    {
+        "id": "coconut-macaroons",
+        "title": "Coconut Macaroons",
+        "description": "Chewy on the inside, golden and caramelly-crisp on the outside, these one-bowl coconut macaroons come together with just a handful of pantry staples. Sweetened condensed milk binds the shredded coconut into irresistible mounds that bake up perfectly every time. An optional chocolate dip takes them over the top.",
+        "prepTime": "15 minutes",
+        "cookTime": "15-18 minutes",
+        "servings": "24",
+        "ingredients": [
+            "5 1/2 cups (about 14 oz) sweetened shredded coconut",
+            "1 (14 oz) can sweetened condensed milk",
+            "2 teaspoons pure vanilla extract",
+            "1/4 cup all-purpose flour",
+            "1/4 teaspoon kosher salt",
+            "2 large egg whites",
+            "2 tablespoons granulated sugar",
+            "4 oz semisweet or bittersweet chocolate, chopped (optional, for dipping)",
+            "Flaky sea salt, for finishing (optional)"
+        ],
+        "instructions": [
+            "Preheat the oven to 325°F (165°C). Line two baking sheets with parchment paper.",
+            "Spread the shredded coconut in an even layer on one of the prepared baking sheets and toast in the oven, stirring once or twice, until lightly golden, about 8-10 minutes. Transfer to a large bowl and let cool completely.",
+            "Add the flour and kosher salt to the toasted coconut and stir to combine. Stir in the sweetened condensed milk and vanilla extract until the mixture is evenly blended. Set aside.",
+            "In a clean medium bowl, beat the egg whites with a handheld mixer on high speed until soft peaks form. With the mixer running, gradually add the sugar and continue beating until firm, glossy peaks form, about 30 seconds more.",
+            "Using a rubber spatula, gently fold the beaten egg whites into the coconut mixture until incorporated.",
+            "Using a small ice cream scoop or two spoons, portion heaping tablespoons of the mixture into mounds on the prepared baking sheets, spacing them about 1 inch apart. Press in any stray coconut strands sticking out from the base to prevent burning. If desired, sprinkle each mound with a pinch of flaky sea salt.",
+            "Bake, rotating the pans from top to bottom and front to back halfway through, until the tops and edges are golden brown, 15-18 minutes. Let the macaroons cool on the baking sheets for 5 minutes, then transfer to a wire rack to cool completely.",
+            "If dipping in chocolate, melt half of the chopped chocolate in a microwave-safe bowl in 30-second bursts, stirring between each, until smooth. Add the remaining chopped chocolate and stir until fully melted. Dip the bottom of each cooled macaroon into the chocolate, scrape off any excess, and place on a parchment-lined baking sheet. Refrigerate until the chocolate is set, about 10 minutes."
+        ],
+        "variations": [
+            "Replace vanilla extract with almond extract, or use 1 teaspoon of each, for a subtle nutty flavor.",
+            "Substitute almond flour for the all-purpose flour to make a gluten-free version.",
+            "Add 1/2 teaspoon ground ginger and 1/2 cup finely chopped crystallized ginger to the coconut mixture for a spiced, Jamaican-inspired twist.",
+            "Press a whole roasted almond or a maraschino cherry on top of each mound before baking for a decorative finish.",
+            "Form the mixture into ovals, bake, then dip in melted dark chocolate for a homemade candy bar effect.",
+            "Fold 1-2 pieces of chopped dark chocolate into the center of each mound before baking for a molten chocolate core.",
+            "Drizzle melted white or dark chocolate over the tops instead of dipping for a decorative look.",
+            "Refrigerate the mixed dough for 1-2 hours before scooping to help the macaroons hold a rounder, more defined shape."
+        ],
+        "troubleshooting": [
+            "Q: Why are my macaroons burning on the bottom?  A: Your oven may run hot; try reducing the temperature to 300-325°F and bake on parchment paper, which helps insulate the bottoms better than foil or an unlined pan.",
+            "Q: Why are my macaroons falling apart or not holding their shape?  A: The mixture may need more binding; make sure the sweetened condensed milk is thoroughly incorporated and consider chilling the mixture for an hour before scooping.",
+            "Q: Why are my macaroons too soft and not getting crispy edges?  A: They may be underbaked; allow them to bake until the edges and tips are visibly golden brown, and avoid pulling them out too early.",
+            "Q: Why did the outer coconut strands burn while the inside stayed pale?  A: Stray coconut shreds sticking out from the base can scorch quickly; press any protruding strands back into the mound before baking.",
+            "Q: Why are my macaroons losing their crunch the next day?  A: Coconut macaroons naturally soften over time as they absorb moisture; refresh them by placing them in a 325°F oven for 5 minutes to restore their crispy edges.",
+            "Q: Why did my egg whites deflate when I folded them in?  A: Some deflation is normal and acceptable; fold gently with a rubber spatula using broad strokes, and do not overmix — the egg whites primarily help lighten the texture rather than provide structure.",
+            "Q: Why did my macaroons stick to the pan?  A: Always use parchment paper rather than foil or an ungreased pan, as the sticky condensed milk makes macaroons prone to sticking on any surface other than parchment."
+        ],
+        "sources": [
+            "https://food52.com/story/19369-the-genius-ingredients-coconut-macaroons-were-missing",
+            "https://www.allrecipes.com/recipe/25787/coconut-macaroons-iii/",
+            "https://food52.com/recipes/82218-coconut-macaroons-recipe-with-ginger",
+            "https://www.bonappetit.com/recipe/chocolate-filled-toasted-coconut-macaroons",
+            "https://www.seriouseats.com/the-best-coconut-macaroons-recipe"
+        ],
+        "tags": [
+            "dessert"
+        ],
+        "image": "/images/coconut-macaroons.webp"
+    },
+    {
+        "id": "strawberry-shortcake",
+        "title": "Strawberry Shortcake",
+        "description": "A classic American summer dessert featuring buttery, tender shortcake biscuits layered with juicy macerated strawberries and billowy whipped cream. Cold butter is worked into the dough for flaky layers, while the strawberries macerate in sugar and lemon juice to draw out a luscious syrup.",
+        "prepTime": "25 minutes (plus 1 hour macerating and 30 minutes chilling)",
+        "cookTime": "18 minutes",
+        "servings": "8",
+        "ingredients": [
+            "1 3/4 pounds fresh strawberries (about 35 medium-large), hulled and cut into 3/4-inch pieces",
+            "1/2 cup granulated sugar, for strawberries",
+            "1 tablespoon fresh lemon juice",
+            "2 1/2 cups all-purpose flour, plus more for dusting",
+            "1/4 cup granulated sugar, for dough",
+            "1 tablespoon baking powder",
+            "1/2 teaspoon kosher salt",
+            "10 tablespoons cold unsalted butter, cut into 3/4-inch cubes",
+            "1 1/8 cups cold heavy cream, plus more for brushing",
+            "1 teaspoon vanilla extract",
+            "2 teaspoons Demerara sugar, for topping",
+            "1 1/2 cups cold heavy cream, for whipped cream",
+            "2 tablespoons confectioners' sugar",
+            "1 teaspoon vanilla extract, for whipped cream",
+            "4 ounces cream cheese, softened (optional, for stabilized whipped cream variation)"
+        ],
+        "instructions": [
+            "Combine the hulled and sliced strawberries, granulated sugar, and lemon juice in a large bowl. Stir well, cover, and refrigerate for at least 1 hour and up to 8 hours, stirring occasionally, until the berries have released their juices.",
+            "In a large bowl, whisk together the flour, granulated sugar, baking powder, and salt until combined.",
+            "Add the cold cubed butter to the flour mixture. Using your fingertips, press and rub the butter into the dry ingredients until the mixture resembles coarse breadcrumbs with some pea-sized pieces of butter remaining.",
+            "In a measuring cup, stir together the cold heavy cream and vanilla extract. Make a well in the center of the flour mixture and pour in the cream. Stir with a wooden spoon until a shaggy dough just comes together, about 30 seconds.",
+            "Turn the dough and any loose flour out onto a lightly floured surface. Gently pat the dough into a mound, then press it into a rectangle approximately 5 by 7.5 inches and about 1 inch thick.",
+            "Using a 2.5-inch round biscuit cutter, cut out rounds pressing straight down without twisting. Transfer to a parchment-lined baking sheet, spacing them 2 to 3 inches apart. Gather scraps, gently pat together, and cut additional rounds. Refrigerate the baking sheet for 30 minutes.",
+            "While the shortcakes chill, preheat the oven to 400°F (205°C).",
+            "Brush the tops of the chilled shortcakes with cold heavy cream and sprinkle lightly with Demerara sugar.",
+            "Bake until the shortcakes are slightly risen, golden brown, and lightly cracked on top, 15 to 18 minutes. Cool on the baking sheet for 5 minutes, then transfer to a wire rack to cool until just slightly warm.",
+            "For the whipped cream, combine the cold heavy cream, confectioners' sugar, and vanilla extract in a large chilled bowl or the bowl of a stand mixer. Whip on medium-high speed until soft peaks form. Do not overwhip.",
+            "To assemble, split each shortcake in half horizontally with a serrated knife. Place the bottom half on a dessert plate, spoon a generous amount of macerated strawberries and their juices over the top, and add a dollop of whipped cream. Set the top half of the shortcake on the cream, then add another spoonful of berries and a final dollop of whipped cream. Serve immediately."
+        ],
+        "variations": [
+            "Browned butter shortcakes: melt the butter in a saucepan over medium heat until golden and nutty before cooling and using in place of cold butter for a deeper flavor.",
+            "Use self-rising flour in place of all-purpose flour, baking powder, and salt.",
+            "Substitute peaches, blueberries, raspberries, or a mix of summer fruits for the strawberries.",
+            "Add a splash of balsamic vinegar to the macerating strawberries for complexity.",
+            "Use turbinado sugar instead of Demerara for topping the shortcakes.",
+            "Make a stabilized whipped cream by folding in the 4 ounces of cream cheese (listed in ingredients) into the softly whipped cream so it holds its shape for hours.",
+            "Assemble as a tall layer cake by baking three large drop biscuits and stacking with whipped cream and berries for a crowd-pleasing presentation.",
+            "Add fresh mint or basil leaves as a garnish.",
+            "Mash a quarter of the strawberries before macerating for extra juicy results."
+        ],
+        "troubleshooting": [
+            "Q: Why are my shortcakes dense and flat instead of light and flaky?  A: The butter was likely too warm; make sure to use very cold butter and work quickly so it does not melt into the dough before baking.",
+            "Q: Why did the bottoms of my shortcakes burn?  A: Your oven may run hot; try raising the oven rack, using an insulated baking sheet lined with parchment, and checking for doneness at the minimum baking time.",
+            "Q: Why is my dough crumbly and won't come together?  A: The cream may have been added too slowly or the mixture was overworked; add all the cream at once and stir only until a shaggy dough forms, then use your hands to press it together on the work surface.",
+            "Q: Why are my strawberries not releasing much juice?  A: The berries need enough time and sugar to macerate; allow at least 1 full hour in the refrigerator, and if the berries are very sweet and ripe, gently mash a quarter of them before macerating to encourage more syrup.",
+            "Q: Why is my whipped cream weeping or collapsing?  A: The cream or bowl was not cold enough before whipping; chill the bowl and the cream thoroughly before starting, and stop whipping as soon as soft peaks form to avoid overbeating.",
+            "Q: Why do my shortcakes spread out flat instead of rising up?  A: The dough was not chilled before baking; refrigerating the cut rounds for 30 minutes helps them hold their shape and rise more evenly in the oven."
+        ],
+        "sources": [
+            "https://www.allrecipes.com/recipe/244201/chef-johns-classic-strawberry-shortcake/",
+            "https://food52.com/story/22359-strawberry-shortcake-layer-cake-memorial-day-dessert",
+            "https://www.seriouseats.com/homemade-strawberry-shortcake-ice-cream-bar-recipe",
+            "https://www.kingarthurbaking.com/blog/2019/06/11/how-to-build-great-strawberry-shortcake",
+            "https://www.seriouseats.com/strawberry-shortcake-recipe-7556950",
+            "https://en.wikipedia.org/wiki/Strawberry_shortcake"
+        ],
+        "tags": [
+            "dessert",
+            "american"
+        ],
+        "image": "/images/strawberry-shortcake.webp"
+    },
+    {
+        "id": "chocolate-peanut-butter-pie",
+        "title": "Chocolate Peanut Butter Pie",
+        "description": "A show-stopping layered dessert featuring a buttery graham cracker crust, a rich chocolate layer that falls somewhere between ganache and pudding, and a light, airy peanut butter mousse on top. The combination of textures and the classic chocolate-peanut butter pairing make this an unforgettable cream pie that feels indulgent yet elegant.",
+        "prepTime": "15 minutes",
+        "cookTime": "25 minutes",
+        "servings": "8",
+        "ingredients": [
+            "8 full-size graham crackers, pulverized to fine crumbs",
+            "4 tablespoons unsalted butter, melted",
+            "9 ounces (250g) 65% dark chocolate, finely chopped",
+            "1 1/4 cups whole milk",
+            "3 tablespoons light corn syrup",
+            "1 pinch salt",
+            "1 cup smooth peanut butter (not natural separated style)",
+            "1/2 cup plus 3 tablespoons confectioners' sugar",
+            "1 cup cold heavy cream",
+            "Whipped cream, chocolate syrup, or chopped peanuts for topping (optional)"
+        ],
+        "instructions": [
+            "Preheat the oven to 350°F.",
+            "Combine the graham cracker crumbs and melted butter in a bowl and stir until evenly moistened.",
+            "Press the mixture firmly and evenly into the bottom and up the sides of a 9-inch pie plate.",
+            "Bake the crust for 15 minutes, until lightly browned, then remove from the oven and allow to cool completely.",
+            "Place the chopped chocolate, corn syrup, and a pinch of salt in a large heatproof bowl.",
+            "Bring the whole milk to a boil in a small saucepan, then immediately remove from heat and pour over the chocolate mixture.",
+            "Let the mixture sit for 1 minute, then whisk vigorously until all the chocolate has melted and the mixture is smooth and uniform.",
+            "Transfer the mixture to a saucepan and whisk constantly over low heat for about 8 minutes; the mixture will steam, thicken, and begin to sputter and bubble.",
+            "Continue whisking and scraping the bottom of the pan to prevent scorching; when the mixture reaches a pudding-like consistency, remove from heat.",
+            "Pour the chocolate mixture into a bowl, press a sheet of plastic wrap directly onto the surface to prevent a skin from forming, and refrigerate for at least 3 hours until fully chilled and set.",
+            "Just before assembling, whip the cold heavy cream in a chilled bowl to soft peaks; set aside.",
+            "In a separate bowl, whisk together the peanut butter and confectioners' sugar until the mixture is thick and glossy.",
+            "Whisk about one-third of the whipped cream into the peanut butter mixture to lighten it, then gently fold in the remaining whipped cream with a spatula, taking care not to deflate it.",
+            "Spread the chilled chocolate layer evenly over the bottom of the cooled pie crust.",
+            "Pour and spread the peanut butter mousse evenly over the chocolate layer.",
+            "Chill the assembled pie in the refrigerator for at least 2 hours before serving to allow it to set and slice cleanly.",
+            "Garnish with additional whipped cream, a drizzle of chocolate syrup, or chopped peanuts if desired, and serve chilled."
+        ],
+        "variations": [
+            "Use an Oreo cookie crust instead of graham crackers for an even deeper chocolate flavor.",
+            "Substitute chocolate graham crackers for regular graham crackers for a double-chocolate base.",
+            "Add a layer of sliced bananas between the chocolate and peanut butter mousse layers.",
+            "Swap the dark chocolate for milk chocolate for a sweeter, milder chocolate layer.",
+            "Top with crushed peanut butter cups or mini chocolate chips for extra texture.",
+            "Use almond butter or cashew butter in place of peanut butter for a different nut flavor."
+        ],
+        "troubleshooting": [
+            "Q: Why is the mousse sinking into the chocolate layer?  A: The chocolate layer may not have been chilled long enough to fully set; ensure it is completely firm before spreading the mousse on top.",
+            "Q: Why is my chocolate layer grainy or lumpy?  A: The milk may have been too hot or the chocolate was not finely chopped enough; whisk thoroughly after pouring the hot milk over the chocolate and use a fine chop for even melting.",
+            "Q: Why does the pie fall apart when sliced?  A: The assembled pie needs to chill for at least 2 hours before slicing so all layers firm up; serve the pie cold straight from the refrigerator.",
+            "Q: Why is my peanut butter mousse too dense?  A: The whipped cream may have been over-folded, deflating the air; fold gently with a spatula until just combined, and make sure the cream is whipped to soft peaks before folding.",
+            "Q: Why did my chocolate layer burn on the stovetop?  A: The heat was too high; keep the burner on low and whisk constantly while scraping the bottom of the pan throughout the entire cooking time.",
+            "Q: Why is the crust crumbling and not holding together?  A: There may not have been enough butter to bind the crumbs; press the crust firmly and evenly into the pan before baking and allow it to cool completely before adding fillings."
+        ],
+        "sources": [
+            "https://www.seriouseats.com/pie-of-the-week-black-bottom-peanut-butter-pie-chocolate",
+            "https://www.seriouseats.com/black-bottom-peanut-butter-mousse-chocolate-pie-recipe",
+            "https://food52.com/story/24182-best-no-bake-peanut-butter-pie-recipe",
+            "https://food52.com/story/26794-reeses-peanut-butter-cup-pie-thanksgiving-2021"
+        ],
+        "tags": [
+            "dessert",
+            "american"
+        ],
+        "image": "/images/chocolate-peanut-butter-pie.webp"
+    },
+    {
+        "id": "mashed-potatoes",
+        "title": "Mashed Potatoes",
+        "description": "Classic creamy mashed potatoes made with tender boiled potatoes, warm butter, and milk for a smooth, fluffy, and comforting side dish perfect for any occasion.",
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "servings": "6",
+        "ingredients": [
+            "2.5 lbs russet or Yukon Gold potatoes, peeled and cut into 1-inch cubes",
+            "1 tsp salt (for boiling water), plus more to taste",
+            "4 tablespoons unsalted butter, plus extra for topping",
+            "3/4 cup whole milk",
+            "1/2 cup sour cream, room temperature",
+            "1/4 tsp freshly ground black pepper, or to taste",
+            "3 cloves garlic, peeled (optional, added to boiling water)"
+        ],
+        "instructions": [
+            "Peel and cut the potatoes into 1-inch cubes. Place in a colander and rinse well with cool water to remove excess starch.",
+            "Place the rinsed potatoes (and garlic cloves, if using) in a large pot and cover with cold water by about 1 inch. Add 1 teaspoon of salt to the water.",
+            "Bring the water to a boil over high heat, then reduce to a steady simmer. Cook until the potatoes are very tender and a fork pierces them effortlessly, about 15 to 20 minutes.",
+            "Drain the potatoes in a colander, then return the empty pot to the stove over low heat. Add the butter to the pot and let it melt, then add the milk and warm together until the mixture is hot but not boiling, about 2 to 3 minutes.",
+            "Add the drained potatoes to the pot and mash with a potato masher until mostly smooth. Pour in any remaining warm butter-milk mixture gradually, stirring to incorporate.",
+            "Add the sour cream and stir until fully combined and creamy. Season generously with salt and pepper to taste.",
+            "For extra-fluffy potatoes, use a hand mixer on low speed to whip until light and cloud-like, being careful not to overbeat. Transfer to a serving bowl, top with a pat of butter, and serve immediately."
+        ],
+        "variations": [
+            "Use heavy cream or half-and-half in place of whole milk for richer, more indulgent potatoes.",
+            "Substitute crème fraîche for the sour cream for a slightly tangier, silkier result.",
+            "Add roasted garlic instead of boiled garlic for a sweeter, deeper garlic flavor.",
+            "Stir in shredded cheddar or Parmesan cheese for cheesy mashed potatoes.",
+            "Top with crispy bacon bits, chives, or caramelized onions for a loaded variation.",
+            "Use unsalted butter and omit sour cream for a simpler, classic preparation.",
+            "Boil potatoes in chicken broth instead of salted water for extra savory depth.",
+            "Leave skins on Yukon Gold potatoes for a rustic texture with added nutrients.",
+            "For dairy-free mashed potatoes, replace butter with olive oil and milk with unsweetened oat or almond milk."
+        ],
+        "troubleshooting": [
+            "Q: Why are my mashed potatoes gluey or gummy?  A: Over-mashing or using a food processor causes the starch granules to break down and turn sticky; use a hand masher or mixer on low speed and stop as soon as the potatoes are smooth.",
+            "Q: Why are my mashed potatoes too runny?  A: Too much liquid was added at once; always add warm milk gradually and stop when you reach your desired consistency.",
+            "Q: Why are my mashed potatoes lumpy?  A: The potatoes were likely undercooked or not cut into even pieces; make sure all pieces are the same size and cook until a fork pierces them with no resistance before mashing.",
+            "Q: Why do my mashed potatoes taste bland?  A: Potatoes need generous seasoning; be sure to salt the cooking water and season again with salt and pepper after mashing, tasting as you go.",
+            "Q: Why did my mashed potatoes cool down too quickly?  A: Warm your milk and butter before adding them, and serve in a pre-warmed bowl to help the potatoes retain heat longer.",
+            "Q: Should I use salted or unsalted butter?  A: Unsalted butter gives you more control over the final seasoning; if using salted butter, reduce or omit any additional salt until you taste the finished dish."
+        ],
+        "sources": [
+            "https://www.allrecipes.com/recipe/24771/basic-mashed-potatoes/",
+            "https://www.budgetbytes.com/mashed-potatoes/",
+            "https://food52.com/story/24633-how-to-make-mashed-potatoes",
+            "https://www.delish.com/cooking/recipe-ideas/a50630/perfect-mashed-potatoes-recipe/",
+            "https://food52.com/story/16854-a-genius-trick-for-more-buttery-tasting-mashed-potatoes",
+            "https://en.wikipedia.org/wiki/Mashed_potatoes"
+        ],
+        "tags": [
+            "side-dish",
+            "american",
+            "comfort-food"
+        ],
+        "image": "/images/mashed-potatoes.webp"
+    },
+    {
+        "id": "potato-salad",
+        "title": "Potato Salad",
+        "description": "A classic American-style creamy potato salad featuring tender red-skinned potatoes marinated in a tangy vinegar-onion dressing, then folded with rich mayonnaise, chopped hard-boiled eggs, and fresh parsley. Allowing the potatoes to absorb the vinegar before the mayo is added gives this timeless side dish a bright, balanced flavor that makes it perfect for barbecues, picnics, and family gatherings.",
+        "prepTime": "20 minutes",
+        "cookTime": "20 minutes",
+        "servings": "6-8",
+        "ingredients": [
+            "3 pounds medium red-skinned potatoes",
+            "1/2 cup finely chopped red onion",
+            "1/3 cup white vinegar",
+            "1/3 cup vegetable oil",
+            "1 cup mayonnaise",
+            "4 large hard-boiled eggs, peeled and chopped",
+            "3 tablespoons chopped fresh parsley",
+            "1 1/2 teaspoons kosher salt, plus more to taste",
+            "1/2 teaspoon freshly ground black pepper, plus more to taste",
+            "1 tablespoon Dijon mustard"
+        ],
+        "instructions": [
+            "Place the potatoes in a large pot and cover with cold water by about 1 inch. Bring to a boil over high heat, then reduce heat to medium and simmer until a paring knife slides in with no resistance, about 20 minutes.",
+            "Drain the potatoes and set aside to cool for 15 minutes, until they are cool enough to handle but still warm.",
+            "While the potatoes cook, stir together the red onion, vinegar, salt, and black pepper in a small bowl. Set aside to let the onion mellow in the vinegar.",
+            "Slice the warm potatoes into 1/4-inch-thick rounds. Spread about one-third of the slices in an even layer in the bottom of a large bowl.",
+            "Scatter one-third of the chopped eggs and parsley over the potato layer. Whisk the vegetable oil and Dijon mustard into the onion-vinegar mixture, then spoon about one-third of this dressing over the layer.",
+            "Repeat with two more layers of potatoes, eggs, parsley, and dressing, using up all ingredients.",
+            "Cover the bowl and refrigerate for at least 1 hour or up to 24 hours to allow the potatoes to fully absorb the dressing.",
+            "Gently fold in the mayonnaise until everything is evenly coated. Taste and adjust seasoning with additional salt and pepper as needed. Serve chilled or at room temperature."
+        ],
+        "variations": [
+            "German-style: Omit the mayonnaise and eggs; cook diced bacon until crisp, sauté onion in the rendered fat, and whisk together white vinegar, sugar, whole-grain mustard, and pepper for a warm vinaigrette dressing; toss with potatoes and top with fresh chives and parsley.",
+            "Herb-forward: Swap parsley for a combination of chopped chives, dill, and scallions for a fresher, more aromatic salad.",
+            "Pickle lover's: Add 1/3 cup chopped cornichons or dill pickles and a tablespoon of pickle brine to the dressing for extra tang.",
+            "Lighter version: Replace half the mayonnaise with plain Greek yogurt or sour cream to reduce richness.",
+            "Oil substitution: Use olive oil in place of vegetable oil for a more robust, fruity flavor.",
+            "Apple cider vinegar swap: Use apple cider vinegar instead of white vinegar for a slightly sweeter, more complex tang.",
+            "Add celery: Stir in 2 stalks of finely diced celery for extra crunch.",
+            "Spicy kick: Stir a few dashes of hot sauce or a teaspoon of smoked paprika into the dressing."
+        ],
+        "troubleshooting": [
+            "Q: Why are my potatoes falling apart or turning mushy?  A: The potatoes were likely overcooked; start checking for doneness at 15 minutes by piercing with a paring knife, and drain them as soon as they are just tender.",
+            "Q: Why does my potato salad taste bland?  A: Potatoes absorb seasoning best while still warm, so be sure to pour the vinegar-onion dressing over them immediately after slicing and before refrigerating.",
+            "Q: Why is my potato salad watery after refrigerating?  A: Potatoes release moisture as they sit; drain off any pooled liquid before folding in the mayonnaise, and avoid over-mixing which can break down the potatoes and release more water.",
+            "Q: Why are the potatoes falling apart when I slice them?  A: The potatoes may have been cut too thin or overcooked; aim for 1/4-inch slices and use a sharp knife for clean cuts.",
+            "Q: Why does my potato salad taste too sharp or vinegary?  A: The vinegar ratio may be too high for your taste; reduce the vinegar slightly, or balance the acidity by adding a little extra mayonnaise and a pinch of salt.",
+            "Q: Can I make potato salad ahead of time?  A: Yes; marinate the potatoes in the vinegar dressing for up to 24 hours, then fold in the mayonnaise just before serving for the best texture and freshness."
+        ],
+        "sources": [
+            "https://www.allrecipes.com/best-potato-salad-recipe-review-7852966",
+            "https://food52.com/story/11596-how-to-make-potato-salad-without-a-recipe",
+            "https://www.seriouseats.com/german-potato-salad",
+            "https://food52.com/story/27417-why-monifa-dayos-best-potato-salad-ever-is-genius",
+            "https://www.simplyrecipes.com/four-generation-potato-salad-recipe-11774364",
+            "https://en.wikipedia.org/wiki/Potato_salad"
+        ],
+        "tags": [
+            "side-dish",
+            "american"
+        ],
+        "image": "/images/potato-salad.webp"
+    },
+    {
+        "id": "coleslaw",
+        "title": "Coleslaw",
+        "description": "A classic creamy coleslaw featuring deeply flavored, sweet-and-tangy cabbage. The secret is a quick salt-and-sugar cure that purges excess liquid from the shredded vegetables before tossing them in a rich, tangy mayonnaise dressing. The result is crisp, well-seasoned slaw that stays fresh and never gets watery.",
+        "prepTime": "30 minutes",
+        "cookTime": "0 minutes",
+        "servings": "8-10",
+        "ingredients": [
+            "1 large head green cabbage (about 3 1/2 pounds), finely shredded",
+            "1 large carrot, peeled and grated on the large holes of a box grater",
+            "1 large red onion, finely sliced",
+            "1/4 cup roughly chopped fresh parsley leaves",
+            "1/2 cup kosher salt (for curing)",
+            "1 cup granulated sugar (for curing)",
+            "3/4 cup mayonnaise",
+            "1/4 cup apple cider vinegar",
+            "2 tablespoons Dijon mustard",
+            "3 tablespoons granulated sugar (for dressing)",
+            "1 tablespoon freshly ground black pepper, plus more to taste"
+        ],
+        "instructions": [
+            "Combine the shredded cabbage, grated carrot, sliced onion, and parsley in a very large bowl, leaving plenty of room to toss (use two bowls if needed).",
+            "Sprinkle the curing salt and 1 cup of sugar over the vegetables and toss well to combine. Let the mixture rest for 5 minutes — the salt and sugar will draw out excess moisture.",
+            "Transfer the vegetables to a large colander and rinse thoroughly under cold running water to remove the salt and sugar.",
+            "Spin the rinsed vegetables dry in a salad spinner, or transfer them to a rimmed baking sheet lined with a triple layer of paper towels and blot dry with additional paper towels. Return the dried vegetables to the large bowl.",
+            "In a medium bowl, whisk together the mayonnaise, apple cider vinegar, Dijon mustard, 3 tablespoons of sugar, and black pepper until smooth and homogenous.",
+            "Pour the dressing over the cabbage mixture and toss thoroughly to coat every strand.",
+            "Taste and adjust seasoning with additional salt, pepper, sugar, or vinegar as desired. Serve immediately or refrigerate for up to 2 days."
+        ],
+        "variations": [
+            "Vinegar coleslaw: Replace the mayonnaise dressing with a mixture of 1 cup apple cider vinegar, 1 cup sugar, 3 tablespoons olive oil, 1 teaspoon minced garlic, and 1 teaspoon celery seeds for a lighter, tangy slaw.",
+            "Jalapeño Tex-Mex coleslaw: Swap the dressing for a blend of sour cream, buttermilk, lime juice, cilantro, cumin, and minced jalapeño for a bold, spicy variation.",
+            "Apple coleslaw: Add 2 grated Granny Smith apples to the vegetable mix and use a dressing of sour cream, mayonnaise, apple cider vinegar, honey, poppy seeds, and mustard powder.",
+            "Pickle juice coleslaw: Add minced dill pickles and replace part of the vinegar with pickle juice for a tangy, brine-forward Southern-style slaw.",
+            "Red cabbage variation: Substitute half the green cabbage with finely shredded red cabbage for color and a slightly peppery flavor.",
+            "Buttermilk coleslaw: Add 1/3 cup buttermilk to the dressing for a thinner, tangier, Southern-style creamy slaw."
+        ],
+        "troubleshooting": [
+            "Q: Why is my coleslaw watery and soggy?  A: The vegetables were likely not dried thoroughly enough after rinsing; make sure to spin or blot the cabbage mixture completely dry before adding the dressing.",
+            "Q: Why does my coleslaw taste too salty?  A: The curing salt must be thoroughly rinsed away under cold running water before drying and dressing; rinse for at least 30 seconds and toss the vegetables well under the stream.",
+            "Q: Why is my coleslaw dressing too thick and clumpy?  A: Whisk the dressing ingredients more vigorously until fully emulsified and smooth before pouring it over the slaw.",
+            "Q: Can I make coleslaw ahead of time?  A: Yes; dressed coleslaw can be refrigerated for up to 2 days, though it will soften slightly over time — the salt-and-sugar cure helps it retain more texture than uncured versions.",
+            "Q: Why is my coleslaw too sweet or not tangy enough?  A: Taste and adjust the dressing before adding it to the slaw, adding more apple cider vinegar for tanginess or more sugar to balance acidity to your preference."
+        ],
+        "sources": [
+            "https://www.seriouseats.com/creamy-cole-slaw",
+            "https://www.seriouseats.com/vinegar-coleslaw-recipe",
+            "https://www.seriouseats.com/jalapeno-coleslaw-recipe",
+            "https://www.seriouseats.com/tangy-apple-coleslaw-recipe-11833539",
+            "https://www.epicurious.com/expert-advice/dolly-parton-coleslaw",
+            "https://en.wikipedia.org/wiki/Coleslaw"
+        ],
+        "tags": [
+            "side-dish",
+            "american"
+        ],
+        "image": "/images/coleslaw.webp"
+    },
+    {
+        "id": "roasted-brussels-sprouts",
+        "title": "Roasted Brussels Sprouts",
+        "description": "The ultimate simple side dish: Brussels sprouts roasted at high heat until their outer leaves turn crispy and caramelized while their centers become tender and creamy. Requiring just a handful of pantry staples and minimal prep, this recipe delivers deeply browned, nutty-sweet sprouts that are impossible to resist straight off the pan.",
+        "prepTime": "10 minutes",
+        "cookTime": "25 minutes",
+        "servings": "4",
+        "ingredients": [
+            "1 1/2 pounds Brussels sprouts",
+            "3 tablespoons extra-virgin olive oil",
+            "1/2 teaspoon kosher salt, plus more to taste",
+            "1/4 teaspoon freshly ground black pepper, plus more to taste"
+        ],
+        "instructions": [
+            "Preheat the oven to 425°F. Place a large rimmed baking sheet in the oven while it preheats.",
+            "Rinse the Brussels sprouts in a colander under cold running water, tossing them with your hands. Turn them out onto a clean kitchen towel and pat completely dry — removing excess moisture is key to achieving crispy results.",
+            "Trim the stem end off each sprout and remove any yellow or bruised outer leaves. Cut each sprout in half lengthwise. If any sprouts are especially large (thicker than an inch), cut them into quarters so they are roughly bite-size. Add any loose leaves that fall off to the pan — they will turn deliciously crispy.",
+            "Place the halved sprouts in a large bowl. Drizzle the olive oil over the sprouts, then sprinkle with the salt and pepper. Toss with your hands until evenly coated.",
+            "Carefully remove the hot baking sheet from the oven. Spread the sprouts onto the sheet in a single layer, arranging each one cut-side down for maximum browning and caramelization.",
+            "Roast until the sprouts are deeply browned on the cut sides and the outer leaves are crispy, 22 to 25 minutes, tossing once after the first 15 minutes. Season with additional salt and pepper to taste and serve immediately."
+        ],
+        "variations": [
+            "Balsamic finish: drizzle 2 tablespoons of balsamic vinegar over the sprouts immediately after removing them from the oven and toss to coat",
+            "Shallot addition: toss 3–4 thinly sliced shallots with a bit of olive oil and add them to the pan halfway through roasting",
+            "Parmesan crust: sprinkle freshly grated Parmesan or Pecorino Romano over the hot sprouts just before serving",
+            "Lemon brightness: squeeze fresh lemon juice over the finished sprouts and add lemon zest for a citrusy lift",
+            "Spicy-savory: toss roasted sprouts with a sauce of soy sauce, ginger, garlic, and sambal oelek for a Kung Pao-inspired version",
+            "Bacon boost: add chopped bacon to the baking sheet before roasting and let the fat render alongside the sprouts",
+            "Flaky salt finish: swap kosher salt for flaky sea salt sprinkled on just before serving for extra crunch",
+            "Butter swap: substitute melted butter for up to half of the olive oil for a richer flavor"
+        ],
+        "troubleshooting": [
+            "Q: Why are my Brussels sprouts soggy instead of crispy?  A: Excess moisture is the most common culprit; make sure to pat the sprouts completely dry before tossing with oil, and avoid overcrowding the pan — spread them in a single layer so steam can escape.",
+            "Q: Why aren't my sprouts browning evenly?  A: The pan may not have been hot enough before adding the sprouts; preheating the baking sheet in the oven allows the cut sides to begin searing immediately upon contact for even caramelization.",
+            "Q: Why are the centers still hard when the outsides look done?  A: The sprouts may be too large; cut any sprout thicker than one inch in half or into quarters so all pieces are roughly the same size and cook through in the same amount of time.",
+            "Q: Why are my sprouts burning in spots but raw in others?  A: Uneven sizing or insufficient oil causes hot spots; use enough oil to coat every sprout thoroughly, and make sure pieces are uniform in size before roasting.",
+            "Q: Can I make these ahead of time?  A: Roasted Brussels sprouts are best served immediately straight from the oven; if needed, roast them slightly underdone, then reheat on a hot baking sheet in a 425°F oven for 5–7 minutes to restore crispiness before serving."
+        ],
+        "sources": [
+            "https://www.simplyrecipes.com/ina-garten-roasted-brussels-sprouts-review-11808888",
+            "https://www.simplyrecipes.com/roasted-brussels-sprouts-recipe-8732204",
+            "https://www.bonappetit.com/story/roasted-brussels-sprouts-recipe-never-fail",
+            "https://www.seriouseats.com/roasted-brussels-sprouts-and-shallots-with-balsamic-vinegar-thanksgiving-recipe",
+            "https://www.americastestkitchen.com/articles/551-go-to-brussels-sprouts"
+        ],
+        "tags": [
+            "side-dish"
+        ],
+        "image": "/images/roasted-brussels-sprouts.webp"
+    },
+    {
+        "id": "roasted-potatoes",
+        "title": "Roasted Potatoes",
+        "description": "Crispy on the outside and creamy on the inside, these herb-roasted potatoes are the ultimate versatile side dish. A brief parboil with baking soda roughens the surface of the potatoes to maximize crispiness, while a fragrant garlic-rosemary infused oil coats every nook and cranny before a high-heat roast delivers deeply golden, flavorful results.",
+        "prepTime": "15 minutes",
+        "cookTime": "60 minutes",
+        "servings": "6",
+        "ingredients": [
+            "3 pounds russet or Yukon Gold potatoes, peeled and cut into 1½- to 2-inch chunks",
+            "2 tablespoons kosher salt, plus more to taste",
+            "½ teaspoon baking soda",
+            "5 tablespoons extra-virgin olive oil",
+            "3 medium cloves garlic, minced",
+            "2 tablespoons fresh rosemary leaves, finely chopped",
+            "2 tablespoons fresh parsley leaves, finely minced",
+            "Freshly ground black pepper to taste",
+            "Pinch of crushed red pepper flakes (optional)"
+        ],
+        "instructions": [
+            "Adjust an oven rack to the center position and preheat the oven to 425°F (220°C).",
+            "Bring 2 quarts of water to a boil in a large pot over high heat. Add 2 tablespoons kosher salt, the baking soda, and the potatoes. Stir to combine, return to a boil, then reduce to a simmer. Cook until a knife meets little resistance when inserted into a potato chunk, about 10 minutes.",
+            "Meanwhile, combine the olive oil, garlic, rosemary, and a few grinds of black pepper in a small saucepan over medium heat. Cook, stirring constantly, until the garlic just begins to turn golden, about 3 minutes. Immediately strain the oil through a fine-mesh strainer set over a large bowl, reserving the garlic and rosemary solids separately.",
+            "Drain the potatoes and return them to the pot. Let rest off the heat for about 30 seconds to allow excess moisture to evaporate.",
+            "Transfer the potatoes to the bowl with the infused oil. Season with a pinch of salt and pepper, then toss and shake the bowl vigorously until a thick, mashed potato–like paste builds up on the surface of the potato chunks.",
+            "Spread the potatoes in a single layer on a large rimmed baking sheet, making sure they are not overcrowded. Roast without moving for 20 minutes.",
+            "Using a thin metal spatula, flip and shake the potatoes to loosen any stuck pieces. Continue roasting, turning every 10 to 15 minutes, until the potatoes are deep golden brown and crispy all over, 25 to 35 minutes more.",
+            "Transfer the potatoes to a large bowl. Add the reserved garlic-rosemary solids, the minced parsley, and crushed red pepper flakes if using. Toss to coat, taste for seasoning, and serve immediately."
+        ],
+        "variations": [
+            "Swap olive oil for duck fat, goose fat, or beef tallow for an extra-rich, savory flavor.",
+            "Use baby potatoes, halved or quartered, and reduce roasting time by about 10 minutes.",
+            "Replace rosemary with fresh thyme for a more delicate herbal note.",
+            "Add a Mediterranean twist with za'atar, sumac, a squeeze of lemon juice, and toasted sesame seeds in place of the rosemary and parsley.",
+            "Stir in a pinch of smoked paprika or turmeric with the oil for added color and warmth.",
+            "For a spiced version, season with garlic powder, paprika, and grated Parmesan before roasting.",
+            "Cook in an air fryer at 400°F for 20 to 25 minutes, shaking the basket several times, for a quicker result with no oven preheating required.",
+            "Use butter instead of olive oil for a richer flavor."
+        ],
+        "troubleshooting": [
+            "Q: Why aren't my potatoes getting crispy?  A: The most common cause is overcrowding; make sure the potatoes are spread in a single layer with space between each piece so steam can escape and the edges can brown properly.",
+            "Q: Why are my potatoes sticking to the baking sheet?  A: Allow the potatoes to roast undisturbed for the first 20 minutes so a crust can form and release naturally; using a thin metal spatula will help free any stubborn pieces.",
+            "Q: Why do my potatoes taste bland?  A: Season generously at two points — in the parboiling water and again after tossing with the infused oil — and finish with a final taste and adjustment before serving.",
+            "Q: Why are my potatoes mushy instead of creamy inside?  A: They were likely overboiled; check for doneness by inserting a knife — it should meet just a little resistance, not slide through effortlessly.",
+            "Q: Why didn't the paste form on the surface of the potatoes?  A: The potatoes may not have been hot enough or drained long enough when tossed; make sure to shake and toss vigorously while the potatoes are still steaming hot to build up the starchy coating.",
+            "Q: Can I prep these potatoes ahead of time?  A: You can parboil the potatoes and toss them in the infused oil up to a few hours ahead, then spread them on the baking sheet and roast just before serving for the crispiest results."
+        ],
+        "sources": [
+            "https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe",
+            "https://www.delish.com/cooking/recipe-ideas/a22865719/herb-roasted-potatoes-recipe/",
+            "https://www.simplyrecipes.com/spiced-roasted-potatoes-recipe-11716522",
+            "https://www.seriouseats.com/air-fryer-roast-potatoes-recipe-8612615",
+            "https://food52.com/recipes/7952-a-medley-of-roasted-potatoes-with-homemade-za-atar-aleppo-pepper"
+        ],
+        "tags": [
+            "side-dish"
+        ],
+        "image": "/images/roasted-potatoes.webp"
+    },
+    {
+        "id": "sweet-potato-casserole",
+        "title": "Sweet Potato Casserole",
+        "description": "A classic Southern-style sweet potato casserole with a creamy, spiced sweet potato filling and a buttery pecan-brown sugar crumble topping. Perfect for Thanksgiving or any holiday gathering, this dish strikes an ideal balance between sweet and savory.",
+        "prepTime": "20 minutes",
+        "cookTime": "40 minutes",
+        "servings": "8",
+        "ingredients": [
+            "2 1/2 pounds sweet potatoes, peeled and cut into chunks",
+            "4 tablespoons unsalted butter, softened (for filling)",
+            "2 large eggs",
+            "1/2 cup whole milk",
+            "1/2 cup packed light brown sugar (for filling)",
+            "1 teaspoon kosher salt, divided",
+            "1/2 teaspoon ground nutmeg",
+            "1/2 teaspoon ground cinnamon",
+            "1/4 teaspoon pure vanilla extract",
+            "Cooking spray",
+            "1 cup chopped toasted pecans",
+            "1/2 cup all-purpose flour",
+            "1/3 cup packed light brown sugar (for topping)",
+            "4 tablespoons unsalted butter, melted (for topping)"
+        ],
+        "instructions": [
+            "Preheat the oven to 350°F and grease a 9x13-inch or similarly sized baking dish with cooking spray.",
+            "Place the sweet potato chunks in a large pot and cover with water. Bring to a boil over high heat, then reduce heat to medium-low and simmer until the potatoes are fork-tender, about 15 to 20 minutes. Drain well and let cool slightly.",
+            "Transfer the cooked sweet potatoes to a large bowl. Add the softened butter and mash with a potato masher or two forks to your desired consistency.",
+            "Add the eggs, milk, brown sugar for the filling, 1/2 teaspoon of the kosher salt, nutmeg, cinnamon, and vanilla extract to the mashed sweet potatoes. Stir until smooth and well combined.",
+            "Spread the sweet potato mixture evenly into the prepared baking dish.",
+            "In a medium bowl, combine the chopped pecans, flour, brown sugar for the topping, melted butter, and remaining 1/2 teaspoon kosher salt. Mix until the mixture resembles a coarse crumble.",
+            "Sprinkle the pecan topping evenly over the sweet potato filling.",
+            "Bake for 25 to 30 minutes, until the casserole is heated through and the topping is golden brown. Serve warm."
+        ],
+        "variations": [
+            "Top with mini marshmallows instead of the pecan crumble for a classic version; add them during the last 5 minutes of baking and broil briefly until golden.",
+            "Use coconut milk in place of whole milk for a dairy-free option with a subtle coconut flavor.",
+            "Add 1 tablespoon of pure maple syrup or a splash of bourbon to the sweet potato filling for extra depth.",
+            "Stir in 1 teaspoon of finely grated fresh ginger for a spicier, more savory filling.",
+            "Use brown butter instead of softened butter in the filling for a nuttier, more complex flavor.",
+            "Add shredded coconut to the pecan crumble topping for a tropical twist.",
+            "Bake the sweet potatoes whole at 400°F for 45 to 60 minutes instead of boiling, then scoop out the flesh for a deeper, more concentrated flavor.",
+            "Assemble the casserole a day ahead, cover, and refrigerate; add the topping just before baking and increase bake time by 10 minutes."
+        ],
+        "troubleshooting": [
+            "Q: Why is my sweet potato filling watery or loose?  A: The potatoes may have retained too much water from boiling; drain them thoroughly and allow them to steam-dry for a few minutes before mashing.",
+            "Q: Why is my pecan topping soggy instead of crumbly?  A: The topping may have absorbed moisture from the filling; make sure the filling is spread in an even layer and bake uncovered so steam can escape.",
+            "Q: Why is my casserole not heated through after the recommended bake time?  A: If the filling was cold from the refrigerator, allow it to come closer to room temperature before baking, or extend the bake time by 10 to 15 minutes.",
+            "Q: Why is the topping burning before the casserole is done?  A: Your oven may run hot; loosely tent the dish with foil for the first half of baking and remove it for the last 10 minutes to allow the topping to brown without burning.",
+            "Q: Can I make this casserole ahead of time?  A: Yes; prepare and spread the filling in the baking dish up to one day in advance, cover tightly, and refrigerate, then add the crumble topping and bake just before serving."
+        ],
+        "sources": [
+            "https://www.delish.com/cooking/recipe-ideas/a55342/best-sweet-potato-casserole-recipe/",
+            "https://food52.com/story/18490-sweet-potato-casserole-however-you-like-it-marshmallow-topped-or-not",
+            "https://food52.com/story/14561-your-sweet-potato-casserole-deserves-homemade-fluff",
+            "https://www.seriouseats.com/sweet-potato-casserole-marshmallow-recipe",
+            "https://www.allrecipes.com/recipe/229692/easy-sweet-potato-casserole/",
+            "https://en.wikipedia.org/wiki/Sweet_potato_casserole"
+        ],
+        "tags": [
+            "side-dish",
+            "american",
+            "comfort-food"
+        ],
+        "image": "/images/sweet-potato-casserole.webp"
+    },
+    {
+        "id": "green-bean-casserole",
+        "title": "Green Bean Casserole",
+        "description": "A classic American comfort dish created in 1955 by Dorcas Reilly at Campbell's Soup Company. This easy, crowd-pleasing side dish combines tender green beans and creamy mushroom soup, topped with crispy French-fried onions — a staple at Thanksgiving tables across the country. This version adds a touch of Worcestershire sauce and bacon for extra depth of flavor.",
+        "prepTime": "10 minutes",
+        "cookTime": "35 minutes",
+        "servings": "6",
+        "ingredients": [
+            "2 (15-ounce) cans cut green beans, drained",
+            "1 (10.5-ounce) can condensed cream of mushroom soup",
+            "1/2 cup milk",
+            "1 teaspoon Worcestershire sauce",
+            "1/2 teaspoon garlic powder",
+            "1/4 teaspoon black pepper",
+            "4 strips bacon, cooked crispy and crumbled",
+            "1 1/3 cups French-fried onions, divided",
+            "Salt to taste"
+        ],
+        "instructions": [
+            "Preheat the oven to 375°F (190°C).",
+            "Cook the bacon in a skillet over medium-low heat, flipping as needed, until crispy, about 7 to 10 minutes. Transfer to a paper towel-lined plate to drain, then crumble and set aside.",
+            "In a 1.5-quart baking dish, stir together the condensed cream of mushroom soup, milk, Worcestershire sauce, garlic powder, and black pepper until well combined.",
+            "Add the drained green beans and 1/3 cup of the French-fried onions to the baking dish and toss to coat everything evenly in the soup mixture.",
+            "Bake uncovered for 25 minutes, until the mixture is hot and bubbling. Stir the casserole halfway through baking.",
+            "Remove from the oven and scatter the crumbled bacon and remaining 1 cup of French-fried onions evenly over the top.",
+            "Return to the oven and bake for an additional 5 to 8 minutes, until the onions are golden brown and crispy.",
+            "Let the casserole rest for 5 minutes before serving. Season with salt to taste."
+        ],
+        "variations": [
+            "Use 1 pound fresh green beans, trimmed and blanched in boiling water for 5 minutes and drained, in place of canned beans for a firmer texture.",
+            "Use 4 cups frozen French-cut green beans, thawed and drained, instead of canned beans.",
+            "Substitute cream of celery or cream of onion soup for the cream of mushroom soup for a different flavor profile.",
+            "Replace the milk with half-and-half or sour cream for a richer, creamier sauce.",
+            "Add 8 ounces of sliced mushrooms sautéed in butter to the soup mixture for extra mushroom flavor.",
+            "Stir in 1/2 cup shredded cheddar or Gruyère cheese for a cheesy variation.",
+            "Omit the bacon and Worcestershire sauce for a simpler, vegetarian-friendly version.",
+            "Prepare in a slow cooker on low for 3 to 4 hours, adding the fried onions on the side just before serving since they will not crisp in a slow cooker.",
+            "Top with tahini-dressed lentils and crispy garlic instead of fried onions for a creative non-traditional riff."
+        ],
+        "troubleshooting": [
+            "Q: Why is my casserole too watery or runny?  A: Canned and frozen green beans release extra liquid during baking; drain them very thoroughly before mixing, and reduce the milk to 1/4 cup to keep the sauce thick and creamy.",
+            "Q: Why are my fried onion topping soggy instead of crispy?  A: The onions may have been added too early; always add them during the last 5 to 8 minutes of baking so they stay crunchy on top.",
+            "Q: Why does my casserole taste bland?  A: Boost flavor by making sure to include the Worcestershire sauce and garlic powder, and add freshly cracked black pepper; the condensed soup provides saltiness, but these seasonings add essential depth.",
+            "Q: Can I assemble this casserole ahead of time?  A: Yes, you can mix the green beans and soup mixture in the baking dish, cover, and refrigerate for up to 24 hours; add the fried onion topping just before baking and increase the baking time by about 10 minutes since the dish will be cold.",
+            "Q: Why is there too much liquid even after baking?  A: Adding a third can of green beans can help absorb excess liquid and balance the ratio of sauce to vegetables without affecting flavor."
+        ],
+        "sources": [
+            "https://www.allrecipes.com/recipe/13660/green-bean-casserole-i/",
+            "https://food52.com/story/14769-the-green-bean-casserole-that-breaks-all-the-rules",
+            "https://www.seriouseats.com/gluten-free-green-bean-casserole-recipe",
+            "https://www.simplyrecipes.com/easy-green-bean-casserole-recipe-8730542",
+            "https://www.allrecipes.com/recipe/282419/classic-green-beans-au-gratin/",
+            "https://en.wikipedia.org/wiki/Green_bean_casserole"
+        ],
+        "tags": [
+            "side-dish",
+            "american",
+            "comfort-food"
+        ],
+        "image": "/images/green-bean-casserole.webp"
+    },
+    {
+        "id": "caesar-salad",
+        "title": "Caesar Salad",
+        "description": "A classic Caesar salad featuring crisp romaine lettuce tossed in a rich, tangy homemade dressing of anchovies, garlic, lemon, egg yolk, and Parmesan, topped with crunchy croutons. Bold, satisfying, and surprisingly simple to make from scratch.",
+        "prepTime": "20 minutes",
+        "cookTime": "0 minutes",
+        "servings": "4",
+        "ingredients": [
+            "3–4 anchovy fillets, plus more for garnish if desired",
+            "3 cloves garlic, finely minced or smashed",
+            "1 tablespoon Dijon mustard",
+            "2 tablespoons fresh lemon juice (about half a lemon)",
+            "1 tablespoon red wine vinegar",
+            "1 large egg yolk",
+            "1 dash Worcestershire sauce",
+            "1/3 cup extra-virgin olive oil",
+            "Salt and freshly ground black pepper to taste",
+            "2 heads romaine lettuce, outer leaves removed, chopped or torn",
+            "1/2 cup grated Parmesan cheese, plus extra for serving",
+            "1 cup croutons"
+        ],
+        "instructions": [
+            "Gather all ingredients and chill the romaine lettuce in the refrigerator until ready to use.",
+            "In a large salad bowl, use a fork or the back of a spoon to mash the anchovy fillets and garlic together into a smooth paste.",
+            "Add the Dijon mustard, lemon juice, red wine vinegar, egg yolk, and Worcestershire sauce to the bowl and whisk vigorously until the mixture is smooth and well combined.",
+            "While whisking constantly, slowly stream in the olive oil in a thin, steady drizzle until the dressing is emulsified and slightly creamy.",
+            "Season the dressing generously with salt and freshly ground black pepper, then taste and adjust acidity or seasoning as needed.",
+            "Add the chopped romaine lettuce to the bowl and toss well to coat every leaf thoroughly with the dressing.",
+            "Add the grated Parmesan cheese and toss again until evenly distributed.",
+            "Top the salad with croutons, add extra Parmesan shavings if desired, and serve immediately."
+        ],
+        "variations": [
+            "Use champagne vinegar instead of red wine vinegar for a lighter, more delicate tang.",
+            "Substitute a coddled egg (submerged in boiling water for exactly 60 seconds, then cooled) for the raw egg yolk for a slightly thicker, creamier dressing with reduced raw-egg concern.",
+            "Replace the raw egg yolk with 2–3 tablespoons of mayonnaise for a fully emulsified, egg-safe creamy dressing.",
+            "Add grilled or pan-seared chicken breast slices on top for a complete main-course salad.",
+            "Use a mix of romaine and bitter chicories such as endive, escarole, or radicchio for added depth and complexity.",
+            "For a vegan version, blend tahini, lemon juice, Dijon mustard, garlic, capers with brine, and nutritional yeast in place of the anchovy-egg dressing.",
+            "Rub the inside of the salad bowl with a halved garlic clove before building the dressing for a more subtle garlic background.",
+            "Use anchovy paste (about 1 teaspoon) instead of whole fillets for a smoother, more evenly integrated dressing.",
+            "Serve with whole romaine leaves instead of chopped lettuce to eat the salad by hand, in the traditional original style."
+        ],
+        "troubleshooting": [
+            "Q: Why is my dressing thin and not creamy?  A: The oil was likely added too quickly; drizzle it in very slowly while whisking constantly to allow the emulsion to form properly.",
+            "Q: Why does my dressing taste too sharp or acidic?  A: Too much vinegar or lemon juice can overwhelm the dressing; reduce the acid slightly and balance with a bit more olive oil or a pinch of salt.",
+            "Q: Why is my dressing too fishy?  A: The anchovy quantity may be too high for your taste; start with two fillets and increase gradually, as the flavor mellows once combined with the other ingredients.",
+            "Q: Why did my salad turn watery and soggy?  A: Romaine lettuce must be thoroughly dried after washing before dressing; excess water on the leaves dilutes the dressing and causes sogginess.",
+            "Q: Is it safe to use a raw egg yolk in the dressing?  A: Raw egg yolk carries a small risk of salmonella; use a pasteurized egg, coddle the egg for 60 seconds in boiling water, or substitute mayonnaise to eliminate the risk.",
+            "Q: Why does my garlic taste harsh and bitter?  A: Raw garlic can be pungent; mashing it into a paste with the anchovies and a pinch of salt helps mellow its sharpness and integrate it more smoothly into the dressing.",
+            "Q: Why are my croutons soggy?  A: Croutons should be added just before serving, as they absorb moisture quickly once they contact the dressed lettuce."
+        ],
+        "sources": [
+            "https://www.allrecipes.com/recipe/229063/classic-restaurant-caesar-salad/",
+            "https://food52.com/story/9628-a-girl-and-her-pig-s-caesar-salad",
+            "https://food52.com/blog/27302-why-ali-slagle-chicken-caesar-salad-is-genius",
+            "https://www.seriouseats.com/grilled-chicken-caesar-salad-recipe-8656144",
+            "https://food52.com/story/27302-why-ali-slagle-chicken-caesar-salad-is-genius",
+            "https://en.wikipedia.org/wiki/Caesar_salad"
+        ],
+        "tags": [
+            "side-dish",
+            "appetizer"
+        ],
+        "image": "/images/caesar-salad.webp"
+    },
+    {
+        "id": "greek-salad",
+        "title": "Greek Salad",
+        "description": "A classic Greek salad (horiatiki) bursting with fresh Mediterranean flavors — juicy tomatoes, crisp cucumber, briny Kalamata olives, red onion, and creamy feta, all tossed in a bright red wine vinegar and olive oil dressing. Simple, vibrant, and endlessly satisfying as a side or light meal.",
+        "prepTime": "15 minutes",
+        "cookTime": "0 minutes",
+        "servings": "4-6",
+        "ingredients": [
+            "1 large English cucumber, peeled and cut into chunky pieces",
+            "2 cups cherry or grape tomatoes, halved (or 3 large plum tomatoes, coarsely chopped)",
+            "1/2 red onion, thinly sliced",
+            "1 cup pitted Kalamata olives, halved",
+            "1 green bell pepper, seeded and sliced into strips",
+            "6 oz feta cheese, cut into cubes or crumbled",
+            "3 tablespoons red wine vinegar",
+            "1 tablespoon fresh lemon juice (about half a lemon)",
+            "1 teaspoon dried oregano (or 2 teaspoons fresh oregano, chopped)",
+            "1/2 teaspoon kosher salt, plus more to taste",
+            "1/4 teaspoon freshly ground black pepper, plus more to taste",
+            "1/3 cup extra-virgin olive oil"
+        ],
+        "instructions": [
+            "Salt the cucumber pieces lightly, toss them in a colander, and let them drain for 10 to 15 minutes to draw out excess moisture; rinse briefly and pat dry.",
+            "While the cucumber drains, halve the tomatoes, thinly slice the red onion, halve the olives, and slice the bell pepper into strips.",
+            "In a small bowl or jar, whisk together the red wine vinegar, lemon juice, oregano, salt, and pepper. Slowly stream in the olive oil, whisking constantly until the dressing is smooth and emulsified.",
+            "Combine the drained cucumber, tomatoes, red onion, olives, and bell pepper in a large bowl. Drizzle the red wine vinegar over the vegetables first and toss to coat, allowing the vegetables to absorb the acid before adding the oil.",
+            "Drizzle the olive oil over the salad and toss again until everything is evenly coated.",
+            "Gently fold in about two-thirds of the feta so it stays mostly intact. Taste and adjust seasoning with additional salt and pepper as needed.",
+            "Transfer the salad to a serving platter or bowl. Scatter the remaining feta on top and finish with an extra pinch of dried oregano. Serve immediately at room temperature for the best flavor, or refrigerate for up to 30 minutes before serving."
+        ],
+        "variations": [
+            "Add a few handfuls of chopped romaine lettuce to make the salad more substantial and filling.",
+            "Use a mix of Kalamata and green olives for a more complex olive flavor.",
+            "Add capers or caper berries for an extra briny punch, especially authentic to the Cyclades islands.",
+            "Include sliced pepperoncini for a mild heat common in American-style Greek salads.",
+            "Top with grilled chicken, shrimp, or chickpeas to turn the salad into a complete main course.",
+            "Substitute fresh dill alongside or instead of oregano for a slightly different herbal note.",
+            "Serve the feta as one large slab on top of the salad with a drizzle of olive oil and oregano for a traditional presentation.",
+            "Use avocado oil in place of olive oil in the dressing for a neutral alternative."
+        ],
+        "troubleshooting": [
+            "Q: Why is my salad watery and diluted?  A: Cucumbers and tomatoes release liquid after cutting; salt and drain the cucumber pieces before assembling, use room-temperature tomatoes for the best flavor, and dress the salad just before serving rather than in advance.",
+            "Q: Why does the dressing taste flat?  A: The balance of acid and oil is key; add a bit more red wine vinegar or lemon juice, a pinch more salt, and make sure to use good-quality extra-virgin olive oil for the most flavorful result.",
+            "Q: Why is the feta falling apart and making the salad mushy?  A: Feta is delicate; fold it in gently at the end rather than tossing aggressively, and consider leaving larger cubes intact or placing a slab on top to preserve its texture.",
+            "Q: Why is the red onion flavor too sharp and overpowering?  A: Raw red onion can be pungent; soak the sliced onion in cold water for 10 minutes before adding it to the salad, then drain and pat dry to mellow its bite.",
+            "Q: Why is my dressing separating and not emulsifying?  A: Dressings without an emulsifier will separate quickly; whisk the vinegar and lemon juice together first, then stream in the olive oil very slowly while whisking steadily, or shake vigorously in a sealed jar just before dressing the salad."
+        ],
+        "sources": [
+            "https://www.budgetbytes.com/greek-salad/",
+            "https://www.delish.com/cooking/recipe-ideas/a54226/best-greek-salad-recipe/",
+            "https://www.simplyrecipes.com/recipes/dads_greek_salad/",
+            "https://www.allrecipes.com/recipe/267974/my-big-fat-greek-salad/",
+            "https://food52.com/story/26479-yasmin-khan-ripe-figs-cookbook",
+            "https://en.wikipedia.org/wiki/Greek_salad"
+        ],
+        "tags": [
+            "side-dish",
+            "appetizer"
+        ],
+        "image": "/images/greek-salad.webp"
+    },
+    {
+        "id": "broccoli-salad",
+        "title": "Broccoli Salad",
+        "description": "A classic American side salad featuring crisp broccoli florets tossed with sweet grapes, dried cranberries, crunchy walnuts, sunflower seeds, red onion, and bacon bits, all brought together with a creamy, tangy mayonnaise dressing. Best made ahead and chilled for the flavors to meld.",
+        "prepTime": "20 minutes",
+        "cookTime": "0 minutes",
+        "servings": "6",
+        "ingredients": [
+            "4 cups broccoli florets, cut into bite-size pieces (from about 2 broccoli crowns)",
+            "1 cup seedless red grapes, halved",
+            "1/2 cup sweetened dried cranberries",
+            "3/4 cup chopped walnuts",
+            "1/4 cup sunflower seed kernels",
+            "1/4 cup bacon bits",
+            "1/4 medium red onion, finely chopped",
+            "1 cup mayonnaise",
+            "3 tablespoons apple cider vinegar",
+            "2 tablespoons white sugar",
+            "Salt and black pepper to taste"
+        ],
+        "instructions": [
+            "In a small bowl, whisk together the mayonnaise, apple cider vinegar, and sugar until the sugar dissolves and the dressing is smooth. Season lightly with salt and pepper and set aside.",
+            "In a large bowl, combine the broccoli florets, halved grapes, dried cranberries, walnuts, sunflower seed kernels, bacon bits, and red onion.",
+            "Drizzle the dressing over the salad mixture and gently toss until everything is evenly coated. Add dressing gradually to avoid overdressing; you may not need all of it.",
+            "Cover the bowl with plastic wrap and refrigerate for at least 3 to 4 hours, or overnight, to allow the flavors to meld.",
+            "Stir the salad before serving and taste for seasoning, adjusting with salt, pepper, or a splash more vinegar if desired."
+        ],
+        "variations": [
+            "Swap red grapes for extra dried cranberries or raisins if grapes are unavailable.",
+            "Replace walnuts with sliced almonds, pecans, or sunflower seeds for a different crunch.",
+            "Use Greek yogurt in place of half or all of the mayonnaise for a lighter dressing.",
+            "Add shredded sharp cheddar cheese for a savory, tangy element.",
+            "Reduce sugar to 1 tablespoon and add a teaspoon of Dijon mustard for a less sweet, more savory dressing.",
+            "For a vegan version, omit bacon bits, use vegan mayonnaise, and add smoked paprika for a smoky note.",
+            "For a pesto variation, blend fresh basil, garlic, lemon juice, olive oil, and walnuts into a dressing and toss with thinly sliced raw broccoli and sliced apple.",
+            "For a warm winter version, roast broccoli and butternut squash, then toss with crumbled bacon, chopped apple, and a honey-Dijon vinaigrette."
+        ],
+        "troubleshooting": [
+            "Q: Why does my salad taste bland right after mixing?  A: Broccoli salad needs time to marinate; refrigerating it for at least 3 to 4 hours allows the dressing to season the vegetables and meld the flavors.",
+            "Q: Why is my dressing too sweet?  A: Reduce the sugar to 1 tablespoon and add an extra splash of apple cider vinegar to balance the sweetness to your taste.",
+            "Q: Why does my salad seem overdressed and soggy?  A: Add the dressing gradually rather than all at once, tossing as you go, and stop when the salad is lightly coated to your preference.",
+            "Q: Why is my broccoli too tough or difficult to chew raw?  A: Cut the florets into small, uniform bite-size pieces; for a more tender result, briefly blanch the broccoli in salted boiling water for 60 to 90 seconds, then shock in ice water and drain thoroughly before using.",
+            "Q: How long can I store leftover broccoli salad?  A: Leftovers keep well covered in the refrigerator for up to 3 days; stir before serving as the dressing may settle."
+        ],
+        "sources": [
+            "https://www.allrecipes.com/recipe/238118/best-broccoli-salad-ever/",
+            "https://food52.com/story/23584-best-broccoli-salad-recipe-easy-weeknight-dinners",
+            "https://food52.com/recipes/78432-broccoli-salad-with-pesto-apples-walnuts",
+            "https://www.simplyrecipes.com/roasted-winter-broccoli-salad-recipe-11908299",
+            "https://www.americastestkitchen.com/articles/3248-new-school-broccoli-salad"
+        ],
+        "tags": [
+            "side-dish"
+        ],
+        "image": "/images/broccoli-salad.webp"
+    },
+    {
+        "id": "guacamole",
+        "title": "Guacamole",
+        "description": "A classic Mexican avocado-based dip that balances creamy, tangy, and spicy flavors. The key is using ripe avocados and mashing them only until coarsely textured — you want to feel the avocado, not lose it entirely. Salting aggressively and tasting as you go ensures the bold flavors cut through the rich avocado.",
+        "prepTime": "10 minutes",
+        "cookTime": "0 minutes",
+        "servings": "4",
+        "ingredients": [
+            "3 ripe Hass avocados, halved and pitted",
+            "2 tablespoons fresh lime juice (from about 1 lime), plus more to taste",
+            "1 teaspoon kosher salt, plus more to taste",
+            "1/4 cup finely chopped white onion",
+            "1 serrano or jalapeño pepper, minced (seeds included for more heat, removed for less)",
+            "1/4 cup fresh cilantro, chopped, divided",
+            "1/2 cup diced tomato, seeded and patted dry",
+            "1 clove garlic, finely grated (optional)",
+            "Ground black pepper to taste"
+        ],
+        "instructions": [
+            "Using a fork, the back of a spoon, or a molcajete, mash the onion, chile pepper, salt, and half of the cilantro together into a coarse paste — this blooms the aromatics and distributes their flavor evenly throughout the guacamole.",
+            "Score the avocado flesh in a crosshatch pattern with a knife (without cutting through the skin), then scoop it out with a spoon into the bowl or molcajete.",
+            "Fold and toss the avocado into the chile-onion paste, mashing very coarsely with a fork or pestle. Leave plenty of chunky pieces — do not over-mash, as the avocado will continue to break down as you stir in remaining ingredients.",
+            "Add the garlic (if using), diced tomato, lime juice, and remaining cilantro. Fold gently to combine.",
+            "Season generously with salt and additional lime juice to taste. Wait 5 minutes before adjusting heat or seasoning further, as flavors intensify as the guacamole sits.",
+            "Serve immediately with tortilla chips, or press plastic wrap directly against the surface of the guacamole and refrigerate until ready to serve."
+        ],
+        "variations": [
+            "Use lemon juice instead of lime juice for a slightly different citrus note",
+            "Substitute a milder red chili for jalapeño or serrano for a gentler heat",
+            "Add a squeeze of lime and a drizzle of olive oil over the top for a vinaigrette-dressed texture",
+            "Stir in a few tablespoons of sour cream for a creamier, party-style dip",
+            "Omit cilantro if serving alongside tacos — offer it on the side instead",
+            "Add diced mango or papaya for a fruity variation",
+            "Use rice vinegar whisked with olive oil as a dressing poured over the finished guacamole for extra tang",
+            "Add a pinch of cumin or smoked paprika for a smoky depth"
+        ],
+        "troubleshooting": [
+            "Q: Why did my guacamole turn brown so quickly?  A: Browning is caused by oxidation; press plastic wrap directly onto the surface of the guacamole (eliminating air contact), add a little extra lime juice, or place the avocado pits back into the dip until ready to serve.",
+            "Q: Why is my guacamole too spicy after it sits?  A: Chili heat intensifies over time as it leaches into the avocado, so always wait a few minutes after mixing before adding more pepper, and start with a smaller amount than you think you need.",
+            "Q: Why does my guacamole taste bland?  A: Avocado's high fat content coats the tongue and mutes other flavors, so the dip needs aggressive seasoning — add more salt and lime juice in small increments, tasting after each addition.",
+            "Q: Why is my guacamole watery or soggy?  A: Tomatoes release moisture into the mixture; always seed the tomatoes and pat them dry before adding them to prevent the guacamole from becoming watery.",
+            "Q: Why is my guacamole greasy rather than creamy?  A: Over-mashing releases too much of the avocado's natural oil; mash only until coarsely textured, leaving visible chunks throughout."
+        ],
+        "sources": [
+            "https://www.allrecipes.com/recipe/221286/traditional-mexican-guacamole/",
+            "https://food52.com/story/23717-best-guacamole-recipe-easy-how-to-make-guacamole",
+            "https://food52.com/story/3933-roberto-santibanez-classic-guacamole",
+            "https://food52.com/recipes/18251-roberto-santibanez-classic-guacamole",
+            "https://www.bonappetit.com/columns/cooking-without-recipes/article/authentic-guacamole",
+            "https://en.wikipedia.org/wiki/Guacamole"
+        ],
+        "tags": [
+            "appetizer",
+            "mexican"
+        ],
+        "image": "/images/guacamole.webp"
+    },
+    {
+        "id": "spinach-artichoke-dip",
+        "title": "Spinach Artichoke Dip",
+        "description": "This classic baked spinach artichoke dip is rich, creamy, and irresistibly cheesy. A combination of cream cheese, sour cream, and mayonnaise creates the perfect base, while a blend of Parmesan, Gruyère, and mozzarella adds deep, savory flavor. Serve hot straight from the oven with tortilla chips, toasted baguette slices, or pita chips.",
+        "prepTime": "15 minutes",
+        "cookTime": "30 minutes",
+        "servings": "8",
+        "ingredients": [
+            "1 (8-ounce) block cream cheese, softened",
+            "1/2 cup sour cream",
+            "1/4 cup mayonnaise",
+            "1 (14-ounce) can artichoke hearts, drained and chopped",
+            "1 (10-ounce) package frozen chopped spinach, thawed, drained, and squeezed dry",
+            "2 cloves garlic, minced",
+            "1/2 cup freshly grated Parmesan cheese",
+            "1/2 cup shredded Gruyère cheese",
+            "1 cup shredded mozzarella cheese, divided",
+            "1 teaspoon lemon zest",
+            "1/4 teaspoon red pepper flakes",
+            "1/4 teaspoon dried basil",
+            "1/4 teaspoon garlic salt",
+            "Salt and freshly ground black pepper to taste"
+        ],
+        "instructions": [
+            "Preheat the oven to 375°F (190°C) and lightly grease a medium baking dish (about 8x8 inches or similar).",
+            "In a large bowl, combine the softened cream cheese, sour cream, and mayonnaise, stirring until smooth and well blended.",
+            "Add the minced garlic, Parmesan, Gruyère, and 3/4 cup of the mozzarella to the cream cheese mixture and stir to combine.",
+            "Stir in the lemon zest, red pepper flakes, dried basil, and garlic salt. Season with salt and black pepper to taste.",
+            "Gently fold in the drained artichoke hearts and squeezed-dry spinach until evenly distributed throughout the mixture.",
+            "Transfer the mixture to the prepared baking dish and smooth the top with a spatula. Sprinkle the remaining 1/4 cup mozzarella evenly over the top.",
+            "Bake for 25 to 30 minutes, until the dip is heated through, bubbly around the edges, and lightly golden on top.",
+            "For a deeper golden-brown crust, broil on high for an additional 2 minutes, watching closely to prevent burning.",
+            "Remove from the oven and let rest for 3 to 5 minutes before serving hot with tortilla chips, toasted baguette slices, or pita chips."
+        ],
+        "variations": [
+            "Substitute an equal amount of plain Greek yogurt for the sour cream for a lighter, tangier dip.",
+            "Replace the Gruyère with shredded white cheddar or fontina for a different flavor profile.",
+            "Use 2 cups of fresh baby spinach, finely chopped, in place of frozen spinach; sauté briefly to wilt and squeeze out excess moisture before using.",
+            "Add 1/4 teaspoon cayenne pepper or a few dashes of hot sauce for extra heat.",
+            "Stir in 2 tablespoons of butter-sautéed green onions for added depth and color.",
+            "Mix all the mozzarella into the dip rather than reserving some for the top to avoid a thick, hard cheese layer that makes dipping difficult.",
+            "Serve in a hollowed-out sourdough bread bowl for a dramatic presentation.",
+            "Assemble the dip up to one day ahead, refrigerate unbaked, and bake just before serving.",
+            "Freeze the unbaked dip in a freezer-safe dish for up to one month; thaw overnight in the refrigerator before baking."
+        ],
+        "troubleshooting": [
+            "Q: Why is my dip too thick and dry after baking?  A: The spinach may not have been squeezed dry enough, leaving excess water that then evaporated, or the dip was overbaked; try adding an extra tablespoon or two of sour cream to the mixture before baking and check for doneness at the 25-minute mark.",
+            "Q: Why is the cheese on top forming a hard crust that makes dipping impossible?  A: Too much cheese was piled on the surface; reserve only a small amount of mozzarella for the top and mix the rest directly into the dip for a smoother, more dippable result.",
+            "Q: Why does my dip seem watery or soupy?  A: The spinach or artichoke hearts were not drained and squeezed thoroughly enough; always press the thawed spinach in a clean kitchen towel or paper towels and pat the artichoke hearts dry before mixing them in.",
+            "Q: Why isn't the top browning?  A: Ovens vary in temperature; if the dip is heated through but the top is still pale, switch the oven to broil on high for 1 to 2 minutes, keeping a close watch to prevent burning.",
+            "Q: Can I keep the dip warm for a party without it drying out?  A: Yes; transfer the baked dip to a small slow cooker set on the warm or low setting, which keeps it creamy and scoopable without overcooking it."
+        ],
+        "sources": [
+            "https://www.allrecipes.com/recipe/26819/hot-artichoke-and-spinach-dip-ii/",
+            "https://www.delish.com/cooking/recipe-ideas/a57633/baked-spinach-artichoke-dip-recipe/",
+            "https://www.allrecipes.com/recipe/221191/chef-johns-hot-spinach-artichoke-dip/",
+            "https://www.seriouseats.com/mediterranean-flavors-spinach-and-artichoke-dip-recipe",
+            "https://food52.com/story/23477-hot-spinach-artichoke-holiday-appetizer-for-a-crowd-dip-big-little-recipes"
+        ],
+        "tags": [
+            "appetizer"
+        ],
+        "image": "/images/spinach-artichoke-dip.webp"
+    },
+    {
+        "id": "deviled-eggs",
+        "title": "Deviled Eggs",
+        "description": "Classic deviled eggs made with perfectly hard-boiled eggs and a creamy, tangy mayonnaise and mustard filling. A timeless appetizer that comes together quickly and disappears even faster at any gathering.",
+        "prepTime": "20 minutes",
+        "cookTime": "15 minutes",
+        "servings": "12",
+        "ingredients": [
+            "6 large eggs",
+            "3 tablespoons mayonnaise, plus more as needed",
+            "1 teaspoon Dijon or yellow mustard",
+            "1 teaspoon white vinegar or apple cider vinegar",
+            "salt and black pepper to taste",
+            "1 teaspoon paprika, for garnish"
+        ],
+        "instructions": [
+            "Place eggs in a single layer in a saucepan and cover with cold water by about an inch. Bring to a boil over medium heat, then cover the pot, remove from heat, and let sit for 12 to 13 minutes.",
+            "Meanwhile, prepare an ice bath by filling a large bowl with cold water and ice. Transfer the cooked eggs immediately to the ice bath and let cool for at least 10 minutes.",
+            "Peel the cooled eggs and slice each one in half lengthwise, wiping the knife clean between cuts for neat edges. Gently pop the yolks out into a medium bowl and set the whites aside on a serving platter.",
+            "Add the mayonnaise, mustard, and vinegar to the yolks. Mash and stir with a fork until smooth and creamy. Season with salt and pepper to taste. If the mixture seems too thick, add a little more mayonnaise until it reaches a smooth, pipeable consistency.",
+            "Transfer the yolk mixture to a piping bag or a resealable plastic bag with one corner snipped off. Pipe the filling generously into each egg white half, slightly overfilling each one.",
+            "Sprinkle paprika over the filled eggs. Refrigerate until ready to serve."
+        ],
+        "variations": [
+            "Swap white vinegar for dill or bread-and-butter pickle juice for a sweeter or tangier flavor",
+            "Replace up to half the mayonnaise with plain Greek yogurt for a lighter, tangier filling",
+            "Add a dash of hot sauce or a pinch of cayenne pepper for heat",
+            "Stir in a tablespoon of sweet pickle relish for a classic sweet-savory profile",
+            "Mix in a teaspoon of Worcestershire sauce, a teaspoon of fresh lemon juice, and a small amount of prepared horseradish for a bold, zesty version",
+            "Top with crumbled bacon and shredded cheddar cheese for a loaded variation",
+            "Garnish with freshly chopped chives, dill, or parsley instead of or in addition to paprika",
+            "Push the yolks through a fine-mesh strainer before mixing for an ultra-smooth, silky filling"
+        ],
+        "troubleshooting": [
+            "Q: Why are my eggs hard to peel?  A: Fresh eggs are harder to peel; use eggs that are at least a week old, and always transfer cooked eggs immediately to an ice bath to make peeling easier.",
+            "Q: Why do my yolks have a greenish-grey ring?  A: Overcooking causes this reaction; remove the eggs from heat promptly and cool them in an ice bath to stop cooking and keep yolks bright yellow.",
+            "Q: Why is my filling too dry and crumbly?  A: The ratio of mayonnaise to yolks may need adjusting; add more mayonnaise one teaspoon at a time and mix until the filling reaches a smooth, creamy consistency.",
+            "Q: Why does my filling taste bland?  A: Taste the filling before piping and adjust seasoning; add more salt, pepper, mustard, or vinegar in small increments until the flavor is balanced and bright.",
+            "Q: How far in advance can I make deviled eggs?  A: You can hard-boil and peel the eggs and prepare the filling up to two days ahead, storing them separately in the refrigerator; fill and garnish just before serving for the best presentation."
+        ],
+        "sources": [
+            "https://www.allrecipes.com/recipe/16698/deviled-eggs-ii/",
+            "https://food52.com/story/10152-how-to-make-deviled-eggs-without-a-recipe",
+            "https://www.allrecipes.com/i-tried-our-5-most-popular-deviled-egg-recipes-11709329",
+            "https://food52.com/recipes/12462-deviled-eggs-purgatory-edition",
+            "https://www.simplyrecipes.com/oprah-deviled-eggs-review-11725440",
+            "https://en.wikipedia.org/wiki/Deviled_eggs"
+        ],
+        "tags": [
+            "appetizer",
+            "american"
+        ],
+        "image": "/images/deviled-eggs.webp"
+    },
+    {
+        "id": "buffalo-chicken-dip",
+        "title": "Buffalo Chicken Dip",
+        "description": "A creamy, cheesy, crowd-pleasing party dip loaded with shredded chicken, hot sauce, and melted cheese. It comes together quickly and bakes up bubbly and golden — perfect for game days, gatherings, or any occasion that calls for a seriously addictive appetizer.",
+        "prepTime": "15 minutes",
+        "cookTime": "30 minutes",
+        "servings": "8",
+        "ingredients": [
+            "1 pound cooked chicken breast, shredded (rotisserie, poached, or baked)",
+            "8 oz cream cheese, softened",
+            "1 cup ranch dressing",
+            "3/4 cup Buffalo hot sauce (such as Frank's RedHot), plus more to taste",
+            "1 1/2 cups shredded cheddar cheese, divided",
+            "1/3 cup crumbled blue cheese",
+            "1/2 teaspoon garlic powder",
+            "1/2 teaspoon onion powder",
+            "3 green onions, thinly sliced (green parts only)",
+            "Cooking spray or butter, for greasing the baking dish",
+            "Tortilla chips, celery sticks, or baguette slices, for serving"
+        ],
+        "instructions": [
+            "Preheat the oven to 375°F (190°C) and lightly grease a shallow 1- to 1.5-quart baking dish with cooking spray or butter.",
+            "In a large bowl, beat the softened cream cheese with the ranch dressing, garlic powder, and onion powder until smooth and well combined. A hand mixer makes this step faster and smoother.",
+            "Add the hot sauce and stir to fully incorporate into the cream cheese mixture.",
+            "Fold in the shredded chicken and 1 cup of the shredded cheddar cheese until evenly distributed.",
+            "Transfer the mixture to the prepared baking dish and spread into an even layer.",
+            "Sprinkle the remaining 1/2 cup of shredded cheddar cheese evenly over the top, then scatter the crumbled blue cheese over everything.",
+            "Bake uncovered until the dip is bubbly around the edges and the cheese on top is melted and lightly golden, 25 to 30 minutes. Let stand for 5 to 10 minutes before serving.",
+            "Garnish with sliced green onions and serve warm with tortilla chips, celery sticks, or baguette slices."
+        ],
+        "variations": [
+            "Use sour cream spiked with garlic and onion powder in place of ranch dressing for a tangier, fresher base.",
+            "Substitute blue cheese dressing for ranch dressing if you prefer a more pronounced blue cheese flavor throughout.",
+            "Add 2 oz of crumbled Gorgonzola or other mild blue cheese into the dip mixture itself for extra piquancy.",
+            "Use shredded pepper jack cheese instead of cheddar for added heat.",
+            "Swap the chicken for two 15-oz cans of rinsed chickpeas for a vegetarian version — blend half the chickpeas into the base and stir in the rest whole.",
+            "Cook the dip in a slow cooker on low for 2 to 3 hours instead of baking, stirring occasionally, for an easy keep-warm option at parties.",
+            "Add 4 strips of crumbled crispy bacon on top just before serving for a smoky layer of flavor.",
+            "Use canned chicken (two 10-oz cans, drained) as a quick pantry-friendly shortcut."
+        ],
+        "troubleshooting": [
+            "Q: Why is my dip greasy or oily after baking?  A: This typically happens when too much fat renders out from the chicken or cheeses; make sure the cream cheese is fully softened and well mixed before baking, and avoid using exclusively dark-meat chicken, which releases more fat.",
+            "Q: Why is my dip too thick and hard to scoop?  A: The ratio of cream cheese to liquid may be off; stir in an extra splash of hot sauce or ranch dressing before baking to loosen the mixture to a scoopable consistency.",
+            "Q: Why is my dip not hot all the way through after the recommended bake time?  A: The dip was likely cold when it went into the oven; allow the assembled dip to sit at room temperature for 15 to 20 minutes before baking, or extend the bake time by 5 to 10 minutes until it is fully heated through and bubbly.",
+            "Q: Why does the top look done but the center is still cold?  A: The dish may be too deep or the dip too thick; use a shallow, wide baking dish to promote even heating, and stir the dip halfway through baking if needed.",
+            "Q: Can I make this dip ahead of time?  A: Yes — assemble the dip fully, cover, and refrigerate for up to 24 hours before baking; add 5 to 10 extra minutes to the bake time since it will be starting from cold.",
+            "Q: Why is the dip not spicy enough?  A: The amount of hot sauce can be increased up to 1 cup total to suit your preference, and adding a pinch of cayenne pepper to the cream cheese mixture also boosts heat without altering the texture."
+        ],
+        "sources": [
+            "https://www.bonappetit.com/story/buffalo-chicken-dip-recipe",
+            "https://www.allrecipes.com/recipe/284604/the-best-buffalo-chicken-dip/",
+            "https://www.tasteofhome.com/recipes/buffalo-chicken-dip/",
+            "https://www.seriouseats.com/7-layer-buffalo-chicken-dip-recipe-8778423",
+            "https://www.epicurious.com/recipes/food/views/buffalo-chickpea-dip"
+        ],
+        "tags": [
+            "appetizer",
+            "american"
+        ],
+        "image": "/images/buffalo-chicken-dip.webp"
+    },
+    {
+        "id": "hummus",
+        "title": "Hummus",
+        "description": "A creamy, smooth Middle Eastern dip made from chickpeas, tahini, lemon juice, and garlic. This classic recipe uses canned chickpeas for convenience while delivering rich, authentic flavor. Perfect as a dip for pita bread, crackers, or vegetables.",
+        "prepTime": "15 minutes",
+        "cookTime": "0 minutes",
+        "servings": "6",
+        "ingredients": [
+            "1 (15-ounce) can chickpeas (garbanzo beans), drained, liquid reserved",
+            "3 tablespoons tahini",
+            "2 tablespoons olive oil, plus more for serving",
+            "2 tablespoons fresh lemon juice",
+            "2-3 cloves garlic, crushed",
+            "1/2 teaspoon ground cumin",
+            "1/2 teaspoon salt, or to taste",
+            "1 pinch paprika, for garnish",
+            "2 tablespoons fresh parsley, chopped, for garnish",
+            "2-4 tablespoons reserved chickpea liquid or cold water, as needed"
+        ],
+        "instructions": [
+            "Place the drained chickpeas, tahini, olive oil, lemon juice, garlic, cumin, and salt into the bowl of a food processor.",
+            "Process the mixture for about 1 minute, until it forms a thick, stiff paste.",
+            "With the food processor running, slowly drizzle in the reserved chickpea liquid or cold water, one tablespoon at a time, until the hummus reaches your desired consistency.",
+            "Continue processing for an additional 2-3 minutes for a smoother, creamier texture.",
+            "Taste and adjust seasoning, adding more salt, lemon juice, or cumin as needed.",
+            "Transfer the hummus to a serving bowl and use the back of a spoon to create a shallow well in the center.",
+            "Drizzle with olive oil and garnish with a pinch of paprika and chopped fresh parsley before serving.",
+            "Serve with pita bread, pita chips, or fresh vegetables, or cover and refrigerate for up to 5 days, bringing to room temperature before serving."
+        ],
+        "variations": [
+            "Roasted Garlic Hummus: Roast a whole head of garlic in the oven, then squeeze the softened cloves into the food processor instead of raw garlic for a sweeter, mellower flavor.",
+            "Roasted Red Pepper Hummus: Add one jarred roasted red pepper to the food processor and blend with the other ingredients for a smoky, sweet variation.",
+            "Spicy Hummus: Add a pinch of cayenne pepper or red chili flakes for heat.",
+            "Extra Creamy Hummus: Soak dried chickpeas overnight with 1 teaspoon baking soda, drain, then cook in fresh water until very soft and nearly falling apart; this produces an exceptionally silky result.",
+            "No-Tahini Hummus: Substitute tahini with a tablespoon of peanut butter or sunflower seed butter for a nut-free or allergy-friendly version.",
+            "Sprouted Chickpea Hummus: Use 2 cups of sprouted raw chickpeas in place of canned for a fresh, slightly grassy flavor.",
+            "Artichoke Hummus: Blend in 2-3 canned artichoke hearts along with the other ingredients.",
+            "Beet Hummus: Blend in a small roasted beet for a vibrant pink color and earthy sweetness."
+        ],
+        "troubleshooting": [
+            "Q: Why is my hummus grainy or not smooth enough?  A: Process the hummus longer than you think necessary—at least 3-5 minutes total—and add more liquid gradually to help the mixture become silky; peeling the skins off canned chickpeas before blending also greatly improves creaminess.",
+            "Q: Why does my hummus taste too bland?  A: Adjust seasoning by adding more salt, lemon juice, or cumin; taste after each addition and blend briefly to incorporate before tasting again.",
+            "Q: Why is my hummus too thick?  A: Add the reserved chickpea liquid or cold water one tablespoon at a time while the food processor is running until the desired consistency is reached.",
+            "Q: Why is my hummus too thin or runny?  A: Reduce the amount of liquid added next time, or add a little more tahini to thicken; chilling the hummus in the refrigerator for 30 minutes will also firm it up.",
+            "Q: Why does my hummus taste too strongly of raw garlic?  A: Soak the crushed garlic in the lemon juice for 5-10 minutes before blending; the acid tames the sharpness and produces a more balanced, mellow garlic flavor.",
+            "Q: How long does homemade hummus keep?  A: Store hummus in an airtight container in the refrigerator for up to 5 days; bring it to room temperature for 20-30 minutes before serving for the best texture and flavor."
+        ],
+        "sources": [
+            "https://www.allrecipes.com/recipe/232962/super-easy-hummus/",
+            "https://food52.com/story/16350-zahav-s-hummus-recipe-is-genius-for-even-more-reasons-than-everyone-says",
+            "https://www.seriouseats.com/sprouted-chickpea-hummus-recipe",
+            "https://www.seriouseats.com/basic-hummus-from-jerusalem-ottolenghi",
+            "https://www.allrecipes.com/recipe/231081/best-hummus/",
+            "https://en.wikipedia.org/wiki/Hummus"
+        ],
+        "tags": [
+            "appetizer"
+        ],
+        "image": "/images/hummus.webp"
+    },
+    {
+        "id": "salsa",
+        "title": "Salsa",
+        "description": "A bright, fresh tomato salsa made with ripe tomatoes, jalapeño, onion, cilantro, and lime juice. Quick to assemble and endlessly versatile, this classic recipe delivers bold flavor whether served as a dip with chips or spooned over tacos, burritos, and more.",
+        "prepTime": "20 minutes",
+        "cookTime": "0 minutes",
+        "servings": "8",
+        "ingredients": [
+            "3 cups fresh tomatoes, chopped (about 1½ pounds)",
+            "1 cup white or red onion, finely diced",
+            "1 jalapeño pepper, finely chopped (seeds reserved separately)",
+            "2 cloves garlic, minced",
+            "¼ cup fresh cilantro, finely chopped",
+            "2 tablespoons fresh lime juice (about 1 lime)",
+            "½ teaspoon ground cumin",
+            "½ teaspoon kosher salt, plus more to taste",
+            "¼ teaspoon ground black pepper, plus more to taste"
+        ],
+        "instructions": [
+            "Gather and prep all ingredients: chop the tomatoes, finely dice the onion, mince the garlic, and finely chop the jalapeño, keeping the seeds separate in case you want to add extra heat later.",
+            "Combine the tomatoes, onion, jalapeño, garlic, and cilantro in a medium bowl.",
+            "Add the lime juice, cumin, salt, and black pepper. Stir until just combined.",
+            "Taste the salsa and adjust seasoning as needed — add more salt for depth, a few reserved jalapeño seeds for extra heat, or more lime juice for brightness.",
+            "For best flavor, let the salsa rest at room temperature or in the refrigerator for at least 30 minutes before serving to allow the flavors to meld.",
+            "Serve with tortilla chips, tacos, burritos, or alongside grilled meats. Store in an airtight container in the refrigerator for up to 5 days."
+        ],
+        "variations": [
+            "For a smoother consistency, pulse all ingredients a few times in a food processor instead of chopping by hand.",
+            "For roasted salsa, broil the tomatoes (cut side up), jalapeño, garlic, and onion on a baking sheet until slightly charred, about 15–20 minutes, then blend or finely chop.",
+            "Add ½ cup fresh or roasted corn kernels for a sweet, crunchy twist.",
+            "Add 1–2 cloves of roasted garlic for a deeper, more mellow garlic flavor.",
+            "Substitute serranos for jalapeños for a brighter, sharper heat.",
+            "Add a pinch of dried oregano for a more herbaceous flavor.",
+            "Add a pinch of sugar to balance acidity if tomatoes are not very ripe.",
+            "Use tomatillos in place of tomatoes for a tangy salsa verde.",
+            "Stir finished salsa into mashed avocado to make a quick guacamole."
+        ],
+        "troubleshooting": [
+            "Q: Why is my salsa too watery?  A: Tomatoes release a lot of liquid once chopped; to reduce excess moisture, seed the tomatoes before chopping, or salt them and let them drain in a colander for 20–30 minutes before mixing.",
+            "Q: Why does my salsa taste bland?  A: The tomatoes may need more seasoning; add a bit more salt, lime juice, or cumin and let the salsa rest longer so the flavors can develop.",
+            "Q: Why is my salsa too spicy?  A: The jalapeño seeds and membranes carry most of the heat; remove the seeds before chopping and add them back gradually to control spice level.",
+            "Q: Why is my salsa not spicy enough?  A: Stir in a few of the reserved jalapeño seeds or add a small amount of additional finely chopped jalapeño until the desired heat level is reached.",
+            "Q: Why do the textures seem too soft after storing?  A: The vegetables continue to break down in the refrigerator over time; for the best texture, consume within 2–3 days and avoid over-mixing when stirring before serving."
+        ],
+        "sources": [
+            "https://www.allrecipes.com/recipe/214893/the-best-fresh-tomato-salsa/",
+            "https://www.simplyrecipes.com/recipes/fresh_tomato_salsa/",
+            "https://www.seriouseats.com/roasted-tomato-salsa",
+            "https://www.seriouseats.com/grilling-tomatillo-salsa-recipe",
+            "https://en.wikipedia.org/wiki/Salsa"
+        ],
+        "tags": [
+            "appetizer",
+            "mexican"
+        ],
+        "image": "/images/salsa.webp"
+    },
+    {
+        "id": "margarita",
+        "title": "Margarita",
+        "description": "A balanced, refreshing classic margarita on the rocks made with tequila, triple sec, fresh lime juice, and a touch of agave syrup. Simple to remember and easy to scale, this recipe delivers the ideal ratio of bold, bright, and lightly sweet in every sip.",
+        "prepTime": "5 minutes",
+        "cookTime": "0 minutes",
+        "servings": "1",
+        "ingredients": [
+            "2 ounces reposado tequila (100% agave)",
+            "1 ounce freshly squeezed lime juice",
+            "1 ounce triple sec or Cointreau",
+            "1/4 ounce agave syrup",
+            "1/2 teaspoon coarse or flaky sea salt, for rimming (optional)",
+            "1 lime wedge, for rimming and garnish",
+            "Ice, for shaking and serving"
+        ],
+        "instructions": [
+            "If you'd like a salted rim, spread the sea salt on a small flat plate. Run a lime wedge around the outer edge of a rocks glass or margarita glass, then dip and rotate the rim in the salt until evenly coated. Fill the glass with fresh ice and set aside.",
+            "Combine the tequila, lime juice, triple sec, and agave syrup in a cocktail shaker. Fill the shaker with ice.",
+            "Close the shaker and shake vigorously for 10 to 15 seconds until well chilled.",
+            "Strain the cocktail into the prepared ice-filled glass.",
+            "Garnish with a lime wedge and serve immediately."
+        ],
+        "variations": [
+            "Frozen margarita: Blend all ingredients with 1 cup of ice instead of shaking and straining.",
+            "Straight up: Strain into a chilled coupe or cocktail glass with no ice.",
+            "Strawberry margarita: Blend 1 cup of fresh or thawed frozen strawberries with 1 tablespoon simple syrup, then combine with the tequila, lime juice, triple sec, and agave syrup before shaking.",
+            "Spicy margarita: Add 2 to 3 thin slices of fresh jalapeño to the shaker before shaking.",
+            "Smoky margarita: Substitute mezcal for all or half of the tequila and use smoked sea salt on the rim.",
+            "Italian margarita: Replace triple sec with amaretto liqueur and add 1/2 ounce of freshly squeezed orange juice.",
+            "Sage-infused margarita: Steep 3 fresh sage sprigs in 1 1/2 cups tequila for 24 to 72 hours, then use the infused tequila in place of regular tequila.",
+            "Skinny margarita: Omit agave syrup and use silver (blanco) tequila to reduce sweetness and calories.",
+            "Spicy apple cider margarita: Replace triple sec with apple cider and add a pinch each of cinnamon and cayenne to the shaker."
+        ],
+        "troubleshooting": [
+            "Q: Why does my margarita taste too sour?  A: You likely need more agave syrup; add it a small splash at a time and taste until the sweet-tart balance is right.",
+            "Q: Why does my margarita taste too sweet?  A: Squeeze a little extra fresh lime juice into the glass to bring back brightness and balance the sweetness.",
+            "Q: Why is my margarita watery?  A: Over-shaking or using wet ice dilutes the drink; shake briskly for no more than 15 seconds and use fresh, dry ice when possible.",
+            "Q: Why won't the salt stick to the rim of my glass?  A: The rim needs moisture to hold the salt; firmly rub a lime wedge around the outside edge of the glass before dipping it into the salt.",
+            "Q: Why does my margarita taste flat or one-dimensional?  A: Always use freshly squeezed lime juice rather than bottled juice, as fresh juice provides the bright acidity essential to a well-balanced margarita."
+        ],
+        "sources": [
+            "https://food52.com/story/22991-best-margarita-recipe-tequila-cocktails-for-fall",
+            "https://food52.com/story/28261-best-margarita-recipe",
+            "https://food52.com/recipes/86345-best-italian-margarita-recipe",
+            "https://food52.com/recipes/77769-sage-infused-classic-margarita",
+            "https://food52.com/recipes/35073-strawberry-margarita-on-the-rocks",
+            "https://en.wikipedia.org/wiki/Margarita"
+        ],
+        "tags": [
+            "drink",
+            "mexican"
+        ],
+        "image": "/images/margarita.webp"
+    },
+    {
+        "id": "old-fashioned",
+        "title": "Old Fashioned",
+        "description": "The Old Fashioned is a timeless whiskey cocktail built around bourbon or rye, a touch of sweetness, and aromatic bitters. Simple, spirit-forward, and endlessly satisfying, it's one of the most classic cocktails in the bartender's canon.",
+        "prepTime": "5 minutes",
+        "cookTime": "0 minutes",
+        "servings": "1",
+        "ingredients": [
+            "2 ounces bourbon or rye whiskey",
+            "1/4 ounce simple syrup (or 1 sugar cube)",
+            "1 splash water (only if using a sugar cube)",
+            "2 dashes Angostura bitters",
+            "1 dash orange bitters",
+            "1 large ice cube or several ice cubes",
+            "1 orange, for garnish (peel only)",
+            "1 maraschino cherry, for garnish (optional)"
+        ],
+        "instructions": [
+            "Add the simple syrup (or sugar cube) and both dashes of Angostura bitters and orange bitters to a rocks glass or mixing glass.",
+            "If using a sugar cube, muddle it with the bitters and a splash of water until dissolved.",
+            "Add the bourbon or rye whiskey to the glass.",
+            "Add ice and stir gently for about 20–30 seconds until the drink is well chilled and slightly diluted.",
+            "Strain into a rocks glass over a large ice cube, or stir directly in the rocks glass.",
+            "Cut a wide strip of orange peel, express the oils over the surface of the drink by twisting it firmly over the glass, then run the peel around the rim and drop it in or drape it over the ice.",
+            "Add a maraschino cherry as garnish if desired and serve immediately."
+        ],
+        "variations": [
+            "Cognac Old Fashioned: substitute cognac for the whiskey and use demerara syrup in place of simple syrup for a richer, fruitier profile.",
+            "Rye Old Fashioned: use rye whiskey for a spicier, drier cocktail.",
+            "Smoked Old Fashioned: use a smoking gun or smoked wood chip to add a smoky aroma before serving.",
+            "Mezcal Old Fashioned: substitute mezcal for whiskey for a smoky, agave-forward twist.",
+            "Maple Old Fashioned: replace simple syrup with pure maple syrup for added depth.",
+            "Demerara syrup variation: use demerara sugar syrup instead of simple syrup for a toffee-like sweetness."
+        ],
+        "troubleshooting": [
+            "Q: Why does my Old Fashioned taste too sweet?  A: Reduce the amount of simple syrup to 1/8 ounce or use a single small sugar cube; taste as you go and adjust before adding ice.",
+            "Q: Why is my cocktail too strong and harsh?  A: Stir the drink longer, at least 30 seconds, to achieve proper dilution, which softens the alcohol and blends the flavors.",
+            "Q: Why does my sugar cube not dissolve properly?  A: Make sure to muddle the sugar cube thoroughly with the bitters and a small splash of water before adding the whiskey, breaking it down completely before stirring.",
+            "Q: Why is my Old Fashioned watery and diluted?  A: Use a single large ice cube rather than small cubes, as large ice melts more slowly and chills the drink without over-diluting it.",
+            "Q: How do I get more citrus aroma in my Old Fashioned?  A: Express the orange peel oils vigorously by twisting the peel firmly over the glass before dropping it in, and run the peel around the rim to coat it with the essential oils."
+        ],
+        "sources": [
+            "https://www.allrecipes.com/recipe/20487/old-fashioned-lemonade/",
+            "https://www.seriouseats.com/old-fashioned-bourbon-and-orange-ice-cream-recipe",
+            "https://www.seriouseats.com/bravetart-easy-apple-pie-recipe",
+            "https://food52.com/recipes/83336-cognac-old-fashioned-recipe",
+            "https://www.kingarthurbaking.com/blog/2019/09/23/old-fashioned-apple-cake",
+            "https://en.wikipedia.org/wiki/Old_fashioned"
+        ],
+        "tags": [
+            "drink"
+        ],
+        "image": "/images/old-fashioned.webp"
+    },
+    {
+        "id": "smoothie",
+        "title": "Smoothie",
+        "description": "A quick and versatile blended drink made with frozen mixed berries, banana, yogurt, and your choice of milk. This triple-berry smoothie is creamy, refreshing, and naturally nutritious — perfect for breakfast or a snack.",
+        "prepTime": "5 minutes",
+        "cookTime": "0 minutes",
+        "servings": "2",
+        "ingredients": [
+            "1 medium banana",
+            "1 1/4 cups almond milk (or milk of choice)",
+            "1 cup frozen blackberries",
+            "1 cup frozen raspberries",
+            "1 cup frozen strawberries",
+            "1/2 cup plain Greek yogurt",
+            "1–2 teaspoons honey (optional, to taste)"
+        ],
+        "instructions": [
+            "Add the banana, almond milk, frozen blackberries, frozen raspberries, frozen strawberries, Greek yogurt, and honey (if using) to a blender.",
+            "Blend on high until completely smooth, about 30–60 seconds. If the smoothie is too thick, add a splash more milk; if too thin, add a few more frozen berries.",
+            "Divide between 2 glasses and serve immediately."
+        ],
+        "variations": [
+            "Use regular dairy milk, oat milk, or coconut milk in place of almond milk.",
+            "Substitute vanilla or flavored Greek yogurt for plain yogurt to add sweetness without honey.",
+            "Replace blackberries and raspberries with frozen blueberries, cherries, mango, or peaches for a different flavor profile.",
+            "Add a handful of baby spinach or kale for a green smoothie boost — the berry flavor will mask the vegetable taste.",
+            "Blend in 1–2 tablespoons of peanut butter or almond butter for added protein and healthy fat.",
+            "Add 1 tablespoon of chia seeds, flax meal, or rolled oats to increase fiber and staying power.",
+            "Use frozen banana chunks in place of fresh banana and omit ice if you prefer a thicker, colder smoothie.",
+            "Add a scoop of protein powder or a tablespoon of hemp seeds for extra protein."
+        ],
+        "troubleshooting": [
+            "Q: Why is my smoothie too thin?  A: You likely have too much liquid relative to frozen fruit; reduce the milk slightly or add more frozen berries to thicken it up.",
+            "Q: Why is my smoothie too thick to blend?  A: There may be too much frozen fruit and not enough liquid; add a splash more milk and blend again until smooth.",
+            "Q: Why does my smoothie taste too tart or bitter?  A: Frozen berries can be quite tart; add honey to taste, or swap in a flavored yogurt to balance the flavor.",
+            "Q: Why is my smoothie not smooth and still chunky?  A: The blender may need more time or the frozen fruit may be blocking the blades; stop the blender, stir the contents, then blend again for a full 30–60 seconds.",
+            "Q: Why does my smoothie separate quickly after blending?  A: This is normal when smoothies sit; simply stir or shake before drinking, and serve as soon as possible after blending."
+        ],
+        "sources": [
+            "https://www.delish.com/cooking/recipe-ideas/a24892347/how-to-make-a-smoothie/",
+            "https://www.allrecipes.com/recipe/221261/peanut-butter-banana-smoothie/",
+            "https://www.seriouseats.com/melon-mint-smoothie-recipe-yogurt-drink-breakfast",
+            "https://food52.com/story/17501-how-to-give-your-smoothie-some-oomph",
+            "https://en.wikipedia.org/wiki/Smoothie"
+        ],
+        "tags": [
+            "drink",
+            "breakfast"
+        ],
+        "image": "/images/smoothie.webp"
+    },
+    {
+        "id": "lemonade",
+        "title": "Lemonade",
+        "description": "A classic homemade lemonade made with fresh-squeezed lemon juice and a simple syrup for perfectly balanced sweetness. Bright, tart, and refreshingly satisfying, this pitcher drink comes together in minutes and can be customized to your taste.",
+        "prepTime": "10 minutes",
+        "cookTime": "5 minutes",
+        "servings": "8",
+        "ingredients": [
+            "1 3/4 cups granulated white sugar",
+            "1 cup water (for simple syrup)",
+            "8-9 medium lemons (to yield about 1 1/2 cups fresh lemon juice)",
+            "7 cups ice-cold water",
+            "Ice, as needed"
+        ],
+        "instructions": [
+            "Combine the sugar and 1 cup of water in a small saucepan over medium heat, stirring until the sugar fully dissolves and the mixture comes to a boil. Remove from heat and set aside to cool to room temperature. This is your simple syrup.",
+            "While the syrup cools, roll each lemon firmly on the countertop with the palm of your hand for about 10 seconds to help release more juice. Cut each lemon in half crosswise.",
+            "Juice the lemons into a liquid measuring cup, including any pulp but discarding all seeds, until you have 1 1/2 cups of fresh lemon juice.",
+            "Pour the 7 cups of ice-cold water into a large pitcher. Stir in the fresh lemon juice and pulp, then add the cooled simple syrup a little at a time, tasting as you go, until the lemonade reaches your preferred level of sweetness.",
+            "Add ice to the pitcher and stir well. Serve immediately over additional ice."
+        ],
+        "variations": [
+            "Strawberry lemonade: Macerate 12 ounces of hulled, sliced strawberries with a portion of the sugar and lemon zest for 1 hour before straining and adding to the lemonade.",
+            "Sparkling lemonade: Replace some or all of the still cold water with chilled sparkling water or club soda.",
+            "Limeade: Substitute limes for lemons, using about 10 limes to yield 1 1/2 cups of juice.",
+            "Pink lemonade: Add a small amount of cranberry juice, grenadine, or pureed raspberries for color and a slight flavor twist.",
+            "Minty lemonade: Muddle a handful of fresh mint leaves into the simple syrup while it cools, then strain before using.",
+            "Creamy lemonade: Shake the finished lemonade with 1-2 tablespoons of sweetened condensed milk per serving for a rich, frothy texture.",
+            "Spiked lemonade: Add vodka, gin, or sake to individual servings for an adult version.",
+            "Infused simple syrup: Add strips of lemon zest or fresh herbs like basil to the syrup while it simmers, then strain before using."
+        ],
+        "troubleshooting": [
+            "Q: Why does my lemonade taste flat or one-dimensional?  A: Using only bottled lemon juice or too little juice can result in flat flavor; always use fresh-squeezed lemon juice and include some of the pulp for the best taste.",
+            "Q: Why is my lemonade too bitter?  A: Bitterness usually comes from pressing too hard on the lemon halves while juicing, which can extract oils from the peel; use a gentle, steady squeeze and avoid grinding the rind against the juicer.",
+            "Q: Why won't my sugar dissolve in the pitcher?  A: Granulated sugar does not dissolve well in cold water; always make a simple syrup by heating the sugar and water together on the stove before adding it to the lemonade.",
+            "Q: Why is my lemonade too sweet?  A: The amount of simple syrup needed varies with the tartness of your lemons; add the syrup gradually and taste as you go, stopping when the balance feels right.",
+            "Q: How can I get more juice from my lemons?  A: Roll the lemons firmly on the counter before cutting, or microwave each lemon for about 20-30 seconds to warm it slightly, both of which help break down the internal membranes and yield more juice.",
+            "Q: How long can I store homemade lemonade?  A: Store lemonade in a sealed pitcher or container in the refrigerator for up to 3-4 days; the simple syrup can be made ahead and refrigerated separately for up to 2 weeks."
+        ],
+        "sources": [
+            "https://www.allrecipes.com/recipe/32385/best-lemonade-ever/",
+            "https://www.seriouseats.com/pickle-lemonade-recipe-11793123",
+            "https://www.simplyrecipes.com/creamy-lemonade-recipe-11780784",
+            "https://www.americastestkitchen.com/articles/3253-a-new-way-with-lemonade",
+            "https://www.seriouseats.com/strawberry-lemonade-recipe-7556992",
+            "https://en.wikipedia.org/wiki/Lemonade"
+        ],
+        "tags": [
+            "drink"
+        ],
+        "image": "/images/lemonade.webp"
     }
 ]

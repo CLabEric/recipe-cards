@@ -66,8 +66,10 @@ const { recipe } = Astro.props as RecipeProps;
 			<img
 				src={recipe.image}
 				alt={recipe.title}
+				width="1024"
+				height="1024"
 				class="hidden md:block md:float-right md:w-5/12 md:ml-6 mb-4"
-				style="box-shadow: 2px 2px 8px rgba(0,0,0,0.2);"
+				style="aspect-ratio: 1/1; box-shadow: 2px 2px 8px rgba(0,0,0,0.2);"
 			/>
 		)}
 
@@ -163,8 +165,10 @@ const { recipe } = Astro.props as RecipeProps;
 			<img
 				src={recipe.image}
 				alt={recipe.title}
+				width="1024"
+				height="1024"
 				class="md:hidden w-full mt-4 no-print"
-				style="box-shadow: 2px 2px 8px rgba(0,0,0,0.2);"
+				style="aspect-ratio: 1/1; box-shadow: 2px 2px 8px rgba(0,0,0,0.2);"
 			/>
 		)}
 	</div>

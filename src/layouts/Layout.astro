@@ -6,9 +6,10 @@ interface Props {
 	description?: string;
 	image?: string;
 	canonicalUrl?: string;
+	ogType?: string;
 }
 
-const { title, description, image, canonicalUrl } = Astro.props;
+const { title, description, image, canonicalUrl, ogType = "website" } = Astro.props;
 const defaultTitle = "RecipeCards";
 const defaultDescription = "Discover delicious recipes.";
 const resolvedTitle = title ? title : defaultTitle;
@@ -26,7 +27,7 @@ const resolvedDescription = description ? description : defaultDescription;
 		<title>{resolvedTitle}</title>
 		<meta name="description" content={resolvedDescription} />
 		{canonicalUrl && <link rel="canonical" href={canonicalUrl} />}
-		<meta property="og:type" content="website" />
+		<meta property="og:type" content={ogType} />
 		{canonicalUrl && <meta property="og:url" content={canonicalUrl} />}
 		<meta property="og:title" content={resolvedTitle} />
 		<meta property="og:description" content={resolvedDescription} />

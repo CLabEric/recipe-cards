@@ -43,6 +43,14 @@ const prepTime = toISO8601Duration(recipe.prepTime);
 const cookTime = toISO8601Duration(recipe.cookTime);
 const totalTime = sumDurations(prepTime, cookTime);
 
+const CUISINE_TAGS = new Set(['british','chinese','eastern-european','french','greek','indian','italian','japanese','korean','latin-american','mexican','middle-eastern','spanish','thai','vietnamese']);
+const CATEGORY_TAGS = new Set(['main-course','dessert','breakfast','appetizer','soup','side-dish','bread','drink']);
+
+const cuisines = recipe.tags?.filter((t: string) => CUISINE_TAGS.has(t))
+  .map((t: string) => t.split('-').map((w: string) => w.charAt(0).toUpperCase() + w.slice(1)).join(' '));
+const categories = recipe.tags?.filter((t: string) => CATEGORY_TAGS.has(t))
+  .map((t: string) => t.split('-').map((w: string) => w.charAt(0).toUpperCase() + w.slice(1)).join(' '));
+
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "Recipe",
@@ -59,6 +67,10 @@ const jsonLd = {
     "text": step,
   })),
   ...(recipe.tags?.length ? { "keywords": recipe.tags.join(", ") } : {}),
+  "author": { "@type": "Organization", "name": "RecipeCards" },
+  ...(((recipe as any).datePublished) ? { "datePublished": (recipe as any).datePublished } : { "datePublished": "2025-01-01" }),
+  ...(cuisines?.length ? { "recipeCuisine": cuisines } : {}),
+  ...(categories?.length ? { "recipeCategory": categories } : {}),
 };
 ---
 
@@ -67,6 +79,7 @@ const jsonLd = {
   description={recipe.description}
   image={imageUrl}
   canonicalUrl={canonicalUrl}
+  ogType="article"
 >
   <Fragment slot="head">
     <script is:inline type="application/ld+json" set:html={JSON.stringify(jsonLd)} />

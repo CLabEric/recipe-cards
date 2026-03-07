@@ -60,7 +60,8 @@
             "main-course",
             "italian"
         ],
-        "image": "/images/chicken-parmesan.webp"
+        "image": "/images/chicken-parmesan.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "lasagna",
@@ -139,7 +140,8 @@
             "main-course",
             "italian"
         ],
-        "image": "/images/lasagna.webp"
+        "image": "/images/lasagna.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "meatloaf",
@@ -206,7 +208,8 @@
             "american",
             "comfort-food"
         ],
-        "image": "/images/meatloaf.webp"
+        "image": "/images/meatloaf.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "chili",
@@ -278,7 +281,8 @@
             "comfort-food",
             "soup"
         ],
-        "image": "/images/chili.webp"
+        "image": "/images/chili.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "chicken-alfredo",
@@ -342,7 +346,8 @@
             "main-course",
             "italian"
         ],
-        "image": "/images/chicken-alfredo.webp"
+        "image": "/images/chicken-alfredo.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "spaghetti--meatballs",
@@ -424,7 +429,8 @@
             "main-course",
             "italian"
         ],
-        "image": "/images/spaghetti--meatballs.webp"
+        "image": "/images/spaghetti--meatballs.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "mac-and-cheese",
@@ -490,7 +496,8 @@
             "american",
             "comfort-food"
         ],
-        "image": "/images/mac-and-cheese.webp"
+        "image": "/images/mac-and-cheese.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "baked-ziti",
@@ -561,7 +568,8 @@
             "main-course",
             "italian"
         ],
-        "image": "/images/baked-ziti.webp"
+        "image": "/images/baked-ziti.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "chicken-pot-pie",
@@ -637,7 +645,8 @@
             "american",
             "comfort-food"
         ],
-        "image": "/images/chicken-pot-pie.webp"
+        "image": "/images/chicken-pot-pie.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "pot-roast",
@@ -709,7 +718,8 @@
             "american",
             "comfort-food"
         ],
-        "image": "/images/pot-roast.webp"
+        "image": "/images/pot-roast.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "pulled-pork",
@@ -781,7 +791,8 @@
             "main-course",
             "american"
         ],
-        "image": "/images/pulled-pork.webp"
+        "image": "/images/pulled-pork.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "bbq-ribs",
@@ -850,7 +861,8 @@
             "main-course",
             "american"
         ],
-        "image": "/images/bbq-ribs.webp"
+        "image": "/images/bbq-ribs.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "beef-stroganoff",
@@ -921,7 +933,8 @@
             "main-course",
             "american"
         ],
-        "image": "/images/beef-stroganoff.webp"
+        "image": "/images/beef-stroganoff.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "chicken-noodle-soup",
@@ -990,7 +1003,8 @@
             "american",
             "comfort-food"
         ],
-        "image": "/images/chicken-noodle-soup.webp"
+        "image": "/images/chicken-noodle-soup.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "grilled-cheese",
@@ -1045,7 +1059,8 @@
             "american",
             "comfort-food"
         ],
-        "image": "/images/grilled-cheese.webp"
+        "image": "/images/grilled-cheese.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "fried-chicken",
@@ -1110,7 +1125,8 @@
             "american",
             "comfort-food"
         ],
-        "image": "/images/fried-chicken.webp"
+        "image": "/images/fried-chicken.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "chicken-enchiladas",
@@ -1176,7 +1192,8 @@
             "main-course",
             "mexican"
         ],
-        "image": "/images/chicken-enchiladas.webp"
+        "image": "/images/chicken-enchiladas.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "tacos",
@@ -1241,7 +1258,8 @@
             "main-course",
             "mexican"
         ],
-        "image": "/images/tacos.webp"
+        "image": "/images/tacos.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "hamburgers",
@@ -1304,7 +1322,8 @@
             "main-course",
             "american"
         ],
-        "image": "/images/hamburgers.webp"
+        "image": "/images/hamburgers.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "spaghetti-carbonara",
@@ -1361,7 +1380,8 @@
             "main-course",
             "italian"
         ],
-        "image": "/images/spaghetti-carbonara.webp"
+        "image": "/images/spaghetti-carbonara.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "shrimp-scampi",
@@ -1425,7 +1445,8 @@
             "main-course",
             "italian"
         ],
-        "image": "/images/shrimp-scampi.webp"
+        "image": "/images/shrimp-scampi.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "baked-salmon",
@@ -1486,7 +1507,8 @@
         "tags": [
             "main-course"
         ],
-        "image": "/images/baked-salmon.webp"
+        "image": "/images/baked-salmon.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "stuffed-peppers",
@@ -1554,7 +1576,8 @@
             "main-course",
             "appetizer"
         ],
-        "image": "/images/stuffed-peppers.webp"
+        "image": "/images/stuffed-peppers.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "chicken-marsala",
@@ -1622,7 +1645,8 @@
             "main-course",
             "italian"
         ],
-        "image": "/images/chicken-marsala.webp"
+        "image": "/images/chicken-marsala.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "shepherds-pie",
@@ -1700,7 +1724,8 @@
             "american",
             "comfort-food"
         ],
-        "image": "/images/shepherds-pie.webp"
+        "image": "/images/shepherds-pie.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "beef-stew",
@@ -1775,7 +1800,8 @@
             "comfort-food",
             "soup"
         ],
-        "image": "/images/beef-stew.webp"
+        "image": "/images/beef-stew.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "chicken-fried-steak",
@@ -1845,7 +1871,8 @@
             "american",
             "comfort-food"
         ],
-        "image": "/images/chicken-fried-steak.webp"
+        "image": "/images/chicken-fried-steak.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "salisbury-steak",
@@ -1916,7 +1943,8 @@
             "american",
             "comfort-food"
         ],
-        "image": "/images/salisbury-steak.webp"
+        "image": "/images/salisbury-steak.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "meatballs",
@@ -1995,7 +2023,8 @@
             "main-course",
             "italian"
         ],
-        "image": "/images/meatballs.webp"
+        "image": "/images/meatballs.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "steak-grilled",
@@ -2058,7 +2087,8 @@
             "main-course",
             "american"
         ],
-        "image": "/images/steak-grilled.webp"
+        "image": "/images/steak-grilled.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "chicken-fajitas",
@@ -2120,7 +2150,8 @@
             "main-course",
             "mexican"
         ],
-        "image": "/images/chicken-fajitas.webp"
+        "image": "/images/chicken-fajitas.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "shrimp--grits",
@@ -2187,7 +2218,8 @@
             "american",
             "comfort-food"
         ],
-        "image": "/images/shrimp--grits.webp"
+        "image": "/images/shrimp--grits.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "pork-chops",
@@ -2254,7 +2286,8 @@
             "main-course",
             "american"
         ],
-        "image": "/images/pork-chops.webp"
+        "image": "/images/pork-chops.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "chicken-tortilla-soup",
@@ -2332,7 +2365,8 @@
             "soup",
             "mexican"
         ],
-        "image": "/images/chicken-tortilla-soup.webp"
+        "image": "/images/chicken-tortilla-soup.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "french-onion-soup",
@@ -2397,7 +2431,8 @@
             "main-course",
             "soup"
         ],
-        "image": "/images/french-onion-soup.webp"
+        "image": "/images/french-onion-soup.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "pancakes",
@@ -2457,7 +2492,8 @@
             "breakfast",
             "american"
         ],
-        "image": "/images/pancakes.webp"
+        "image": "/images/pancakes.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "french-toast",
@@ -2519,7 +2555,8 @@
             "breakfast",
             "american"
         ],
-        "image": "/images/french-toast.webp"
+        "image": "/images/french-toast.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "scrambled-eggs",
@@ -2570,7 +2607,8 @@
         "tags": [
             "breakfast"
         ],
-        "image": "/images/scrambled-eggs.webp"
+        "image": "/images/scrambled-eggs.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "omelette",
@@ -2623,7 +2661,8 @@
         "tags": [
             "breakfast"
         ],
-        "image": "/images/omelette.webp"
+        "image": "/images/omelette.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "waffles",
@@ -2689,7 +2728,8 @@
             "breakfast",
             "american"
         ],
-        "image": "/images/waffles.webp"
+        "image": "/images/waffles.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "breakfast-casserole",
@@ -2757,7 +2797,8 @@
             "breakfast",
             "american"
         ],
-        "image": "/images/breakfast-casserole.webp"
+        "image": "/images/breakfast-casserole.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "eggs-benedict",
@@ -2821,7 +2862,8 @@
             "breakfast",
             "american"
         ],
-        "image": "/images/eggs-benedict.webp"
+        "image": "/images/eggs-benedict.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "biscuits--gravy",
@@ -2883,7 +2925,8 @@
             "american",
             "comfort-food"
         ],
-        "image": "/images/biscuits--gravy.webp"
+        "image": "/images/biscuits--gravy.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "cinnamon-rolls",
@@ -2957,7 +3000,8 @@
             "dessert",
             "american"
         ],
-        "image": "/images/cinnamon-rolls.webp"
+        "image": "/images/cinnamon-rolls.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "quiche",
@@ -3025,7 +3069,8 @@
         "tags": [
             "breakfast"
         ],
-        "image": "/images/quiche.webp"
+        "image": "/images/quiche.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "hash-browns",
@@ -3083,7 +3128,8 @@
             "american",
             "side-dish"
         ],
-        "image": "/images/hash-browns.webp"
+        "image": "/images/hash-browns.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "breakfast-burrito",
@@ -3144,7 +3190,8 @@
             "breakfast",
             "mexican"
         ],
-        "image": "/images/breakfast-burrito.webp"
+        "image": "/images/breakfast-burrito.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "smoothie-bowl",
@@ -3198,7 +3245,8 @@
         "tags": [
             "breakfast"
         ],
-        "image": "/images/smoothie-bowl.webp"
+        "image": "/images/smoothie-bowl.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "overnight-oats",
@@ -3257,7 +3305,8 @@
         "tags": [
             "breakfast"
         ],
-        "image": "/images/overnight-oats.webp"
+        "image": "/images/overnight-oats.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "avocado-toast",
@@ -3314,7 +3363,8 @@
         "tags": [
             "breakfast"
         ],
-        "image": "/images/avocado-toast.webp"
+        "image": "/images/avocado-toast.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "banana-bread",
@@ -3376,7 +3426,8 @@
             "bread",
             "american"
         ],
-        "image": "/images/banana-bread.webp"
+        "image": "/images/banana-bread.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "chocolate-chip-cookies",
@@ -3440,7 +3491,8 @@
             "dessert",
             "american"
         ],
-        "image": "/images/chocolate-chip-cookies.webp"
+        "image": "/images/chocolate-chip-cookies.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "pumpkin-bread",
@@ -3508,7 +3560,8 @@
             "bread",
             "american"
         ],
-        "image": "/images/pumpkin-bread.webp"
+        "image": "/images/pumpkin-bread.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "cornbread",
@@ -3565,7 +3618,8 @@
             "bread",
             "american"
         ],
-        "image": "/images/cornbread.webp"
+        "image": "/images/cornbread.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "dinner-rolls",
@@ -3623,7 +3677,8 @@
             "bread",
             "american"
         ],
-        "image": "/images/dinner-rolls.webp"
+        "image": "/images/dinner-rolls.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "pizza-dough",
@@ -3681,7 +3736,8 @@
             "bread",
             "italian"
         ],
-        "image": "/images/pizza-dough.webp"
+        "image": "/images/pizza-dough.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "biscuits",
@@ -3737,7 +3793,8 @@
             "bread",
             "american"
         ],
-        "image": "/images/biscuits.webp"
+        "image": "/images/biscuits.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "zucchini-bread",
@@ -3803,7 +3860,8 @@
         "tags": [
             "bread"
         ],
-        "image": "/images/zucchini-bread.webp"
+        "image": "/images/zucchini-bread.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "sourdough-bread",
@@ -3862,7 +3920,8 @@
         "tags": [
             "bread"
         ],
-        "image": "/images/sourdough-bread.webp"
+        "image": "/images/sourdough-bread.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "shortbread-cookies",
@@ -3917,7 +3976,8 @@
         "tags": [
             "dessert"
         ],
-        "image": "/images/shortbread-cookies.webp"
+        "image": "/images/shortbread-cookies.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "chocolate-cake",
@@ -3981,7 +4041,8 @@
             "dessert",
             "american"
         ],
-        "image": "/images/chocolate-cake.webp"
+        "image": "/images/chocolate-cake.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "brownies",
@@ -4045,7 +4106,8 @@
             "american",
             "comfort-food"
         ],
-        "image": "/images/brownies.webp"
+        "image": "/images/brownies.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "cheesecake",
@@ -4109,7 +4171,8 @@
             "dessert",
             "american"
         ],
-        "image": "/images/cheesecake.webp"
+        "image": "/images/cheesecake.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "apple-pie",
@@ -4176,7 +4239,8 @@
             "dessert",
             "american"
         ],
-        "image": "/images/apple-pie.webp"
+        "image": "/images/apple-pie.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "pumpkin-pie",
@@ -4239,7 +4303,8 @@
             "dessert",
             "american"
         ],
-        "image": "/images/pumpkin-pie.webp"
+        "image": "/images/pumpkin-pie.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "pecan-pie",
@@ -4302,7 +4367,8 @@
             "dessert",
             "american"
         ],
-        "image": "/images/pecan-pie.webp"
+        "image": "/images/pecan-pie.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "lemon-bars",
@@ -4367,7 +4433,8 @@
             "dessert",
             "american"
         ],
-        "image": "/images/lemon-bars.webp"
+        "image": "/images/lemon-bars.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "carrot-cake",
@@ -4442,7 +4509,8 @@
             "dessert",
             "american"
         ],
-        "image": "/images/carrot-cake.webp"
+        "image": "/images/carrot-cake.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "red-velvet-cake",
@@ -4512,7 +4580,8 @@
             "dessert",
             "american"
         ],
-        "image": "/images/red-velvet-cake.webp"
+        "image": "/images/red-velvet-cake.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "banana-pudding",
@@ -4577,7 +4646,8 @@
             "american",
             "comfort-food"
         ],
-        "image": "/images/banana-pudding.webp"
+        "image": "/images/banana-pudding.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "peach-cobbler",
@@ -4648,7 +4718,8 @@
             "american",
             "comfort-food"
         ],
-        "image": "/images/peach-cobbler.webp"
+        "image": "/images/peach-cobbler.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "key-lime-pie",
@@ -4706,7 +4777,8 @@
             "dessert",
             "american"
         ],
-        "image": "/images/key-lime-pie.webp"
+        "image": "/images/key-lime-pie.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "tiramisu",
@@ -4764,7 +4836,8 @@
             "dessert",
             "italian"
         ],
-        "image": "/images/tiramisu.webp"
+        "image": "/images/tiramisu.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "ice-cream-homemade",
@@ -4820,7 +4893,8 @@
             "dessert",
             "american"
         ],
-        "image": "/images/ice-cream-homemade.webp"
+        "image": "/images/ice-cream-homemade.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "chocolate-mousse",
@@ -4879,7 +4953,8 @@
         "tags": [
             "dessert"
         ],
-        "image": "/images/chocolate-mousse.webp"
+        "image": "/images/chocolate-mousse.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "peanut-butter-cookies",
@@ -4941,7 +5016,8 @@
             "dessert",
             "american"
         ],
-        "image": "/images/peanut-butter-cookies.webp"
+        "image": "/images/peanut-butter-cookies.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "sugar-cookies",
@@ -5001,7 +5077,8 @@
             "dessert",
             "american"
         ],
-        "image": "/images/sugar-cookies.webp"
+        "image": "/images/sugar-cookies.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "coconut-macaroons",
@@ -5060,7 +5137,8 @@
         "tags": [
             "dessert"
         ],
-        "image": "/images/coconut-macaroons.webp"
+        "image": "/images/coconut-macaroons.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "strawberry-shortcake",
@@ -5130,7 +5208,8 @@
             "dessert",
             "american"
         ],
-        "image": "/images/strawberry-shortcake.webp"
+        "image": "/images/strawberry-shortcake.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "chocolate-peanut-butter-pie",
@@ -5196,7 +5275,8 @@
             "dessert",
             "american"
         ],
-        "image": "/images/chocolate-peanut-butter-pie.webp"
+        "image": "/images/chocolate-peanut-butter-pie.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "mashed-potatoes",
@@ -5255,7 +5335,8 @@
             "american",
             "comfort-food"
         ],
-        "image": "/images/mashed-potatoes.webp"
+        "image": "/images/mashed-potatoes.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "potato-salad",
@@ -5316,7 +5397,8 @@
             "side-dish",
             "american"
         ],
-        "image": "/images/potato-salad.webp"
+        "image": "/images/potato-salad.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "coleslaw",
@@ -5374,7 +5456,8 @@
             "side-dish",
             "american"
         ],
-        "image": "/images/coleslaw.webp"
+        "image": "/images/coleslaw.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "roasted-brussels-sprouts",
@@ -5424,7 +5507,8 @@
         "tags": [
             "side-dish"
         ],
-        "image": "/images/roasted-brussels-sprouts.webp"
+        "image": "/images/roasted-brussels-sprouts.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "roasted-potatoes",
@@ -5482,7 +5566,8 @@
         "tags": [
             "side-dish"
         ],
-        "image": "/images/roasted-potatoes.webp"
+        "image": "/images/roasted-potatoes.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "sweet-potato-casserole",
@@ -5547,7 +5632,8 @@
             "american",
             "comfort-food"
         ],
-        "image": "/images/sweet-potato-casserole.webp"
+        "image": "/images/sweet-potato-casserole.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "green-bean-casserole",
@@ -5608,7 +5694,8 @@
             "american",
             "comfort-food"
         ],
-        "image": "/images/green-bean-casserole.webp"
+        "image": "/images/green-bean-casserole.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "caesar-salad",
@@ -5673,7 +5760,8 @@
             "side-dish",
             "appetizer"
         ],
-        "image": "/images/caesar-salad.webp"
+        "image": "/images/caesar-salad.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "greek-salad",
@@ -5734,7 +5822,8 @@
             "side-dish",
             "appetizer"
         ],
-        "image": "/images/greek-salad.webp"
+        "image": "/images/greek-salad.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "broccoli-salad",
@@ -5790,7 +5879,8 @@
         "tags": [
             "side-dish"
         ],
-        "image": "/images/broccoli-salad.webp"
+        "image": "/images/broccoli-salad.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "guacamole",
@@ -5847,7 +5937,8 @@
             "appetizer",
             "mexican"
         ],
-        "image": "/images/guacamole.webp"
+        "image": "/images/guacamole.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "spinach-artichoke-dip",
@@ -5911,7 +6002,8 @@
         "tags": [
             "appetizer"
         ],
-        "image": "/images/spinach-artichoke-dip.webp"
+        "image": "/images/spinach-artichoke-dip.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "deviled-eggs",
@@ -5965,7 +6057,8 @@
             "appetizer",
             "american"
         ],
-        "image": "/images/deviled-eggs.webp"
+        "image": "/images/deviled-eggs.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "buffalo-chicken-dip",
@@ -6026,7 +6119,8 @@
             "appetizer",
             "american"
         ],
-        "image": "/images/buffalo-chicken-dip.webp"
+        "image": "/images/buffalo-chicken-dip.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "hummus",
@@ -6086,7 +6180,8 @@
         "tags": [
             "appetizer"
         ],
-        "image": "/images/hummus.webp"
+        "image": "/images/hummus.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "salsa",
@@ -6143,7 +6238,8 @@
             "appetizer",
             "mexican"
         ],
-        "image": "/images/salsa.webp"
+        "image": "/images/salsa.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "margarita",
@@ -6198,7 +6294,8 @@
             "drink",
             "mexican"
         ],
-        "image": "/images/margarita.webp"
+        "image": "/images/margarita.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "old-fashioned",
@@ -6252,7 +6349,8 @@
         "tags": [
             "drink"
         ],
-        "image": "/images/old-fashioned.webp"
+        "image": "/images/old-fashioned.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "smoothie",
@@ -6303,7 +6401,8 @@
             "drink",
             "breakfast"
         ],
-        "image": "/images/smoothie.webp"
+        "image": "/images/smoothie.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "lemonade",
@@ -6355,7 +6454,8 @@
         "tags": [
             "drink"
         ],
-        "image": "/images/lemonade.webp"
+        "image": "/images/lemonade.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "butter-chicken",
@@ -6433,7 +6533,8 @@
             "main-course",
             "indian"
         ],
-        "image": "/images/butter-chicken.webp"
+        "image": "/images/butter-chicken.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "chicken-tikka-masala",
@@ -6514,7 +6615,8 @@
             "main-course",
             "indian"
         ],
-        "image": "/images/chicken-tikka-masala.webp"
+        "image": "/images/chicken-tikka-masala.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "pad-thai",
@@ -6581,7 +6683,8 @@
             "main-course",
             "thai"
         ],
-        "image": "/images/pad-thai.webp"
+        "image": "/images/pad-thai.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "pho",
@@ -6657,7 +6760,8 @@
             "soup",
             "vietnamese"
         ],
-        "image": "/images/pho.webp"
+        "image": "/images/pho.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "ramen",
@@ -6732,7 +6836,8 @@
             "soup",
             "japanese"
         ],
-        "image": "/images/ramen.webp"
+        "image": "/images/ramen.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "fried-rice",
@@ -6798,7 +6903,8 @@
             "side-dish",
             "chinese"
         ],
-        "image": "/images/fried-rice.webp"
+        "image": "/images/fried-rice.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "dumplings",
@@ -6853,7 +6959,8 @@
             "appetizer",
             "chinese"
         ],
-        "image": "/images/dumplings.webp"
+        "image": "/images/dumplings.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "bibimbap",
@@ -6924,7 +7031,8 @@
             "main-course",
             "korean"
         ],
-        "image": "/images/bibimbap.webp"
+        "image": "/images/bibimbap.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "bulgogi",
@@ -6987,7 +7095,8 @@
             "main-course",
             "korean"
         ],
-        "image": "/images/bulgogi.webp"
+        "image": "/images/bulgogi.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "kung-pao-chicken",
@@ -7059,7 +7168,8 @@
             "main-course",
             "chinese"
         ],
-        "image": "/images/kung-pao-chicken.webp"
+        "image": "/images/kung-pao-chicken.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "general-tsos-chicken",
@@ -7136,7 +7246,8 @@
             "main-course",
             "chinese"
         ],
-        "image": "/images/general-tsos-chicken.webp"
+        "image": "/images/general-tsos-chicken.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "orange-chicken",
@@ -7211,7 +7322,8 @@
             "main-course",
             "chinese"
         ],
-        "image": "/images/orange-chicken.webp"
+        "image": "/images/orange-chicken.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "beef-and-broccoli",
@@ -7277,7 +7389,8 @@
             "main-course",
             "chinese"
         ],
-        "image": "/images/beef-and-broccoli.webp"
+        "image": "/images/beef-and-broccoli.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "spring-rolls",
@@ -7350,7 +7463,8 @@
             "appetizer",
             "chinese"
         ],
-        "image": "/images/spring-rolls.webp"
+        "image": "/images/spring-rolls.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "tom-yum-soup",
@@ -7416,7 +7530,8 @@
             "soup",
             "thai"
         ],
-        "image": "/images/tom-yum-soup.webp"
+        "image": "/images/tom-yum-soup.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "teriyaki-chicken",
@@ -7475,7 +7590,8 @@
             "main-course",
             "japanese"
         ],
-        "image": "/images/teriyaki-chicken.webp"
+        "image": "/images/teriyaki-chicken.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "miso-soup",
@@ -7533,7 +7649,8 @@
             "soup",
             "japanese"
         ],
-        "image": "/images/miso-soup.webp"
+        "image": "/images/miso-soup.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "tempura",
@@ -7601,7 +7718,8 @@
             "appetizer",
             "japanese"
         ],
-        "image": "/images/tempura.webp"
+        "image": "/images/tempura.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "sushi-rolls",
@@ -7668,7 +7786,8 @@
             "appetizer",
             "japanese"
         ],
-        "image": "/images/sushi-rolls.webp"
+        "image": "/images/sushi-rolls.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "banh-mi",
@@ -7735,7 +7854,8 @@
             "main-course",
             "vietnamese"
         ],
-        "image": "/images/banh-mi.webp"
+        "image": "/images/banh-mi.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "chicken-satay",
@@ -7808,7 +7928,8 @@
             "main-course",
             "thai"
         ],
-        "image": "/images/chicken-satay.webp"
+        "image": "/images/chicken-satay.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "chicken-adobo",
@@ -7874,7 +7995,8 @@
         "tags": [
             "main-course"
         ],
-        "image": "/images/chicken-adobo.webp"
+        "image": "/images/chicken-adobo.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "naan",
@@ -7940,7 +8062,8 @@
             "bread",
             "indian"
         ],
-        "image": "/images/naan.webp"
+        "image": "/images/naan.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "dal-lentil-curry",
@@ -8006,7 +8129,8 @@
             "main-course",
             "indian"
         ],
-        "image": "/images/dal-lentil-curry.webp"
+        "image": "/images/dal-lentil-curry.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "shakshuka",
@@ -8074,7 +8198,8 @@
             "main-course",
             "middle-eastern"
         ],
-        "image": "/images/shakshuka.webp"
+        "image": "/images/shakshuka.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "falafel",
@@ -8144,7 +8269,8 @@
             "appetizer",
             "middle-eastern"
         ],
-        "image": "/images/falafel.webp"
+        "image": "/images/falafel.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "shawarma",
@@ -8217,7 +8343,8 @@
             "main-course",
             "middle-eastern"
         ],
-        "image": "/images/shawarma.webp"
+        "image": "/images/shawarma.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "kebabs",
@@ -8286,7 +8413,8 @@
             "main-course",
             "middle-eastern"
         ],
-        "image": "/images/kebabs.webp"
+        "image": "/images/kebabs.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "tabbouleh",
@@ -8348,7 +8476,8 @@
             "side-dish",
             "middle-eastern"
         ],
-        "image": "/images/tabbouleh.webp"
+        "image": "/images/tabbouleh.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "baba-ganoush",
@@ -8408,7 +8537,8 @@
             "appetizer",
             "middle-eastern"
         ],
-        "image": "/images/baba-ganoush.webp"
+        "image": "/images/baba-ganoush.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "baklava",
@@ -8474,7 +8604,8 @@
             "dessert",
             "middle-eastern"
         ],
-        "image": "/images/baklava.webp"
+        "image": "/images/baklava.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "pita-bread",
@@ -8532,7 +8663,8 @@
             "bread",
             "middle-eastern"
         ],
-        "image": "/images/pita-bread.webp"
+        "image": "/images/pita-bread.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "lentil-soup",
@@ -8602,7 +8734,8 @@
             "soup",
             "middle-eastern"
         ],
-        "image": "/images/lentil-soup.webp"
+        "image": "/images/lentil-soup.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "paella",
@@ -8669,7 +8802,8 @@
             "main-course",
             "spanish"
         ],
-        "image": "/images/paella.webp"
+        "image": "/images/paella.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "risotto",
@@ -8730,7 +8864,8 @@
             "main-course",
             "italian"
         ],
-        "image": "/images/risotto.webp"
+        "image": "/images/risotto.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "minestrone-soup",
@@ -8807,7 +8942,8 @@
             "soup",
             "italian"
         ],
-        "image": "/images/minestrone-soup.webp"
+        "image": "/images/minestrone-soup.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "focaccia",
@@ -8871,7 +9007,8 @@
             "bread",
             "italian"
         ],
-        "image": "/images/focaccia.webp"
+        "image": "/images/focaccia.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "caprese-salad",
@@ -8929,7 +9066,8 @@
             "side-dish",
             "italian"
         ],
-        "image": "/images/caprese-salad.webp"
+        "image": "/images/caprese-salad.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "cannoli",
@@ -9001,7 +9139,8 @@
             "dessert",
             "italian"
         ],
-        "image": "/images/cannoli.webp"
+        "image": "/images/cannoli.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "crepes",
@@ -9058,7 +9197,8 @@
             "dessert",
             "french"
         ],
-        "image": "/images/crepes.webp"
+        "image": "/images/crepes.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "beef-bourguignon",
@@ -9135,7 +9275,8 @@
             "main-course",
             "french"
         ],
-        "image": "/images/beef-bourguignon.webp"
+        "image": "/images/beef-bourguignon.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "croissants",
@@ -9204,7 +9345,8 @@
             "breakfast",
             "french"
         ],
-        "image": "/images/croissants.webp"
+        "image": "/images/croissants.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "crème-brûlée",
@@ -9264,7 +9406,8 @@
             "dessert",
             "french"
         ],
-        "image": "/images/crème-brûlée.webp"
+        "image": "/images/crème-brûlée.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "french-macarons",
@@ -9331,7 +9474,8 @@
             "dessert",
             "french"
         ],
-        "image": "/images/french-macarons.webp"
+        "image": "/images/french-macarons.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "eclairs",
@@ -9401,7 +9545,8 @@
             "dessert",
             "french"
         ],
-        "image": "/images/eclairs.webp"
+        "image": "/images/eclairs.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "fish-and-chips",
@@ -9463,7 +9608,8 @@
             "main-course",
             "british"
         ],
-        "image": "/images/fish-and-chips.webp"
+        "image": "/images/fish-and-chips.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "sticky-toffee-pudding",
@@ -9534,7 +9680,8 @@
             "dessert",
             "british"
         ],
-        "image": "/images/sticky-toffee-pudding.webp"
+        "image": "/images/sticky-toffee-pudding.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "moussaka",
@@ -9610,7 +9757,8 @@
             "main-course",
             "greek"
         ],
-        "image": "/images/moussaka.webp"
+        "image": "/images/moussaka.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "spanakopita",
@@ -9673,7 +9821,8 @@
             "appetizer",
             "greek"
         ],
-        "image": "/images/spanakopita.webp"
+        "image": "/images/spanakopita.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "pierogi",
@@ -9743,7 +9892,8 @@
             "appetizer",
             "eastern-european"
         ],
-        "image": "/images/pierogi.webp"
+        "image": "/images/pierogi.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "goulash",
@@ -9816,7 +9966,8 @@
             "soup",
             "eastern-european"
         ],
-        "image": "/images/goulash.webp"
+        "image": "/images/goulash.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "wiener-schnitzel",
@@ -9878,7 +10029,8 @@
         "tags": [
             "main-course"
         ],
-        "image": "/images/wiener-schnitzel.webp"
+        "image": "/images/wiener-schnitzel.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "tamales",
@@ -9946,7 +10098,8 @@
             "main-course",
             "mexican"
         ],
-        "image": "/images/tamales.webp"
+        "image": "/images/tamales.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "empanadas",
@@ -10026,7 +10179,8 @@
             "main-course",
             "latin-american"
         ],
-        "image": "/images/empanadas.webp"
+        "image": "/images/empanadas.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "pozole",
@@ -10098,7 +10252,8 @@
             "main-course",
             "mexican"
         ],
-        "image": "/images/pozole.webp"
+        "image": "/images/pozole.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "ceviche",
@@ -10162,7 +10317,8 @@
             "appetizer",
             "latin-american"
         ],
-        "image": "/images/ceviche.webp"
+        "image": "/images/ceviche.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "arroz-con-pollo",
@@ -10232,7 +10388,8 @@
             "main-course",
             "latin-american"
         ],
-        "image": "/images/arroz-con-pollo.webp"
+        "image": "/images/arroz-con-pollo.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "tres-leches-cake",
@@ -10306,7 +10463,8 @@
             "dessert",
             "latin-american"
         ],
-        "image": "/images/tres-leches-cake.webp"
+        "image": "/images/tres-leches-cake.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "churros",
@@ -10373,7 +10531,8 @@
             "latin-american",
             "mexican"
         ],
-        "image": "/images/churros.webp"
+        "image": "/images/churros.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "black-bean-soup",
@@ -10435,7 +10594,8 @@
             "soup",
             "latin-american"
         ],
-        "image": "/images/black-bean-soup.webp"
+        "image": "/images/black-bean-soup.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "flan",
@@ -10494,7 +10654,8 @@
             "dessert",
             "latin-american"
         ],
-        "image": "/images/flan.webp"
+        "image": "/images/flan.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "jambalaya",
@@ -10568,7 +10729,8 @@
             "main-course",
             "american"
         ],
-        "image": "/images/jambalaya.webp"
+        "image": "/images/jambalaya.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "gumbo",
@@ -10644,7 +10806,8 @@
             "soup",
             "american"
         ],
-        "image": "/images/gumbo.webp"
+        "image": "/images/gumbo.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "clam-chowder",
@@ -10708,7 +10871,8 @@
             "soup",
             "american"
         ],
-        "image": "/images/clam-chowder.webp"
+        "image": "/images/clam-chowder.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "lobster-bisque",
@@ -10780,7 +10944,8 @@
             "soup",
             "american"
         ],
-        "image": "/images/lobster-bisque.webp"
+        "image": "/images/lobster-bisque.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "buffalo-wings",
@@ -10844,7 +11009,8 @@
             "appetizer",
             "american"
         ],
-        "image": "/images/buffalo-wings.webp"
+        "image": "/images/buffalo-wings.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "nachos",
@@ -10915,7 +11081,8 @@
             "american",
             "mexican"
         ],
-        "image": "/images/nachos.webp"
+        "image": "/images/nachos.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "blt-sandwich",
@@ -10970,7 +11137,8 @@
             "main-course",
             "american"
         ],
-        "image": "/images/blt-sandwich.webp"
+        "image": "/images/blt-sandwich.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "club-sandwich",
@@ -11029,7 +11197,8 @@
             "main-course",
             "american"
         ],
-        "image": "/images/club-sandwich.webp"
+        "image": "/images/club-sandwich.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "lobster-roll",
@@ -11089,7 +11258,8 @@
             "main-course",
             "american"
         ],
-        "image": "/images/lobster-roll.webp"
+        "image": "/images/lobster-roll.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "crab-cakes",
@@ -11152,7 +11322,8 @@
             "appetizer",
             "american"
         ],
-        "image": "/images/crab-cakes.webp"
+        "image": "/images/crab-cakes.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "fish-tacos",
@@ -11216,7 +11387,8 @@
             "main-course",
             "mexican"
         ],
-        "image": "/images/fish-tacos.webp"
+        "image": "/images/fish-tacos.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "shrimp-tacos",
@@ -11281,7 +11453,8 @@
             "main-course",
             "mexican"
         ],
-        "image": "/images/shrimp-tacos.webp"
+        "image": "/images/shrimp-tacos.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "veggie-burger",
@@ -11352,7 +11525,8 @@
             "main-course",
             "american"
         ],
-        "image": "/images/veggie-burger.webp"
+        "image": "/images/veggie-burger.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "baked-beans",
@@ -11415,7 +11589,8 @@
             "side-dish",
             "american"
         ],
-        "image": "/images/baked-beans.webp"
+        "image": "/images/baked-beans.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "macaroni-salad",
@@ -11481,7 +11656,8 @@
             "side-dish",
             "american"
         ],
-        "image": "/images/macaroni-salad.webp"
+        "image": "/images/macaroni-salad.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "tomato-soup",
@@ -11546,7 +11722,8 @@
             "american",
             "comfort-food"
         ],
-        "image": "/images/tomato-soup.webp"
+        "image": "/images/tomato-soup.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "white-chicken-chili",
@@ -11621,7 +11798,8 @@
             "american",
             "comfort-food"
         ],
-        "image": "/images/white-chicken-chili.webp"
+        "image": "/images/white-chicken-chili.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "tuna-noodle-casserole",
@@ -11696,7 +11874,8 @@
             "american",
             "comfort-food"
         ],
-        "image": "/images/tuna-noodle-casserole.webp"
+        "image": "/images/tuna-noodle-casserole.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "gazpacho",
@@ -11764,7 +11943,8 @@
             "soup",
             "spanish"
         ],
-        "image": "/images/gazpacho.webp"
+        "image": "/images/gazpacho.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "potato-leek-soup",
@@ -11827,7 +12007,8 @@
         "tags": [
             "soup"
         ],
-        "image": "/images/potato-leek-soup.webp"
+        "image": "/images/potato-leek-soup.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "blueberry-muffins",
@@ -11894,7 +12075,8 @@
             "breakfast",
             "american"
         ],
-        "image": "/images/blueberry-muffins.webp"
+        "image": "/images/blueberry-muffins.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "dutch-baby-pancake",
@@ -11955,7 +12137,8 @@
             "breakfast",
             "american"
         ],
-        "image": "/images/dutch-baby-pancake.webp"
+        "image": "/images/dutch-baby-pancake.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "granola",
@@ -12027,7 +12210,8 @@
         "tags": [
             "breakfast"
         ],
-        "image": "/images/granola.webp"
+        "image": "/images/granola.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "acai-bowl",
@@ -12093,7 +12277,8 @@
         "tags": [
             "breakfast"
         ],
-        "image": "/images/acai-bowl.webp"
+        "image": "/images/acai-bowl.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "blueberry-pie",
@@ -12152,7 +12337,8 @@
             "dessert",
             "american"
         ],
-        "image": "/images/blueberry-pie.webp"
+        "image": "/images/blueberry-pie.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "lemon-pound-cake",
@@ -12217,7 +12403,8 @@
             "dessert",
             "american"
         ],
-        "image": "/images/lemon-pound-cake.webp"
+        "image": "/images/lemon-pound-cake.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "snickerdoodles",
@@ -12280,7 +12467,8 @@
             "dessert",
             "american"
         ],
-        "image": "/images/snickerdoodles.webp"
+        "image": "/images/snickerdoodles.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "oatmeal-raisin-cookies",
@@ -12347,7 +12535,8 @@
             "dessert",
             "american"
         ],
-        "image": "/images/oatmeal-raisin-cookies.webp"
+        "image": "/images/oatmeal-raisin-cookies.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "rice-pudding",
@@ -12403,7 +12592,8 @@
         "tags": [
             "dessert"
         ],
-        "image": "/images/rice-pudding.webp"
+        "image": "/images/rice-pudding.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "mochi",
@@ -12460,7 +12650,8 @@
             "dessert",
             "japanese"
         ],
-        "image": "/images/mochi.webp"
+        "image": "/images/mochi.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "garlic-bread",
@@ -12517,7 +12708,8 @@
             "side-dish",
             "italian"
         ],
-        "image": "/images/garlic-bread.webp"
+        "image": "/images/garlic-bread.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "corn-on-the-cob",
@@ -12570,7 +12762,8 @@
             "side-dish",
             "american"
         ],
-        "image": "/images/corn-on-the-cob.webp"
+        "image": "/images/corn-on-the-cob.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "roasted-carrots",
@@ -12625,7 +12818,8 @@
         "tags": [
             "side-dish"
         ],
-        "image": "/images/roasted-carrots.webp"
+        "image": "/images/roasted-carrots.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "steamed-dumplings",
@@ -12692,7 +12886,8 @@
             "appetizer",
             "chinese"
         ],
-        "image": "/images/steamed-dumplings.webp"
+        "image": "/images/steamed-dumplings.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "noodle-stir-fry",
@@ -12756,7 +12951,8 @@
             "main-course",
             "chinese"
         ],
-        "image": "/images/noodle-stir-fry.webp"
+        "image": "/images/noodle-stir-fry.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "chicken-biryani",
@@ -12825,7 +13021,8 @@
             "main-course",
             "indian"
         ],
-        "image": "/images/chicken-biryani.webp"
+        "image": "/images/chicken-biryani.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "samosas",
@@ -12907,7 +13104,8 @@
             "appetizer",
             "indian"
         ],
-        "image": "/images/samosas.webp"
+        "image": "/images/samosas.webp",
+        "datePublished": "2016-03-01"
     },
     {
         "id": "poke-bowl",
@@ -12980,6 +13178,77 @@
         "tags": [
             "main-course"
         ],
-        "image": "/images/poke-bowl.webp"
+        "image": "/images/poke-bowl.webp",
+        "datePublished": "2016-03-01"
+    },
+    {
+        "id": "borscht",
+        "title": "Borscht",
+        "description": "A hearty, deeply satisfying Eastern European beet soup with a signature sweet-sour finish. This classic version features tender beef, vibrant beets, and a medley of vegetables including cabbage, carrots, and potatoes, all simmered in a rich broth and finished with a dollop of sour cream and fresh dill. It improves with time and freezes beautifully.",
+        "prepTime": "25 minutes",
+        "cookTime": "2 hours 30 minutes",
+        "servings": "6-8",
+        "ingredients": [
+            "1.5 pounds bone-in beef shank or beef stew meat, excess fat trimmed",
+            "2 tablespoons vegetable oil",
+            "1 large onion, diced",
+            "3 medium carrots, peeled and diced",
+            "4 medium beets (about 1.5 pounds), peeled and cut into small dice or matchsticks",
+            "3 medium potatoes (about 1 pound), peeled and cut into 1/2-inch cubes",
+            "2 cups shredded green cabbage",
+            "4 cloves garlic, minced",
+            "1 (14-ounce) can diced or crushed tomatoes",
+            "2 tablespoons tomato paste",
+            "8 cups beef broth",
+            "3 tablespoons red wine vinegar, plus more to taste",
+            "1 teaspoon sugar (optional)",
+            "1 bay leaf",
+            "1/2 cup chopped fresh dill, plus more for garnish",
+            "Salt and freshly ground black pepper to taste",
+            "1 cup sour cream, for serving"
+        ],
+        "instructions": [
+            "Heat the vegetable oil in a large heavy-bottomed pot or Dutch oven over medium-high heat. Season the beef all over with salt and pepper. Add the beef to the pot and brown on all sides, about 4–5 minutes per side. Transfer the beef to a plate and set aside.",
+            "Add the onion, carrots, and garlic to the same pot. Cook, stirring and scraping up any browned bits from the bottom, until softened and beginning to brown, about 6 minutes.",
+            "Stir in the tomato paste and cook for 2 minutes, lowering the heat if necessary to prevent scorching.",
+            "Return the beef to the pot. Add the beef broth and bay leaf. Bring to a boil, then reduce heat to a gentle simmer. Cover and cook until the beef is tender and nearly falling off the bone, about 1.5 to 2 hours.",
+            "Remove the beef from the pot and transfer to a cutting board. Discard any bones and connective tissue, then chop or shred the meat into bite-sized pieces. Skim any excess fat from the surface of the broth and discard the bay leaf.",
+            "Return the meat to the pot and bring the broth back to a simmer. Add the beets, potatoes, cabbage, and canned tomatoes. Stir in the sugar if using. Cook until the vegetables are tender, about 25–30 minutes.",
+            "Stir in the red wine vinegar. Taste and adjust seasoning with salt, pepper, and additional vinegar to achieve the desired balance of sweet and sour. Stir in half the fresh dill.",
+            "Ladle the soup into bowls and top each serving with a generous dollop of sour cream and a sprinkle of fresh dill. Serve immediately. Leftovers keep refrigerated for up to 5 days or frozen for up to 3 months."
+        ],
+        "variations": [
+            "Vegetarian borscht: Omit the beef and use vegetable broth instead; add extra beets or white beans for substance.",
+            "Slow cooker method: Combine all ingredients except cabbage and vinegar in a slow cooker; cook on Low for 8 hours or High for 4 hours, adding cabbage in the last 30 minutes and vinegar before serving.",
+            "Add diced kielbasa or smoked sausage along with the vegetables for extra smokiness.",
+            "Use apple cider vinegar or lemon juice in place of red wine vinegar for a slightly different tartness.",
+            "For a richer broth, include a smoked ham hock or beef marrow bones during the simmering stage and remove before serving.",
+            "Green borscht: Omit beets and replace with fresh sorrel for a tangy, verdant alternative.",
+            "Stir a teaspoon of ground toasted caraway seeds into the sour cream before dolloping for a fragrant garnish.",
+            "Add beet greens along with the cabbage for extra color and nutrition.",
+            "Substitute pork shoulder or spare ribs for the beef for a traditional pork-forward version."
+        ],
+        "troubleshooting": [
+            "Q: Why has my borscht lost its vibrant red color?  A: Prolonged cooking or high heat causes the beet pigment to fade; stir in a small amount of freshly grated raw beet or a splash of vinegar near the end of cooking to restore the color.",
+            "Q: Why does my soup taste flat or bland?  A: Borscht relies on a balance of sweet, sour, and savory; add more vinegar for brightness, a pinch of sugar if it tastes too sharp, and adjust salt to bring all the flavors into focus.",
+            "Q: Why is my broth too thin or watery?  A: Simmer the soup uncovered for an additional 15–20 minutes to concentrate the broth, or add a small amount of tomato paste to add body.",
+            "Q: Why is my beef tough after simmering?  A: The beef likely needed more time; continue simmering on low heat, as tougher cuts become tender with extended gentle cooking rather than higher heat.",
+            "Q: Why are my potatoes mushy?  A: Potatoes overcook quickly in acidic broth; add them later in the cooking process and check for doneness after about 15 minutes.",
+            "Q: Why does my borscht taste too sour?  A: Reduce the vinegar next time, or balance the acidity by stirring in a small pinch of sugar and simmering for a few more minutes."
+        ],
+        "sources": [
+            "https://www.seriouseats.com/hot-borscht-beet-meat-soup-recipe",
+            "https://www.simplyrecipes.com/recipes/borscht/",
+            "https://food52.com/recipes/3327-dr-zhivago-borscht",
+            "https://www.allrecipes.com/recipe/109254/slow-cooker-borscht/",
+            "https://www.seriouseats.com/dinner-tonight-vegetarian-borscht-recipe",
+            "https://en.wikipedia.org/wiki/Borscht"
+        ],
+        "tags": [
+            "soup",
+            "eastern-european"
+        ],
+        "datePublished": "2026-03-07",
+        "image": "/images/borscht.webp"
     }
 ]
